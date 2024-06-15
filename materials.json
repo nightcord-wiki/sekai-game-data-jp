@@ -1,0 +1,548 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "name": "キュートピース",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 2,
+        "seq": 2,
+        "name": "クールピース",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 3,
+        "seq": 3,
+        "name": "ピュアピース",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 4,
+        "seq": 4,
+        "name": "ハッピーピース",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 5,
+        "seq": 5,
+        "name": "ミステリアスピース",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "name": "キュートジェム",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "name": "クールジェム",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "name": "ピュアジェム",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "name": "ハッピージェム",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 10,
+        "seq": 10,
+        "name": "ミステリアスジェム",
+        "flavorText": "サイドストーリーの解放やエリアアイテムの交換などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 11,
+        "seq": 11,
+        "name": "魔法の布",
+        "flavorText": "衣装製作に必要なアイテム。ライブなどで手に入る。",
+        "materialType": "costume"
+    },
+    {
+        "id": 12,
+        "seq": 12,
+        "name": "魔法の糸",
+        "flavorText": "衣装製作に必要なアイテム。ライブなどで手に入る。",
+        "materialType": "costume"
+    },
+    {
+        "id": 13,
+        "seq": 13,
+        "name": "ミュージックカード",
+        "flavorText": "音楽ショップで楽曲と交換することができる。ミッションやストーリーなどで手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 14,
+        "seq": 14,
+        "name": "ミラクルジェム",
+        "flavorText": "特訓やサイドストーリーの解放などで必要なアイテム。ライブなどで手に入る。",
+        "materialType": "special_training"
+    },
+    {
+        "id": 15,
+        "seq": 15,
+        "name": "想いのカケラ",
+        "flavorText": "スキルアップなどで必要なアイテム。控え室で★2、★3メンバーを交換することで手に入る。",
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 16,
+        "seq": 16,
+        "name": "想いの純結晶",
+        "flavorText": "スキルアップなどで必要なアイテム。控え室で★4メンバーを交換することで手に入る。",
+        "materialType": "master_lesson"
+    },
+    {
+        "id": 17,
+        "seq": 17,
+        "name": "ふしぎな種",
+        "flavorText": "園芸部に届けることでエリアアイテムと交換することができる。ライブなどで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 18,
+        "seq": 18,
+        "name": "一歌のボーカルカード",
+        "flavorText": "一歌のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 19,
+        "seq": 19,
+        "name": "咲希のボーカルカード",
+        "flavorText": "咲希のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 20,
+        "seq": 20,
+        "name": "穂波のボーカルカード",
+        "flavorText": "穂波のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 21,
+        "seq": 21,
+        "name": "志歩のボーカルカード",
+        "flavorText": "志歩のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 22,
+        "seq": 22,
+        "name": "みのりのボーカルカード",
+        "flavorText": "みのりのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 23,
+        "seq": 23,
+        "name": "遥のボーカルカード",
+        "flavorText": "遥のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 24,
+        "seq": 24,
+        "name": "愛莉のボーカルカード",
+        "flavorText": "愛莉のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 25,
+        "seq": 25,
+        "name": "雫のボーカルカード",
+        "flavorText": "雫のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 26,
+        "seq": 26,
+        "name": "こはねのボーカルカード",
+        "flavorText": "こはねのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 27,
+        "seq": 27,
+        "name": "杏のボーカルカード",
+        "flavorText": "杏のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 28,
+        "seq": 28,
+        "name": "彰人のボーカルカード",
+        "flavorText": "彰人のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 29,
+        "seq": 29,
+        "name": "冬弥のボーカルカード",
+        "flavorText": "冬弥のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 30,
+        "seq": 30,
+        "name": "司のボーカルカード",
+        "flavorText": "司のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 31,
+        "seq": 31,
+        "name": "えむのボーカルカード",
+        "flavorText": "えむのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 32,
+        "seq": 32,
+        "name": "寧々のボーカルカード",
+        "flavorText": "寧々のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 33,
+        "seq": 33,
+        "name": "類のボーカルカード",
+        "flavorText": "類のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 34,
+        "seq": 34,
+        "name": "奏のボーカルカード",
+        "flavorText": "奏のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 35,
+        "seq": 35,
+        "name": "まふゆのボーカルカード",
+        "flavorText": "まふゆのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 36,
+        "seq": 36,
+        "name": "絵名のボーカルカード",
+        "flavorText": "絵名のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 37,
+        "seq": 37,
+        "name": "瑞希のボーカルカード",
+        "flavorText": "瑞希のアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 38,
+        "seq": 38,
+        "name": "ミクのボーカルカード",
+        "flavorText": "ミクのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 39,
+        "seq": 39,
+        "name": "リンのボーカルカード",
+        "flavorText": "リンのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 40,
+        "seq": 40,
+        "name": "レンのボーカルカード",
+        "flavorText": "レンのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 41,
+        "seq": 41,
+        "name": "ルカのボーカルカード",
+        "flavorText": "ルカのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 42,
+        "seq": 42,
+        "name": "MEIKOのボーカルカード",
+        "flavorText": "MEIKOのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 43,
+        "seq": 43,
+        "name": "KAITOのボーカルカード",
+        "flavorText": "KAITOのアナザーボーカルver楽曲と交換することができる。キャラクターランク報酬で手に入る。",
+        "materialType": "music"
+    },
+    {
+        "id": 44,
+        "seq": 44,
+        "name": "スタンプ交換券",
+        "flavorText": "スタンプショップでスタンプと交換することができる。キャラクターランク報酬などで手に入る。",
+        "materialType": "common"
+    },
+    {
+        "id": 45,
+        "seq": 45,
+        "name": "★3メンバーセレクトチケット",
+        "flavorText": "★3チケット交換所で好きな★3メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 46,
+        "seq": 46,
+        "name": "★4メンバーセレクトチケット",
+        "flavorText": "★4チケット交換所で好きな★4メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 47,
+        "seq": 47,
+        "name": "ガチャシール券",
+        "flavorText": "通常ガチャシールと組み合わせて恒常メンバーと交換できる。",
+        "materialType": "gacha_ceil_ticket"
+    },
+    {
+        "id": 48,
+        "seq": 48,
+        "name": "限定ガチャシール券",
+        "flavorText": "限定ガチャシールと組み合わせて期間限定・カラフェス限定・恒常メンバーと交換できる。",
+        "materialType": "gacha_ceil_ticket"
+    },
+    {
+        "id": 49,
+        "seq": 49,
+        "name": "ボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、すべてのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 50,
+        "seq": 50,
+        "name": "Leo/need\nボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、対象ユニットのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 51,
+        "seq": 51,
+        "name": "MORE MORE JUMP！\nボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、対象ユニットのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 52,
+        "seq": 52,
+        "name": "Vivid BAD SQUAD\nボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、対象ユニットのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 53,
+        "seq": 53,
+        "name": "ワンダーランズ×ショウタイム\nボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、対象ユニットのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 54,
+        "seq": 54,
+        "name": "25時、ナイトコードで。\nボーカルカード交換チケット",
+        "flavorText": "ボーカルカード交換所で、対象ユニットのキャラクターのボーカルカードを交換できる。",
+        "materialType": "vocal_card_ticket"
+    },
+    {
+        "id": 55,
+        "seq": 55,
+        "name": "初心者限定セレクトチケット",
+        "flavorText": "[初心者限定]★4メンバー交換所で好きな★4メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 56,
+        "seq": 56,
+        "name": "[新春2022]★3メンバーセレクトチケット",
+        "flavorText": "[新春2022]★3メンバー交換所で好きな★3メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 57,
+        "seq": 17,
+        "name": "願いの雫",
+        "flavorText": "エリアアイテムを特定レベルにアップさせるのに必要なアイテム。",
+        "materialType": "common"
+    },
+    {
+        "id": 58,
+        "seq": 57,
+        "name": "★4メンバーセレクトチケット",
+        "flavorText": "★4チケット交換所で好きな★4メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 59,
+        "seq": 58,
+        "name": "★4メンバーセレクトチケット",
+        "flavorText": "★4チケット交換所で好きな★4メンバーを交換することができる。",
+        "materialType": "card_ticket"
+    },
+    {
+        "id": 64,
+        "seq": 64,
+        "name": "みのりの想いの小瓶",
+        "flavorText": "みのりの想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 65,
+        "seq": 65,
+        "name": "遥の想いの小瓶",
+        "flavorText": "遥の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 66,
+        "seq": 66,
+        "name": "愛莉の想いの小瓶",
+        "flavorText": "愛莉の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 67,
+        "seq": 67,
+        "name": "雫の想いの小瓶",
+        "flavorText": "雫の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 68,
+        "seq": 68,
+        "name": "こはねの想いの小瓶",
+        "flavorText": "こはねの想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 69,
+        "seq": 69,
+        "name": "杏の想いの小瓶",
+        "flavorText": "杏の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 70,
+        "seq": 70,
+        "name": "彰人の想いの小瓶",
+        "flavorText": "彰人の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 71,
+        "seq": 71,
+        "name": "冬弥の想いの小瓶",
+        "flavorText": "冬弥の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 72,
+        "seq": 72,
+        "name": "司の想いの小瓶",
+        "flavorText": "司の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 73,
+        "seq": 73,
+        "name": "えむの想いの小瓶",
+        "flavorText": "えむの想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 74,
+        "seq": 74,
+        "name": "寧々の想いの小瓶",
+        "flavorText": "寧々の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 75,
+        "seq": 75,
+        "name": "類の想いの小瓶",
+        "flavorText": "類の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 76,
+        "seq": 76,
+        "name": "奏の想いの小瓶",
+        "flavorText": "奏の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 77,
+        "seq": 77,
+        "name": "まふゆの想いの小瓶",
+        "flavorText": "まふゆの想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 78,
+        "seq": 78,
+        "name": "絵名の想いの小瓶",
+        "flavorText": "絵名の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 79,
+        "seq": 79,
+        "name": "瑞希の想いの小瓶",
+        "flavorText": "瑞希の想いが詰まった小瓶。\nいつかセカイで使えるようになる時が来るかもしれない。",
+        "materialType": "character_rank_exp_ticket"
+    },
+    {
+        "id": 86,
+        "seq": 86,
+        "name": "サイドストーリーチケット",
+        "flavorText": "サイドストーリーの解放時に、ピースやジェムの代わりに使えるチケット。クリスタルショップで手に入る。",
+        "materialType": "card_episode_release_ticket"
+    },
+    {
+        "id": 87,
+        "seq": 87,
+        "name": "3900'sチケット",
+        "flavorText": "3900's交換所で報酬と交換することができる。\n使用期限：2024/05/14 23:59",
+        "materialType": "common"
+    },
+    {
+        "id": 88,
+        "seq": 88,
+        "name": "「コネクトライブ RESONANCE BEATS!!」コネクトライブver. ボーカル引き換えカード",
+        "flavorText": "「コネクトライブ Leo/need × Vivid BAD SQUAD RESONANCE BEATS!!」の公演内で披露された楽曲のコネクトライブver. ボーカルと引き換えることができる。",
+        "materialType": "auto_exchange_music_vocal_ticket"
+    }
+]

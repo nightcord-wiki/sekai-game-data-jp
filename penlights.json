@@ -1,0 +1,730 @@
+[
+    {
+        "id": 1,
+        "seq": 1,
+        "name": "デフォルト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0001"
+    },
+    {
+        "id": 2,
+        "seq": 2,
+        "name": "ネギのペンライト",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0002"
+    },
+    {
+        "id": 3,
+        "seq": 3,
+        "name": "星のペンライト",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0003"
+    },
+    {
+        "id": 4,
+        "seq": 4,
+        "name": "ハートのペンライト",
+        "defaultPenlightColorId": 8,
+        "assetbundleName": "penlight_0004"
+    },
+    {
+        "id": 5,
+        "seq": 5,
+        "name": "2021年ペンライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0005"
+    },
+    {
+        "id": 6,
+        "seq": 6,
+        "name": "スノークリスタルペンライト",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0006"
+    },
+    {
+        "id": 7,
+        "seq": 7,
+        "name": "穂波のタクトペンライト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0007"
+    },
+    {
+        "id": 8,
+        "seq": 8,
+        "name": "煌めきのドロップ",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0008"
+    },
+    {
+        "id": 9,
+        "seq": 9,
+        "name": "クラシカルペンライト",
+        "defaultPenlightColorId": 13,
+        "assetbundleName": "penlight_0009"
+    },
+    {
+        "id": 10,
+        "seq": 10,
+        "name": "ナーシサスの絵筆",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0010"
+    },
+    {
+        "id": 11,
+        "seq": 11,
+        "name": "だいすきうちわペンライト",
+        "defaultPenlightColorId": 30,
+        "assetbundleName": "penlight_0011"
+    },
+    {
+        "id": 12,
+        "seq": 12,
+        "name": "ぼんぼりペンライト",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0012"
+    },
+    {
+        "id": 13,
+        "seq": 13,
+        "name": "翼のペンライト",
+        "defaultPenlightColorId": 29,
+        "assetbundleName": "penlight_0013"
+    },
+    {
+        "id": 14,
+        "seq": 14,
+        "name": "ひらひら桜ライト",
+        "defaultPenlightColorId": 25,
+        "assetbundleName": "penlight_0014"
+    },
+    {
+        "id": 15,
+        "seq": 15,
+        "name": "ゴーストペンライト",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0015"
+    },
+    {
+        "id": 16,
+        "seq": 16,
+        "name": "ライブチケット風ペンライト",
+        "defaultPenlightColorId": 28,
+        "assetbundleName": "penlight_0016"
+    },
+    {
+        "id": 17,
+        "seq": 17,
+        "name": "決意のマイクライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0017"
+    },
+    {
+        "id": 18,
+        "seq": 18,
+        "name": "てるてるペンライト",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0018"
+    },
+    {
+        "id": 19,
+        "seq": 19,
+        "name": "カーネーションのペンライト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0019"
+    },
+    {
+        "id": 20,
+        "seq": 20,
+        "name": "スターキーボードスティック",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0020"
+    },
+    {
+        "id": 21,
+        "seq": 21,
+        "name": "サンフラワーライト",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0021"
+    },
+    {
+        "id": 22,
+        "seq": 22,
+        "name": "人魚姫のシェルライト",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0022"
+    },
+    {
+        "id": 23,
+        "seq": 23,
+        "name": "忘却のアップルライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0023"
+    },
+    {
+        "id": 24,
+        "seq": 24,
+        "name": "セカイのペンライト",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0024"
+    },
+    {
+        "id": 25,
+        "seq": 25,
+        "name": "1st Anniversaryペンライト",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0025"
+    },
+    {
+        "id": 26,
+        "seq": 26,
+        "name": "ラムレーズンペンライト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0026"
+    },
+    {
+        "id": 27,
+        "seq": 27,
+        "name": "ハロウィンバットペンライト",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0027"
+    },
+    {
+        "id": 28,
+        "seq": 28,
+        "name": "天体ペンライト",
+        "defaultPenlightColorId": 24,
+        "assetbundleName": "penlight_0028"
+    },
+    {
+        "id": 29,
+        "seq": 29,
+        "name": "CLOCKペンライト",
+        "defaultPenlightColorId": 2,
+        "assetbundleName": "penlight_0029"
+    },
+    {
+        "id": 30,
+        "seq": 30,
+        "name": "ペンシルペンライト",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0030"
+    },
+    {
+        "id": 31,
+        "seq": 31,
+        "name": "「CRASH」ペンライト",
+        "defaultPenlightColorId": 30,
+        "assetbundleName": "penlight_0031"
+    },
+    {
+        "id": 32,
+        "seq": 32,
+        "name": "ハッピーベルライト",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0032"
+    },
+    {
+        "id": 33,
+        "seq": 33,
+        "name": "賀正ペンライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0033"
+    },
+    {
+        "id": 34,
+        "seq": 34,
+        "name": "メリーゴーランドペンライト",
+        "defaultPenlightColorId": 15,
+        "assetbundleName": "penlight_0034"
+    },
+    {
+        "id": 35,
+        "seq": 35,
+        "name": "ロリポップペンライト",
+        "defaultPenlightColorId": 8,
+        "assetbundleName": "penlight_0035"
+    },
+    {
+        "id": 36,
+        "seq": 36,
+        "name": "快晴ペンライト",
+        "defaultPenlightColorId": 24,
+        "assetbundleName": "penlight_0036"
+    },
+    {
+        "id": 37,
+        "seq": 37,
+        "name": "マジカルステッキライト",
+        "defaultPenlightColorId": 25,
+        "assetbundleName": "penlight_0037"
+    },
+    {
+        "id": 38,
+        "seq": 38,
+        "name": "パズルピースライト",
+        "defaultPenlightColorId": 28,
+        "assetbundleName": "penlight_0038"
+    },
+    {
+        "id": 39,
+        "seq": 39,
+        "name": "ペンギンペンライト",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0039"
+    },
+    {
+        "id": 40,
+        "seq": 40,
+        "name": "注射器ペンライト",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0040"
+    },
+    {
+        "id": 41,
+        "seq": 41,
+        "name": "メガホンペンライト",
+        "defaultPenlightColorId": 5,
+        "assetbundleName": "penlight_0041"
+    },
+    {
+        "id": 42,
+        "seq": 42,
+        "name": "スパイダーペンライト",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0042"
+    },
+    {
+        "id": 43,
+        "seq": 50,
+        "name": "ジャック・オ・ランタン",
+        "defaultPenlightColorId": 12,
+        "assetbundleName": "penlight_0043"
+    },
+    {
+        "id": 44,
+        "seq": 58,
+        "name": "初富士ペンライト",
+        "defaultPenlightColorId": 2,
+        "assetbundleName": "penlight_0044"
+    },
+    {
+        "id": 45,
+        "seq": 44,
+        "name": "スムージーペンライト",
+        "defaultPenlightColorId": 29,
+        "assetbundleName": "penlight_0045"
+    },
+    {
+        "id": 46,
+        "seq": 45,
+        "name": "アネモネペンライト",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0046"
+    },
+    {
+        "id": 47,
+        "seq": 46,
+        "name": "ゼフィランサスのペンライト",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0047"
+    },
+    {
+        "id": 48,
+        "seq": 47,
+        "name": "「2nd ANNIVERSARY SPECIAL STAGE」ペンライト",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0048"
+    },
+    {
+        "id": 49,
+        "seq": 48,
+        "name": "応援うちわ 遥",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0049"
+    },
+    {
+        "id": 50,
+        "seq": 49,
+        "name": "応援うちわ 穂波",
+        "defaultPenlightColorId": 4,
+        "assetbundleName": "penlight_0050"
+    },
+    {
+        "id": 51,
+        "seq": 51,
+        "name": "応援うちわ MEIKO",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0051"
+    },
+    {
+        "id": 52,
+        "seq": 52,
+        "name": "応援うちわ 彰人",
+        "defaultPenlightColorId": 12,
+        "assetbundleName": "penlight_0052"
+    },
+    {
+        "id": 53,
+        "seq": 55,
+        "name": "応援うちわ 雫",
+        "defaultPenlightColorId": 9,
+        "assetbundleName": "penlight_0053"
+    },
+    {
+        "id": 54,
+        "seq": 57,
+        "name": "応援うちわ リン",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0054"
+    },
+    {
+        "id": 55,
+        "seq": 56,
+        "name": "応援うちわ レン",
+        "defaultPenlightColorId": 24,
+        "assetbundleName": "penlight_0055"
+    },
+    {
+        "id": 56,
+        "seq": 59,
+        "name": "応援うちわ 志歩",
+        "defaultPenlightColorId": 5,
+        "assetbundleName": "penlight_0056"
+    },
+    {
+        "id": 57,
+        "seq": 60,
+        "name": "応援うちわ まふゆ",
+        "defaultPenlightColorId": 19,
+        "assetbundleName": "penlight_0057"
+    },
+    {
+        "id": 58,
+        "seq": 61,
+        "name": "応援うちわ ルカ",
+        "defaultPenlightColorId": 25,
+        "assetbundleName": "penlight_0058"
+    },
+    {
+        "id": 59,
+        "seq": 62,
+        "name": "応援うちわ 奏",
+        "defaultPenlightColorId": 18,
+        "assetbundleName": "penlight_0059"
+    },
+    {
+        "id": 60,
+        "seq": 64,
+        "name": "応援うちわ KAITO",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0060"
+    },
+    {
+        "id": 61,
+        "seq": 66,
+        "name": "応援うちわ こはね",
+        "defaultPenlightColorId": 10,
+        "assetbundleName": "penlight_0061"
+    },
+    {
+        "id": 62,
+        "seq": 69,
+        "name": "応援うちわ 愛莉",
+        "defaultPenlightColorId": 8,
+        "assetbundleName": "penlight_0062"
+    },
+    {
+        "id": 63,
+        "seq": 70,
+        "name": "応援うちわ みのり",
+        "defaultPenlightColorId": 6,
+        "assetbundleName": "penlight_0063"
+    },
+    {
+        "id": 64,
+        "seq": 71,
+        "name": "応援うちわ 絵名",
+        "defaultPenlightColorId": 20,
+        "assetbundleName": "penlight_0064"
+    },
+    {
+        "id": 65,
+        "seq": 73,
+        "name": "応援うちわ 咲希",
+        "defaultPenlightColorId": 3,
+        "assetbundleName": "penlight_0065"
+    },
+    {
+        "id": 66,
+        "seq": 75,
+        "name": "応援うちわ 司",
+        "defaultPenlightColorId": 14,
+        "assetbundleName": "penlight_0066"
+    },
+    {
+        "id": 67,
+        "seq": 76,
+        "name": "応援うちわ 冬弥",
+        "defaultPenlightColorId": 13,
+        "assetbundleName": "penlight_0067"
+    },
+    {
+        "id": 68,
+        "seq": 77,
+        "name": "応援うちわ 類",
+        "defaultPenlightColorId": 17,
+        "assetbundleName": "penlight_0068"
+    },
+    {
+        "id": 69,
+        "seq": 81,
+        "name": "応援うちわ 寧々",
+        "defaultPenlightColorId": 16,
+        "assetbundleName": "penlight_0069"
+    },
+    {
+        "id": 70,
+        "seq": 82,
+        "name": "応援うちわ 杏",
+        "defaultPenlightColorId": 11,
+        "assetbundleName": "penlight_0070"
+    },
+    {
+        "id": 71,
+        "seq": 85,
+        "name": "応援うちわ 一歌",
+        "defaultPenlightColorId": 2,
+        "assetbundleName": "penlight_0071"
+    },
+    {
+        "id": 72,
+        "seq": 88,
+        "name": "応援うちわ 瑞希",
+        "defaultPenlightColorId": 21,
+        "assetbundleName": "penlight_0072"
+    },
+    {
+        "id": 73,
+        "seq": 89,
+        "name": "応援うちわ ミク",
+        "defaultPenlightColorId": 22,
+        "assetbundleName": "penlight_0073"
+    },
+    {
+        "id": 74,
+        "seq": 91,
+        "name": "応援うちわ えむ",
+        "defaultPenlightColorId": 15,
+        "assetbundleName": "penlight_0074"
+    },
+    {
+        "id": 75,
+        "seq": 53,
+        "name": "みずがめ座のペンライト",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0075"
+    },
+    {
+        "id": 76,
+        "seq": 54,
+        "name": "飛行機ペンライト",
+        "defaultPenlightColorId": 27,
+        "assetbundleName": "penlight_0076"
+    },
+    {
+        "id": 77,
+        "seq": 56,
+        "name": "熱情のペンライト",
+        "defaultPenlightColorId": 12,
+        "assetbundleName": "penlight_0077"
+    },
+    {
+        "id": 79,
+        "seq": 72,
+        "name": "肉球ペンライト",
+        "defaultPenlightColorId": 21,
+        "assetbundleName": "penlight_0079"
+    },
+    {
+        "id": 80,
+        "seq": 63,
+        "name": "バレンタインブーケ",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0080"
+    },
+    {
+        "id": 81,
+        "seq": 65,
+        "name": "黒騎士の剣ライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0081"
+    },
+    {
+        "id": 82,
+        "seq": 68,
+        "name": "キャンディペンライト",
+        "defaultPenlightColorId": 2,
+        "assetbundleName": "penlight_0082"
+    },
+    {
+        "id": 83,
+        "seq": 67,
+        "name": "「JUMPIN！」ペンライト",
+        "defaultPenlightColorId": 29,
+        "assetbundleName": "penlight_0083"
+    },
+    {
+        "id": 84,
+        "seq": 74,
+        "name": "「SPARKLE」ペンライト",
+        "defaultPenlightColorId": 28,
+        "assetbundleName": "penlight_0084"
+    },
+    {
+        "id": 85,
+        "seq": 69,
+        "name": "金魚のペンライト",
+        "defaultPenlightColorId": 12,
+        "assetbundleName": "penlight_0085"
+    },
+    {
+        "id": 86,
+        "seq": 78,
+        "name": "ちょうちんお化けライト",
+        "defaultPenlightColorId": 4,
+        "assetbundleName": "penlight_0086"
+    },
+    {
+        "id": 87,
+        "seq": 80,
+        "name": "アクアリウムペンライト",
+        "defaultPenlightColorId": 16,
+        "assetbundleName": "penlight_0087"
+    },
+    {
+        "id": 88,
+        "seq": 79,
+        "name": "「moment」ペンライト",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0088"
+    },
+    {
+        "id": 89,
+        "seq": 83,
+        "name": "「STORIES」ペンライト",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0089"
+    },
+    {
+        "id": 90,
+        "seq": 84,
+        "name": "いちごパフェペンライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0090"
+    },
+    {
+        "id": 91,
+        "seq": 86,
+        "name": "RAD WEEKENDペンライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0091"
+    },
+    {
+        "id": 92,
+        "seq": 87,
+        "name": "クマのポポさんペンライト",
+        "defaultPenlightColorId": 19,
+        "assetbundleName": "penlight_0092"
+    },
+    {
+        "id": 93,
+        "seq": 90,
+        "name": "セカイのキラキラペンライト",
+        "defaultPenlightColorId": 9,
+        "assetbundleName": "penlight_0093"
+    },
+    {
+        "id": 94,
+        "seq": 92,
+        "name": "「3rd ANNIVERSARY Memorial Stage」ペンライト",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0094"
+    },
+    {
+        "id": 95,
+        "seq": 93,
+        "name": "25時、ナイトコードで。ペンライト",
+        "defaultPenlightColorId": 32,
+        "assetbundleName": "penlight_0095"
+    },
+    {
+        "id": 96,
+        "seq": 94,
+        "name": "カチンコペンライト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0096"
+    },
+    {
+        "id": 97,
+        "seq": 96,
+        "name": "破魔矢ペンライト",
+        "defaultPenlightColorId": 4,
+        "assetbundleName": "penlight_0097"
+    },
+    {
+        "id": 98,
+        "seq": 95,
+        "name": "折鶴ペンライト",
+        "defaultPenlightColorId": 4,
+        "assetbundleName": "penlight_0098"
+    },
+    {
+        "id": 99,
+        "seq": 97,
+        "name": "Vivid BAD SQUADペンライト",
+        "defaultPenlightColorId": 30,
+        "assetbundleName": "penlight_0099"
+    },
+    {
+        "id": 100,
+        "seq": 98,
+        "name": "レモンのはちみつ漬けペンライト",
+        "defaultPenlightColorId": 23,
+        "assetbundleName": "penlight_0100"
+    },
+    {
+        "id": 101,
+        "seq": 99,
+        "name": "ワンダーランズ×ショウタイムペンライト",
+        "defaultPenlightColorId": 31,
+        "assetbundleName": "penlight_0101"
+    },
+    {
+        "id": 102,
+        "seq": 102,
+        "name": "牡丹のペンライト",
+        "defaultPenlightColorId": 26,
+        "assetbundleName": "penlight_0102"
+    },
+    {
+        "id": 103,
+        "seq": 103,
+        "name": "MORE MORE JUMP！ペンライト",
+        "defaultPenlightColorId": 29,
+        "assetbundleName": "penlight_0103"
+    },
+    {
+        "id": 104,
+        "seq": 104,
+        "name": "「RESONANCE BEATS!!」ペンライト",
+        "defaultPenlightColorId": 1,
+        "assetbundleName": "penlight_0104"
+    },
+    {
+        "id": 105,
+        "seq": 105,
+        "name": "押し花ペンライト",
+        "defaultPenlightColorId": 7,
+        "assetbundleName": "penlight_0105"
+    }
+]
