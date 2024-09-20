@@ -5674,5 +5674,77 @@
     {
         "cardId": 989,
         "costume3dId": 647162
+    },
+    {
+        "cardId": 993,
+        "costume3dId": 650041
+    },
+    {
+        "cardId": 993,
+        "costume3dId": 650042
+    },
+    {
+        "cardId": 993,
+        "costume3dId": 650161
+    },
+    {
+        "cardId": 994,
+        "costume3dId": 651001
+    },
+    {
+        "cardId": 994,
+        "costume3dId": 651002
+    },
+    {
+        "cardId": 994,
+        "costume3dId": 651049
+    },
+    {
+        "cardId": 995,
+        "costume3dId": 652017
+    },
+    {
+        "cardId": 995,
+        "costume3dId": 652018
+    },
+    {
+        "cardId": 995,
+        "costume3dId": 652049
+    },
+    {
+        "cardId": 998,
+        "costume3dId": 653001
+    },
+    {
+        "cardId": 998,
+        "costume3dId": 653002
+    },
+    {
+        "cardId": 998,
+        "costume3dId": 653161
+    },
+    {
+        "cardId": 999,
+        "costume3dId": 654009
+    },
+    {
+        "cardId": 999,
+        "costume3dId": 654010
+    },
+    {
+        "cardId": 999,
+        "costume3dId": 654161
+    },
+    {
+        "cardId": 1000,
+        "costume3dId": 655033
+    },
+    {
+        "cardId": 1000,
+        "costume3dId": 655034
+    },
+    {
+        "cardId": 1000,
+        "costume3dId": 655049
     }
 ]
