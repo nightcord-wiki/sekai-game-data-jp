@@ -1545,6 +1545,11 @@
         "videoLink": "https://www.youtube.com/watch?v=TMZThivXrj0"
     },
     {
+        "id": 490,
+        "musicId": 490,
+        "videoLink": "https://youtu.be/DWwFK2gjwa8?si=SjtUiUdUpSlSiLOJ"
+    },
+    {
         "id": 491,
         "musicId": 491,
         "videoLink": "https://youtu.be/7gwvBrlUiww?si=LKdKUP9RNbIUZZ3P"
@@ -1683,6 +1688,11 @@
         "id": 569,
         "musicId": 569,
         "videoLink": "https://www.youtube.com/watch?v=yuWfUHKOkiw"
+    },
+    {
+        "id": 580,
+        "musicId": 580,
+        "videoLink": "https://youtu.be/bncdfyVBmI8?si=vjQIJRcAeX2wR_SE"
     },
     {
         "id": 587,

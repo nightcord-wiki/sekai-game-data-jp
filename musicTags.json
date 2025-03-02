@@ -5826,6 +5826,12 @@
         "seq": 0
     },
     {
+        "id": 1010,
+        "musicId": 490,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1011,
         "musicId": 491,
         "musicTag": "all",
@@ -6000,6 +6006,12 @@
         "seq": 0
     },
     {
+        "id": 1044,
+        "musicId": 521,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1045,
         "musicId": 522,
         "musicTag": "all",
@@ -6072,6 +6084,12 @@
         "seq": 0
     },
     {
+        "id": 1059,
+        "musicId": 536,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
         "id": 1064,
         "musicId": 541,
         "musicTag": "all",
@@ -6134,6 +6152,12 @@
     {
         "id": 1077,
         "musicId": 554,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1078,
+        "musicId": 555,
         "musicTag": "all",
         "seq": 0
     },
@@ -6236,6 +6260,12 @@
     {
         "id": 1102,
         "musicId": 579,
+        "musicTag": "all",
+        "seq": 0
+    },
+    {
+        "id": 1103,
+        "musicId": 580,
         "musicTag": "all",
         "seq": 0
     },
@@ -7350,6 +7380,12 @@
         "seq": 5
     },
     {
+        "id": 1527,
+        "musicId": 555,
+        "musicTag": "other",
+        "seq": 7
+    },
+    {
         "id": 1528,
         "musicId": 579,
         "musicTag": "vocaloid",
@@ -7438,5 +7474,29 @@
         "musicId": 587,
         "musicTag": "vocaloid",
         "seq": 1
+    },
+    {
+        "id": 1544,
+        "musicId": 490,
+        "musicTag": "street",
+        "seq": 3
+    },
+    {
+        "id": 1546,
+        "musicId": 536,
+        "musicTag": "other",
+        "seq": 7
+    },
+    {
+        "id": 1547,
+        "musicId": 580,
+        "musicTag": "street",
+        "seq": 3
+    },
+    {
+        "id": 1548,
+        "musicId": 521,
+        "musicTag": "idol",
+        "seq": 4
     }
 ]

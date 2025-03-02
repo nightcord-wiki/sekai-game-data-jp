@@ -7614,10 +7614,129 @@
         "releaseConditionTypeLevel": 30
     },
     {
+        "id": 31115,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1115,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31116,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1116,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31117,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1117,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31118,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1118,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31119,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1119,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31120,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1120,
+        "releaseConditionTypeLevel": 30
+    },
+    {
         "id": 31121,
         "sentence": "レベル60・前編を読了で解放可能",
         "releaseConditionType": "card_level",
         "releaseConditionTypeId": 1121,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31122,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1122,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31123,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1123,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31124,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1124,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31125,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1125,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31126,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1126,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31127,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31128,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31129,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31130,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1130,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31131,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1131,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31132,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1132,
         "releaseConditionTypeLevel": 60
     },
     {
@@ -27611,6 +27730,307 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 64960,
+        "sentence": "「[共鳴する闘争心] 東雲彰人」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1115,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64961,
+        "sentence": "「[共鳴する闘争心] 東雲彰人」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1115,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64962,
+        "sentence": "「[共鳴する闘争心] 東雲彰人」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1115,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64963,
+        "sentence": "「[共鳴する闘争心] 東雲彰人」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1115,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64970,
+        "sentence": "「[互いの武器を振るって] 青柳冬弥」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1116,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64971,
+        "sentence": "「[互いの武器を振るって] 青柳冬弥」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1116,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64972,
+        "sentence": "「[互いの武器を振るって] 青柳冬弥」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1116,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64973,
+        "sentence": "「[互いの武器を振るって] 青柳冬弥」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1116,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64980,
+        "sentence": "「[星のように輝くステージを] 天馬司」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1117,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64981,
+        "sentence": "「[星のように輝くステージを] 天馬司」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1117,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64982,
+        "sentence": "「[星のように輝くステージを] 天馬司」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1117,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64983,
+        "sentence": "「[星のように輝くステージを] 天馬司」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1117,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 64990,
+        "sentence": "「[魔法と発明が織りなすショー] 神代類」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1118,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 64991,
+        "sentence": "「[魔法と発明が織りなすショー] 神代類」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1118,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 64992,
+        "sentence": "「[魔法と発明が織りなすショー] 神代類」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1118,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 64993,
+        "sentence": "「[魔法と発明が織りなすショー] 神代類」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1118,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65060,
+        "sentence": "「[思い出の絵本をめくって] 望月穂波」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1122,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65061,
+        "sentence": "「[思い出の絵本をめくって] 望月穂波」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1122,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65062,
+        "sentence": "「[思い出の絵本をめくって] 望月穂波」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1122,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65063,
+        "sentence": "「[思い出の絵本をめくって] 望月穂波」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1122,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65070,
+        "sentence": "「[スクリーンに映る尻尾] 草薙寧々」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1123,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65071,
+        "sentence": "「[スクリーンに映る尻尾] 草薙寧々」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1123,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65072,
+        "sentence": "「[スクリーンに映る尻尾] 草薙寧々」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1123,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65073,
+        "sentence": "「[スクリーンに映る尻尾] 草薙寧々」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1123,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65080,
+        "sentence": "「[内緒のウィンク！] MEIKO」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1124,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65081,
+        "sentence": "「[内緒のウィンク！] MEIKO」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1124,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65082,
+        "sentence": "「[内緒のウィンク！] MEIKO」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1124,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65083,
+        "sentence": "「[内緒のウィンク！] MEIKO」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1124,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65090,
+        "sentence": "「[難航！企画会議] 天馬咲希」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65091,
+        "sentence": "「[難航！企画会議] 天馬咲希」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65092,
+        "sentence": "「[難航！企画会議] 天馬咲希」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 65093,
+        "sentence": "「[難航！企画会議] 天馬咲希」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65094,
+        "sentence": "「[難航！企画会議] 天馬咲希」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1127,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65100,
+        "sentence": "「[一緒に、ありがとうを込めて] 鳳えむ」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65101,
+        "sentence": "「[一緒に、ありがとうを込めて] 鳳えむ」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65102,
+        "sentence": "「[一緒に、ありがとうを込めて] 鳳えむ」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 65103,
+        "sentence": "「[一緒に、ありがとうを込めて] 鳳えむ」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65104,
+        "sentence": "「[一緒に、ありがとうを込めて] 鳳えむ」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1128,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 65110,
+        "sentence": "「[よしよしノーサンキュー！] 鏡音リン」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 65111,
+        "sentence": "「[よしよしノーサンキュー！] 鏡音リン」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 65112,
+        "sentence": "「[よしよしノーサンキュー！] 鏡音リン」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 65113,
+        "sentence": "「[よしよしノーサンキュー！] 鏡音リン」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 65114,
+        "sentence": "「[よしよしノーサンキュー！] 鏡音リン」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1129,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "キャラクターランク1で解放",
         "releaseConditionType": "character_rank",
@@ -36989,6 +37409,116 @@
         "sentence": "「Rise and Strive」の第8話を読む",
         "releaseConditionType": "event_story",
         "releaseConditionTypeId": 1001282
+    },
+    {
+        "id": 115701,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 115702,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 115703,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 115704,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 115705,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 115706,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 115707,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 158,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 115708,
+        "sentence": "「昔日のRead-aloud」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001290
+    },
+    {
+        "id": 115801,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 115802,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 115803,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 115804,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 115805,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 115806,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 115807,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 159,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 115808,
+        "sentence": "「Connect hearts message」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001298
     },
     {
         "id": 800001,

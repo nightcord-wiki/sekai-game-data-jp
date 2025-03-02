@@ -9347,6 +9347,18 @@
         "description": "「HAPPY BIRTHDAYライブ\n雫 2024」に参加"
     },
     {
+        "id": 847,
+        "stampType": "illustration",
+        "seq": 10850,
+        "name": "[スタンプ]こはね：HAPPY BIRTHDAY",
+        "assetbundleName": "stamp0847",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 9,
+        "gameCharacterUnitId": 9,
+        "archivePublishedAt": 1740722400000,
+        "description": "「HAPPY BIRTHDAYライブ\nこはね 2025」に参加"
+    },
+    {
         "id": 849,
         "stampType": "illustration",
         "seq": 10560,
@@ -9586,6 +9598,82 @@
         "gameCharacterUnitId": 6,
         "archivePublishedAt": 1739167200000,
         "description": "「Rise and Strive\nアフターライブ」に参加"
+    },
+    {
+        "id": 877,
+        "stampType": "illustration",
+        "seq": 10830,
+        "name": "[スタンプ]穂波：めでたしめでたし",
+        "assetbundleName": "stamp0877",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 3,
+        "gameCharacterUnitId": 3,
+        "archivePublishedAt": 1740031200000,
+        "description": "「昔日のRead-aloud\nアフターライブ」に参加"
+    },
+    {
+        "id": 878,
+        "stampType": "illustration",
+        "seq": 10790,
+        "name": "[スタンプ]彰人：ついてこいよ",
+        "assetbundleName": "stamp0878",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 11,
+        "gameCharacterUnitId": 11,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1739599200000,
+        "description": "コラボ限定メンバー「★4[共鳴する闘争心] 東雲彰人」を入手で獲得"
+    },
+    {
+        "id": 879,
+        "stampType": "illustration",
+        "seq": 10800,
+        "name": "[スタンプ]冬弥：会えてよかった",
+        "assetbundleName": "stamp0879",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 12,
+        "gameCharacterUnitId": 12,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1739599200000,
+        "description": "コラボ限定メンバー「★4[互いの武器を振るって] 青柳冬弥」を入手で獲得"
+    },
+    {
+        "id": 880,
+        "stampType": "illustration",
+        "seq": 10810,
+        "name": "[スタンプ]司：いい笑顔だな！",
+        "assetbundleName": "stamp0880",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 13,
+        "gameCharacterUnitId": 13,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1739599200000,
+        "description": "コラボ限定メンバー「★4[星のように輝くステージを] 天馬司」を入手で獲得"
+    },
+    {
+        "id": 881,
+        "stampType": "illustration",
+        "seq": 10820,
+        "name": "[スタンプ]類：とっておきだよ",
+        "assetbundleName": "stamp0881",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 16,
+        "gameCharacterUnitId": 16,
+        "archiveDisplayType": "hide",
+        "archivePublishedAt": 1739599200000,
+        "description": "コラボ限定メンバー「★4[魔法と発明が織りなすショー] 神代類」を入手で獲得"
+    },
+    {
+        "id": 882,
+        "stampType": "illustration",
+        "seq": 10840,
+        "name": "[スタンプ]咲希：いつもありがとう！",
+        "assetbundleName": "stamp0882",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 2,
+        "gameCharacterUnitId": 2,
+        "archivePublishedAt": 1740722400000,
+        "description": "「Connect hearts message\nアフターライブ」に参加"
     },
     {
         "id": 101021,
