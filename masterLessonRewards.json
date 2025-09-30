@@ -14846,5 +14846,701 @@
         "seq": 1,
         "resourceBoxId": 1856,
         "cardRarity": 1
+    },
+    {
+        "id": 1857,
+        "cardId": 1218,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1857,
+        "cardRarity": 1
+    },
+    {
+        "id": 1858,
+        "cardId": 1218,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1858,
+        "cardRarity": 1
+    },
+    {
+        "id": 1859,
+        "cardId": 1218,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1859,
+        "cardRarity": 1
+    },
+    {
+        "id": 1860,
+        "cardId": 1219,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1860,
+        "cardRarity": 1
+    },
+    {
+        "id": 1861,
+        "cardId": 1219,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1861,
+        "cardRarity": 1
+    },
+    {
+        "id": 1862,
+        "cardId": 1219,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1862,
+        "cardRarity": 1
+    },
+    {
+        "id": 1863,
+        "cardId": 1220,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1863,
+        "cardRarity": 1
+    },
+    {
+        "id": 1864,
+        "cardId": 1220,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1864,
+        "cardRarity": 1
+    },
+    {
+        "id": 1865,
+        "cardId": 1220,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1865,
+        "cardRarity": 1
+    },
+    {
+        "id": 1866,
+        "cardId": 1221,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1866,
+        "cardRarity": 1
+    },
+    {
+        "id": 1867,
+        "cardId": 1221,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1867,
+        "cardRarity": 1
+    },
+    {
+        "id": 1868,
+        "cardId": 1221,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1868,
+        "cardRarity": 1
+    },
+    {
+        "id": 1869,
+        "cardId": 1223,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1869,
+        "cardRarity": 1
+    },
+    {
+        "id": 1870,
+        "cardId": 1223,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1870,
+        "cardRarity": 1
+    },
+    {
+        "id": 1871,
+        "cardId": 1223,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1871,
+        "cardRarity": 1
+    },
+    {
+        "id": 1872,
+        "cardId": 1224,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1872,
+        "cardRarity": 1
+    },
+    {
+        "id": 1873,
+        "cardId": 1224,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1873,
+        "cardRarity": 1
+    },
+    {
+        "id": 1874,
+        "cardId": 1224,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1874,
+        "cardRarity": 1
+    },
+    {
+        "id": 1875,
+        "cardId": 1225,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1875,
+        "cardRarity": 1
+    },
+    {
+        "id": 1876,
+        "cardId": 1225,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1876,
+        "cardRarity": 1
+    },
+    {
+        "id": 1877,
+        "cardId": 1225,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1877,
+        "cardRarity": 1
+    },
+    {
+        "id": 1878,
+        "cardId": 1229,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1878,
+        "cardRarity": 1
+    },
+    {
+        "id": 1879,
+        "cardId": 1229,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1879,
+        "cardRarity": 1
+    },
+    {
+        "id": 1880,
+        "cardId": 1229,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1880,
+        "cardRarity": 1
+    },
+    {
+        "id": 1881,
+        "cardId": 1229,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1881,
+        "cardRarity": 1
+    },
+    {
+        "id": 1882,
+        "cardId": 1230,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1882,
+        "cardRarity": 1
+    },
+    {
+        "id": 1883,
+        "cardId": 1230,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1883,
+        "cardRarity": 1
+    },
+    {
+        "id": 1884,
+        "cardId": 1230,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1884,
+        "cardRarity": 1
+    },
+    {
+        "id": 1885,
+        "cardId": 1230,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1885,
+        "cardRarity": 1
+    },
+    {
+        "id": 1886,
+        "cardId": 1231,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1886,
+        "cardRarity": 1
+    },
+    {
+        "id": 1887,
+        "cardId": 1231,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1887,
+        "cardRarity": 1
+    },
+    {
+        "id": 1888,
+        "cardId": 1231,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1888,
+        "cardRarity": 1
+    },
+    {
+        "id": 1889,
+        "cardId": 1231,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1889,
+        "cardRarity": 1
+    },
+    {
+        "id": 1890,
+        "cardId": 1235,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1890,
+        "cardRarity": 1
+    },
+    {
+        "id": 1891,
+        "cardId": 1235,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1891,
+        "cardRarity": 1
+    },
+    {
+        "id": 1892,
+        "cardId": 1235,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1892,
+        "cardRarity": 1
+    },
+    {
+        "id": 1893,
+        "cardId": 1236,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1893,
+        "cardRarity": 1
+    },
+    {
+        "id": 1894,
+        "cardId": 1236,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1894,
+        "cardRarity": 1
+    },
+    {
+        "id": 1895,
+        "cardId": 1236,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1895,
+        "cardRarity": 1
+    },
+    {
+        "id": 1896,
+        "cardId": 1237,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1896,
+        "cardRarity": 1
+    },
+    {
+        "id": 1897,
+        "cardId": 1237,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1897,
+        "cardRarity": 1
+    },
+    {
+        "id": 1898,
+        "cardId": 1237,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1898,
+        "cardRarity": 1
+    },
+    {
+        "id": 1899,
+        "cardId": 1238,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1899,
+        "cardRarity": 1
+    },
+    {
+        "id": 1900,
+        "cardId": 1238,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1900,
+        "cardRarity": 1
+    },
+    {
+        "id": 1901,
+        "cardId": 1238,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1901,
+        "cardRarity": 1
+    },
+    {
+        "id": 1902,
+        "cardId": 1239,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1902,
+        "cardRarity": 1
+    },
+    {
+        "id": 1903,
+        "cardId": 1239,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1903,
+        "cardRarity": 1
+    },
+    {
+        "id": 1904,
+        "cardId": 1239,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1904,
+        "cardRarity": 1
+    },
+    {
+        "id": 1905,
+        "cardId": 1240,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1905,
+        "cardRarity": 1
+    },
+    {
+        "id": 1906,
+        "cardId": 1240,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1906,
+        "cardRarity": 1
+    },
+    {
+        "id": 1907,
+        "cardId": 1240,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1907,
+        "cardRarity": 1
+    },
+    {
+        "id": 1908,
+        "cardId": 1242,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1908,
+        "cardRarity": 1
+    },
+    {
+        "id": 1909,
+        "cardId": 1242,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1909,
+        "cardRarity": 1
+    },
+    {
+        "id": 1910,
+        "cardId": 1242,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1910,
+        "cardRarity": 1
+    },
+    {
+        "id": 1911,
+        "cardId": 1243,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1911,
+        "cardRarity": 1
+    },
+    {
+        "id": 1912,
+        "cardId": 1243,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1912,
+        "cardRarity": 1
+    },
+    {
+        "id": 1913,
+        "cardId": 1243,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1913,
+        "cardRarity": 1
+    },
+    {
+        "id": 1914,
+        "cardId": 1244,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1914,
+        "cardRarity": 1
+    },
+    {
+        "id": 1915,
+        "cardId": 1244,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1915,
+        "cardRarity": 1
+    },
+    {
+        "id": 1916,
+        "cardId": 1244,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1916,
+        "cardRarity": 1
+    },
+    {
+        "id": 1917,
+        "cardId": 1245,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1917,
+        "cardRarity": 1
+    },
+    {
+        "id": 1918,
+        "cardId": 1245,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1918,
+        "cardRarity": 1
+    },
+    {
+        "id": 1919,
+        "cardId": 1245,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1919,
+        "cardRarity": 1
+    },
+    {
+        "id": 1920,
+        "cardId": 1252,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1920,
+        "cardRarity": 1
+    },
+    {
+        "id": 1921,
+        "cardId": 1252,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1921,
+        "cardRarity": 1
+    },
+    {
+        "id": 1922,
+        "cardId": 1252,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1922,
+        "cardRarity": 1
+    },
+    {
+        "id": 1923,
+        "cardId": 1252,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1923,
+        "cardRarity": 1
+    },
+    {
+        "id": 1924,
+        "cardId": 1253,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1924,
+        "cardRarity": 1
+    },
+    {
+        "id": 1925,
+        "cardId": 1253,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1925,
+        "cardRarity": 1
+    },
+    {
+        "id": 1926,
+        "cardId": 1253,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1926,
+        "cardRarity": 1
+    },
+    {
+        "id": 1927,
+        "cardId": 1253,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1927,
+        "cardRarity": 1
+    },
+    {
+        "id": 1928,
+        "cardId": 1254,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1928,
+        "cardRarity": 1
+    },
+    {
+        "id": 1929,
+        "cardId": 1254,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1929,
+        "cardRarity": 1
+    },
+    {
+        "id": 1930,
+        "cardId": 1254,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1930,
+        "cardRarity": 1
+    },
+    {
+        "id": 1931,
+        "cardId": 1254,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1931,
+        "cardRarity": 1
+    },
+    {
+        "id": 1932,
+        "cardId": 1255,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1932,
+        "cardRarity": 1
+    },
+    {
+        "id": 1933,
+        "cardId": 1255,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1933,
+        "cardRarity": 1
+    },
+    {
+        "id": 1934,
+        "cardId": 1255,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1934,
+        "cardRarity": 1
+    },
+    {
+        "id": 1935,
+        "cardId": 1255,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1935,
+        "cardRarity": 1
+    },
+    {
+        "id": 1936,
+        "cardId": 1256,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1936,
+        "cardRarity": 1
+    },
+    {
+        "id": 1937,
+        "cardId": 1256,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1937,
+        "cardRarity": 1
+    },
+    {
+        "id": 1938,
+        "cardId": 1256,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1938,
+        "cardRarity": 1
+    },
+    {
+        "id": 1939,
+        "cardId": 1256,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1939,
+        "cardRarity": 1
+    },
+    {
+        "id": 1940,
+        "cardId": 1257,
+        "masterRank": 1,
+        "seq": 1,
+        "resourceBoxId": 1940,
+        "cardRarity": 1
+    },
+    {
+        "id": 1941,
+        "cardId": 1257,
+        "masterRank": 3,
+        "seq": 1,
+        "resourceBoxId": 1941,
+        "cardRarity": 1
+    },
+    {
+        "id": 1942,
+        "cardId": 1257,
+        "masterRank": 5,
+        "seq": 1,
+        "resourceBoxId": 1942,
+        "cardRarity": 1
+    },
+    {
+        "id": 1943,
+        "cardId": 1257,
+        "masterRank": 2,
+        "seq": 1,
+        "resourceBoxId": 1943,
+        "cardRarity": 1
     }
 ]

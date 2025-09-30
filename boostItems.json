@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "seq": 10,
+        "seq": 155,
         "name": "3900'sライブボーナスドリンク",
         "recoveryValue": 10,
         "assetBundleName": "boost_item15",
@@ -205,6 +205,14 @@
         "name": "ルブランのカレーセット",
         "recoveryValue": 10,
         "assetBundleName": "boost_item26",
+        "flavorText": "ライブボーナスを10回復する。"
+    },
+    {
+        "id": 27,
+        "seq": 270,
+        "name": "おにぎり",
+        "recoveryValue": 10,
+        "assetBundleName": "boost_item27",
         "flavorText": "ライブボーナスを10回復する。"
     }
 ]

@@ -55,6 +55,11 @@
         "mysekaiCharacterTalkConditionTypeValue": 11
     },
     {
+        "id": 14,
+        "mysekaiCharacterTalkConditionType": "mysekai_phenomena_id",
+        "mysekaiCharacterTalkConditionTypeValue": 14
+    },
+    {
         "id": 15,
         "mysekaiCharacterTalkConditionType": "mysekai_phenomena_id",
         "mysekaiCharacterTalkConditionTypeValue": 15
@@ -218,6 +223,31 @@
         "id": 1020,
         "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
         "mysekaiCharacterTalkConditionTypeValue": 1001430
+    },
+    {
+        "id": 1021,
+        "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+        "mysekaiCharacterTalkConditionTypeValue": 1001441
+    },
+    {
+        "id": 1022,
+        "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+        "mysekaiCharacterTalkConditionTypeValue": 1001449
+    },
+    {
+        "id": 1023,
+        "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+        "mysekaiCharacterTalkConditionTypeValue": 1001457
+    },
+    {
+        "id": 1024,
+        "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+        "mysekaiCharacterTalkConditionTypeValue": 1001472
+    },
+    {
+        "id": 1025,
+        "mysekaiCharacterTalkConditionType": "read_event_story_episode_id",
+        "mysekaiCharacterTalkConditionTypeValue": 1001482
     },
     {
         "id": 100001,
@@ -3428,6 +3458,201 @@
         "id": 100761,
         "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
         "mysekaiCharacterTalkConditionTypeValue": 761
+    },
+    {
+        "id": 100802,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 802
+    },
+    {
+        "id": 100803,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 803
+    },
+    {
+        "id": 100804,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 804
+    },
+    {
+        "id": 100805,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 805
+    },
+    {
+        "id": 100806,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 806
+    },
+    {
+        "id": 100807,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 807
+    },
+    {
+        "id": 100808,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 808
+    },
+    {
+        "id": 100809,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 809
+    },
+    {
+        "id": 100810,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 810
+    },
+    {
+        "id": 100811,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 811
+    },
+    {
+        "id": 100812,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 812
+    },
+    {
+        "id": 100813,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 813
+    },
+    {
+        "id": 100814,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 814
+    },
+    {
+        "id": 100815,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 815
+    },
+    {
+        "id": 100837,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 837
+    },
+    {
+        "id": 100838,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 838
+    },
+    {
+        "id": 100839,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 839
+    },
+    {
+        "id": 100840,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 840
+    },
+    {
+        "id": 100841,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 841
+    },
+    {
+        "id": 100842,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 842
+    },
+    {
+        "id": 100843,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 843
+    },
+    {
+        "id": 100844,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 844
+    },
+    {
+        "id": 100845,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 845
+    },
+    {
+        "id": 100846,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 846
+    },
+    {
+        "id": 100847,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 847
+    },
+    {
+        "id": 100848,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 848
+    },
+    {
+        "id": 100979,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 979
+    },
+    {
+        "id": 100980,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 980
+    },
+    {
+        "id": 100981,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 981
+    },
+    {
+        "id": 100982,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 982
+    },
+    {
+        "id": 100983,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 983
+    },
+    {
+        "id": 100984,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 984
+    },
+    {
+        "id": 100985,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 985
+    },
+    {
+        "id": 100986,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 986
+    },
+    {
+        "id": 100987,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 987
+    },
+    {
+        "id": 100988,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 988
+    },
+    {
+        "id": 100989,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 989
+    },
+    {
+        "id": 100990,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 990
+    },
+    {
+        "id": 100991,
+        "mysekaiCharacterTalkConditionType": "mysekai_fixture_id",
+        "mysekaiCharacterTalkConditionTypeValue": 991
     },
     {
         "id": 900002,

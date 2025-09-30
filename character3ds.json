@@ -20408,5 +20408,665 @@
         "headCostume3dId": 823145,
         "hairCostume3dId": 823165,
         "bodyCostume3dId": 823146
+    },
+    {
+        "id": 2057,
+        "characterType": "game_character",
+        "characterId": 1,
+        "unit": "light_sound",
+        "name": "星乃一歌（The Starlight03）",
+        "headCostume3dId": 481007,
+        "hairCostume3dId": 481161,
+        "bodyCostume3dId": 481008
+    },
+    {
+        "id": 2058,
+        "characterType": "game_character",
+        "characterId": 2,
+        "unit": "light_sound",
+        "name": "天馬咲希（The Starlight01）",
+        "headCostume3dId": 481011,
+        "hairCostume3dId": 202,
+        "bodyCostume3dId": 481012
+    },
+    {
+        "id": 2059,
+        "characterType": "game_character",
+        "characterId": 3,
+        "unit": "light_sound",
+        "name": "望月穂波（The Starlight01）",
+        "headCostume3dId": 481019,
+        "hairCostume3dId": 203,
+        "bodyCostume3dId": 481020
+    },
+    {
+        "id": 2060,
+        "characterType": "game_character",
+        "characterId": 4,
+        "unit": "light_sound",
+        "name": "日野森志歩（The Starlight02）",
+        "headCostume3dId": 481029,
+        "hairCostume3dId": 204,
+        "bodyCostume3dId": 481030
+    },
+    {
+        "id": 2061,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "light_sound",
+        "name": "レオニミク（The Starlight02）",
+        "headCostume3dId": 340,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 481134
+    },
+    {
+        "id": 2062,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "piapro",
+        "name": "初音ミク（Elysion Ange）",
+        "headCostume3dId": 804129,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 804130
+    },
+    {
+        "id": 2063,
+        "characterType": "game_character",
+        "characterId": 22,
+        "unit": "piapro",
+        "name": "鏡音リン（Elysion Ange02）",
+        "headCostume3dId": 804141,
+        "hairCostume3dId": 227,
+        "bodyCostume3dId": 804142
+    },
+    {
+        "id": 2064,
+        "characterType": "game_character",
+        "characterId": 23,
+        "unit": "piapro",
+        "name": "鏡音レン（ハミングバード(メンズ)03）",
+        "headCostume3dId": 83039,
+        "hairCostume3dId": 228,
+        "bodyCostume3dId": 83040
+    },
+    {
+        "id": 2065,
+        "characterType": "game_character",
+        "characterId": 24,
+        "unit": "piapro",
+        "name": "巡音ルカ（Elysion Ange01）",
+        "headCostume3dId": 804147,
+        "hairCostume3dId": 229,
+        "bodyCostume3dId": 804148
+    },
+    {
+        "id": 2066,
+        "characterType": "game_character",
+        "characterId": 25,
+        "unit": "piapro",
+        "name": "MEIKO（Elysion Ange03）",
+        "headCostume3dId": 804159,
+        "hairCostume3dId": 230,
+        "bodyCostume3dId": 804160
+    },
+    {
+        "id": 2067,
+        "characterType": "game_character",
+        "characterId": 26,
+        "unit": "piapro",
+        "name": "KAITO（ハミングバード(メンズ)03）",
+        "headCostume3dId": 83047,
+        "hairCostume3dId": 231,
+        "bodyCostume3dId": 83048
+    },
+    {
+        "id": 2068,
+        "characterType": "game_character",
+        "characterId": 5,
+        "unit": "idol",
+        "name": "花里みのり（hope to believe）",
+        "headCostume3dId": 828033,
+        "hairCostume3dId": 205,
+        "bodyCostume3dId": 828034
+    },
+    {
+        "id": 2069,
+        "characterType": "game_character",
+        "characterId": 6,
+        "unit": "idol",
+        "name": "桐谷遥（hope to rise）",
+        "headCostume3dId": 829041,
+        "hairCostume3dId": 206,
+        "bodyCostume3dId": 829042
+    },
+    {
+        "id": 2070,
+        "characterType": "game_character",
+        "characterId": 7,
+        "unit": "idol",
+        "name": "桃井愛莉（hope to persevere）",
+        "headCostume3dId": 830049,
+        "hairCostume3dId": 207,
+        "bodyCostume3dId": 830050
+    },
+    {
+        "id": 2071,
+        "characterType": "game_character",
+        "characterId": 8,
+        "unit": "idol",
+        "name": "日野森雫（hope to strive）",
+        "headCostume3dId": 831057,
+        "hairCostume3dId": 208,
+        "bodyCostume3dId": 831058
+    },
+    {
+        "id": 2072,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "idol",
+        "name": "モモジャンミク（hope to believe01）",
+        "headCostume3dId": 828131,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 828132
+    },
+    {
+        "id": 2073,
+        "characterType": "game_character",
+        "characterId": 9,
+        "unit": "street",
+        "name": "小豆沢こはね（Hip-Hoppin’ candy cat）",
+        "headCostume3dId": 245065,
+        "hairCostume3dId": 209,
+        "bodyCostume3dId": 245066
+    },
+    {
+        "id": 2074,
+        "characterType": "game_character",
+        "characterId": 10,
+        "unit": "street",
+        "name": "白石杏（Hip-Hoppin’ candy cat01）",
+        "headCostume3dId": 245075,
+        "hairCostume3dId": 210,
+        "bodyCostume3dId": 245076
+    },
+    {
+        "id": 2075,
+        "characterType": "game_character",
+        "characterId": 11,
+        "unit": "street",
+        "name": "東雲彰人（MIKU MIKU POP!01）",
+        "headCostume3dId": 21,
+        "hairCostume3dId": 211,
+        "bodyCostume3dId": 246004
+    },
+    {
+        "id": 2076,
+        "characterType": "game_character",
+        "characterId": 12,
+        "unit": "street",
+        "name": "青柳冬弥（MIKU MIKU POP!03）",
+        "headCostume3dId": 23,
+        "hairCostume3dId": 212,
+        "bodyCostume3dId": 246016
+    },
+    {
+        "id": 2077,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "street",
+        "name": "ビビバスミク（Hip-Hoppin’ candy cat03）",
+        "headCostume3dId": 245135,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 245136
+    },
+    {
+        "id": 2078,
+        "characterType": "game_character",
+        "characterId": 17,
+        "unit": "school_refusal",
+        "name": "宵崎奏（Petit pas01）",
+        "headCostume3dId": 832099,
+        "hairCostume3dId": 217,
+        "bodyCostume3dId": 832100
+    },
+    {
+        "id": 2079,
+        "characterType": "game_character",
+        "characterId": 18,
+        "unit": "school_refusal",
+        "name": "朝比奈まふゆ（Petit joie01）",
+        "headCostume3dId": 833107,
+        "hairCostume3dId": 218,
+        "bodyCostume3dId": 833108
+    },
+    {
+        "id": 2080,
+        "characterType": "game_character",
+        "characterId": 19,
+        "unit": "school_refusal",
+        "name": "東雲絵名（Petite joie）",
+        "headCostume3dId": 833113,
+        "hairCostume3dId": 219,
+        "bodyCostume3dId": 833114
+    },
+    {
+        "id": 2081,
+        "characterType": "game_character",
+        "characterId": 20,
+        "unit": "school_refusal",
+        "name": "暁山瑞希（Petit pas）",
+        "headCostume3dId": 832121,
+        "hairCostume3dId": 220,
+        "bodyCostume3dId": 832122
+    },
+    {
+        "id": 2082,
+        "characterType": "game_character",
+        "characterId": 23,
+        "unit": "piapro",
+        "name": "鏡音レン（Petit souhait）",
+        "headCostume3dId": 834033,
+        "hairCostume3dId": 228,
+        "bodyCostume3dId": 834034
+    },
+    {
+        "id": 2083,
+        "characterType": "game_character",
+        "characterId": 13,
+        "unit": "theme_park",
+        "name": "天馬司（Biggest Bluff）",
+        "headCostume3dId": 838017,
+        "hairCostume3dId": 838053,
+        "bodyCostume3dId": 838018
+    },
+    {
+        "id": 2084,
+        "characterType": "game_character",
+        "characterId": 14,
+        "unit": "theme_park",
+        "name": "鳳えむ（Fake Smile）",
+        "headCostume3dId": 839081,
+        "hairCostume3dId": 839165,
+        "bodyCostume3dId": 839082
+    },
+    {
+        "id": 2085,
+        "characterType": "game_character",
+        "characterId": 15,
+        "unit": "theme_park",
+        "name": "草薙寧々（Fake Smile01）",
+        "headCostume3dId": 839091,
+        "hairCostume3dId": 215,
+        "bodyCostume3dId": 839092
+    },
+    {
+        "id": 2086,
+        "characterType": "game_character",
+        "characterId": 16,
+        "unit": "theme_park",
+        "name": "神代類（Ruse Direction）",
+        "headCostume3dId": 840025,
+        "hairCostume3dId": 840053,
+        "bodyCostume3dId": 840026
+    },
+    {
+        "id": 2087,
+        "characterType": "game_character",
+        "characterId": 25,
+        "unit": "piapro",
+        "name": "MEIKO（Fake Smile03）",
+        "headCostume3dId": 839159,
+        "hairCostume3dId": 230,
+        "bodyCostume3dId": 839160
+    },
+    {
+        "id": 2088,
+        "characterType": "game_character",
+        "characterId": 13,
+        "unit": "theme_park",
+        "name": "天馬司（はちみつレモレモン02）",
+        "headCostume3dId": 200021,
+        "hairCostume3dId": 213,
+        "bodyCostume3dId": 200022
+    },
+    {
+        "id": 2089,
+        "characterType": "game_character",
+        "characterId": 14,
+        "unit": "theme_park",
+        "name": "鳳えむ（キャンディホイール01）",
+        "headCostume3dId": 74083,
+        "hairCostume3dId": 74161,
+        "bodyCostume3dId": 74084
+    },
+    {
+        "id": 2090,
+        "characterType": "game_character",
+        "characterId": 15,
+        "unit": "theme_park",
+        "name": "草薙寧々（コーヒーカップバルーン02）",
+        "headCostume3dId": 75093,
+        "hairCostume3dId": 75161,
+        "bodyCostume3dId": 75094
+    },
+    {
+        "id": 2091,
+        "characterType": "game_character",
+        "characterId": 16,
+        "unit": "theme_park",
+        "name": "神代類（はちみつレモレモン01）",
+        "headCostume3dId": 200027,
+        "hairCostume3dId": 216,
+        "bodyCostume3dId": 200028
+    },
+    {
+        "id": 2092,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "theme_park",
+        "name": "ワンダショミク（コーヒーカップバルーン03）",
+        "headCostume3dId": 346,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 75136
+    },
+    {
+        "id": 2093,
+        "characterType": "game_character",
+        "characterId": 9,
+        "unit": "street",
+        "name": "小豆沢こはね（ゆめくいていぱー）",
+        "headCostume3dId": 841065,
+        "hairCostume3dId": 209,
+        "bodyCostume3dId": 841066
+    },
+    {
+        "id": 2094,
+        "characterType": "game_character",
+        "characterId": 11,
+        "unit": "street",
+        "name": "東雲彰人（どりぃみぃ・きゃっと☆彡）",
+        "headCostume3dId": 842001,
+        "hairCostume3dId": 211,
+        "bodyCostume3dId": 842002
+    },
+    {
+        "id": 2095,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "piapro",
+        "name": "初音ミク（Classical Perfume）",
+        "headCostume3dId": 843129,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 843130
+    },
+    {
+        "id": 2096,
+        "characterType": "game_character",
+        "characterId": 22,
+        "unit": "piapro",
+        "name": "鏡音リン（Classical Lipstick）",
+        "headCostume3dId": 844137,
+        "hairCostume3dId": 227,
+        "bodyCostume3dId": 844138
+    },
+    {
+        "id": 2097,
+        "characterType": "game_character",
+        "characterId": 23,
+        "unit": "piapro",
+        "name": "鏡音レン（Classical Gloss）",
+        "headCostume3dId": 845033,
+        "hairCostume3dId": 228,
+        "bodyCostume3dId": 845034
+    },
+    {
+        "id": 2098,
+        "characterType": "game_character",
+        "characterId": 24,
+        "unit": "piapro",
+        "name": "巡音ルカ（Classical Blush）",
+        "headCostume3dId": 846145,
+        "hairCostume3dId": 229,
+        "bodyCostume3dId": 846146
+    },
+    {
+        "id": 2099,
+        "characterType": "game_character",
+        "characterId": 25,
+        "unit": "piapro",
+        "name": "MEIKO（Classical Eyeshadow）",
+        "headCostume3dId": 847153,
+        "hairCostume3dId": 230,
+        "bodyCostume3dId": 847154
+    },
+    {
+        "id": 2100,
+        "characterType": "game_character",
+        "characterId": 26,
+        "unit": "piapro",
+        "name": "KAITO（Classical Nails）",
+        "headCostume3dId": 848041,
+        "hairCostume3dId": 231,
+        "bodyCostume3dId": 848042
+    },
+    {
+        "id": 2101,
+        "characterType": "game_character",
+        "characterId": 5,
+        "unit": "idol",
+        "name": "花里みのり（sparkle of trust02）",
+        "headCostume3dId": 605037,
+        "hairCostume3dId": 205,
+        "bodyCostume3dId": 605038
+    },
+    {
+        "id": 2102,
+        "characterType": "game_character",
+        "characterId": 6,
+        "unit": "idol",
+        "name": "桐谷遥（sparkle of resolve03）",
+        "headCostume3dId": 604047,
+        "hairCostume3dId": 206,
+        "bodyCostume3dId": 604048
+    },
+    {
+        "id": 2103,
+        "characterType": "game_character",
+        "characterId": 7,
+        "unit": "idol",
+        "name": "桃井愛莉（sparkle of resolve02）",
+        "headCostume3dId": 604053,
+        "hairCostume3dId": 207,
+        "bodyCostume3dId": 604054
+    },
+    {
+        "id": 2104,
+        "characterType": "game_character",
+        "characterId": 8,
+        "unit": "idol",
+        "name": "日野森雫（sparkle of trust02）",
+        "headCostume3dId": 605061,
+        "hairCostume3dId": 208,
+        "bodyCostume3dId": 605062
+    },
+    {
+        "id": 2105,
+        "characterType": "game_character",
+        "characterId": 26,
+        "unit": "piapro",
+        "name": "KAITO（sparkle of smarts02）",
+        "headCostume3dId": 606045,
+        "hairCostume3dId": 231,
+        "bodyCostume3dId": 606046
+    },
+    {
+        "id": 2106,
+        "characterType": "game_character",
+        "characterId": 1,
+        "unit": "light_sound",
+        "name": "星乃一歌（see-p-ta-ni-ka stars(レディース)）",
+        "headCostume3dId": 853001,
+        "hairCostume3dId": 201,
+        "bodyCostume3dId": 853002
+    },
+    {
+        "id": 2107,
+        "characterType": "game_character",
+        "characterId": 5,
+        "unit": "idol",
+        "name": "花里みのり（see-p-ta-ni-ka stars(レディース)01）",
+        "headCostume3dId": 853035,
+        "hairCostume3dId": 205,
+        "bodyCostume3dId": 853036
+    },
+    {
+        "id": 2108,
+        "characterType": "game_character",
+        "characterId": 9,
+        "unit": "street",
+        "name": "小豆沢こはね（see-p-ta-ni-ka stars(レディース)02）",
+        "headCostume3dId": 853069,
+        "hairCostume3dId": 209,
+        "bodyCostume3dId": 853070
+    },
+    {
+        "id": 2109,
+        "characterType": "game_character",
+        "characterId": 13,
+        "unit": "theme_park",
+        "name": "天馬司（see-p-ta-ni-ka stars(メンズ)）",
+        "headCostume3dId": 854017,
+        "hairCostume3dId": 213,
+        "bodyCostume3dId": 854018
+    },
+    {
+        "id": 2110,
+        "characterType": "game_character",
+        "characterId": 17,
+        "unit": "school_refusal",
+        "name": "宵崎奏（see-p-ta-ni-ka stars(レディース)03）",
+        "headCostume3dId": 853103,
+        "hairCostume3dId": 217,
+        "bodyCostume3dId": 853104
+    },
+    {
+        "id": 2111,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "piapro",
+        "name": "初音ミク（see-p-ta-ni-ka stars(レディース)）",
+        "headCostume3dId": 853129,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 853130
+    },
+    {
+        "id": 2112,
+        "characterType": "game_character",
+        "characterId": 9,
+        "unit": "street",
+        "name": "小豆沢こはね（Awesome Wings03）",
+        "headCostume3dId": 867071,
+        "hairCostume3dId": 209,
+        "bodyCostume3dId": 867072
+    },
+    {
+        "id": 2113,
+        "characterType": "game_character",
+        "characterId": 10,
+        "unit": "street",
+        "name": "白石杏（Awesome Wings）",
+        "headCostume3dId": 867073,
+        "hairCostume3dId": 867165,
+        "bodyCostume3dId": 867074
+    },
+    {
+        "id": 2114,
+        "characterType": "game_character",
+        "characterId": 11,
+        "unit": "street",
+        "name": "東雲彰人（=esprit01）",
+        "headCostume3dId": 779003,
+        "hairCostume3dId": 211,
+        "bodyCostume3dId": 779004
+    },
+    {
+        "id": 2115,
+        "characterType": "game_character",
+        "characterId": 12,
+        "unit": "street",
+        "name": "青柳冬弥（=esprit01）",
+        "headCostume3dId": 779011,
+        "hairCostume3dId": 212,
+        "bodyCostume3dId": 779012
+    },
+    {
+        "id": 2116,
+        "characterType": "game_character",
+        "characterId": 21,
+        "unit": "street",
+        "name": "ビビバスミク（Awesome Wings01）",
+        "headCostume3dId": 867131,
+        "hairCostume3dId": 221,
+        "bodyCostume3dId": 867132
+    },
+    {
+        "id": 2117,
+        "characterType": "game_character",
+        "characterId": 11,
+        "unit": "street",
+        "name": "東雲彰人（=esprit01）",
+        "headCostume3dId": 320,
+        "hairCostume3dId": 211,
+        "bodyCostume3dId": 779004
+    },
+    {
+        "id": 2118,
+        "characterType": "game_character",
+        "characterId": 12,
+        "unit": "street",
+        "name": "青柳冬弥（=esprit01）",
+        "headCostume3dId": 23,
+        "hairCostume3dId": 212,
+        "bodyCostume3dId": 779012
+    },
+    {
+        "id": 2119,
+        "characterType": "game_character",
+        "characterId": 19,
+        "unit": "school_refusal",
+        "name": "東雲絵名（Awesome Ribbon01）",
+        "headCostume3dId": 870115,
+        "hairCostume3dId": 219,
+        "bodyCostume3dId": 870116
+    },
+    {
+        "id": 2120,
+        "characterType": "game_character",
+        "characterId": 20,
+        "unit": "school_refusal",
+        "name": "暁山瑞希（Awesome Ribbon）",
+        "headCostume3dId": 870121,
+        "hairCostume3dId": 870165,
+        "bodyCostume3dId": 870122
+    },
+    {
+        "id": 2121,
+        "characterType": "game_character",
+        "characterId": 17,
+        "unit": "school_refusal",
+        "name": "宵崎奏（CHECK IT!!）",
+        "headCostume3dId": 871097,
+        "hairCostume3dId": 217,
+        "bodyCostume3dId": 871098
+    },
+    {
+        "id": 2122,
+        "characterType": "game_character",
+        "characterId": 23,
+        "unit": "piapro",
+        "name": "鏡音レン（HAPPY Flower）",
+        "headCostume3dId": 872033,
+        "hairCostume3dId": 228,
+        "bodyCostume3dId": 872034
     }
 ]

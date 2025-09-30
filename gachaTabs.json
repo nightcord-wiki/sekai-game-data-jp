@@ -988,5 +988,111 @@
         ],
         "seq": 570,
         "assetbundleName": "ab_gacha_tab_23"
+    },
+    {
+        "id": 101,
+        "childGachaIds": [
+            783,
+            784,
+            785,
+            786
+        ],
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_24"
+    },
+    {
+        "id": 102,
+        "childGachaIds": [
+            787,
+            788
+        ],
+        "seq": 560,
+        "assetbundleName": "ab_gacha_tab_30"
+    },
+    {
+        "id": 103,
+        "childGachaIds": [
+            790,
+            791,
+            792,
+            793
+        ],
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_25"
+    },
+    {
+        "id": 104,
+        "childGachaIds": [
+            795,
+            796,
+            797,
+            798
+        ],
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_26"
+    },
+    {
+        "id": 105,
+        "childGachaIds": [
+            804,
+            805,
+            806,
+            807
+        ],
+        "seq": 570,
+        "assetbundleName": "ab_gacha_tab_27"
+    },
+    {
+        "id": 106,
+        "childGachaIds": [
+            808,
+            809
+        ],
+        "seq": 560,
+        "assetbundleName": "ab_gacha_tab_30"
+    },
+    {
+        "id": 107,
+        "childGachaIds": [
+            818,
+            819,
+            820,
+            821,
+            822,
+            823
+        ],
+        "seq": 410,
+        "assetbundleName": "ab_gacha_tab_34"
+    },
+    {
+        "id": 108,
+        "childGachaIds": [
+            825,
+            840
+        ],
+        "seq": 200,
+        "assetbundleName": "ab_gacha_tab_35"
+    },
+    {
+        "id": 109,
+        "childGachaIds": [
+            826,
+            827,
+            828,
+            829,
+            830,
+            831
+        ],
+        "seq": 250,
+        "assetbundleName": "ab_gacha_tab_36"
+    },
+    {
+        "id": 110,
+        "childGachaIds": [
+            836,
+            837
+        ],
+        "seq": 280,
+        "assetbundleName": "ab_gacha_tab_2"
     }
 ]

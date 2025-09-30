@@ -853,7 +853,8 @@
         "seq": 2200101,
         "releaseConditionId": 1,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "needLe",
         "pronunciation": "にーどる",
@@ -2705,9 +2706,9 @@
         "title": "再生",
         "pronunciation": "さいせい",
         "creatorArtistId": 79,
-        "lyricist": "Picon",
-        "composer": "Picon",
-        "arranger": "Picon",
+        "lyricist": "ピコン",
+        "composer": "ピコン",
+        "arranger": "ピコン",
         "dancerCount": 1,
         "selfDancerPosition": 0,
         "assetbundleName": "jacket_s_142",
@@ -9164,7 +9165,8 @@
         "seq": 1334701,
         "releaseConditionId": 5,
         "categories": [
-            "original"
+            "original",
+            "mv_2d"
         ],
         "title": "さよならプリンセス",
         "pronunciation": "さよならぷりんせす",
@@ -12042,7 +12044,8 @@
         "seq": 2352301,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "イレヴンス",
         "pronunciation": "いれヴんす",
@@ -12066,7 +12069,8 @@
         "seq": 2651701,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "虚無さん",
         "pronunciation": "にひるさん",
@@ -12471,11 +12475,36 @@
         "isFullLength": false
     },
     {
+        "id": 559,
+        "seq": 1255701,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "おどりゃんせ",
+        "pronunciation": "おどりゃんせ",
+        "creatorArtistId": 277,
+        "lyricist": "ユリイ・カノン",
+        "composer": "ユリイ・カノン",
+        "arranger": "ユリイ・カノン",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_559",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759298400000,
+        "releasedAt": 1477407600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 560,
         "seq": 2553501,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "アイリッド",
         "pronunciation": "あいりっど",
@@ -12662,6 +12691,54 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 571,
+        "seq": 1455401,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "偽物人間40号",
+        "pronunciation": "にせものにんげんよんじゅうごう",
+        "creatorArtistId": 279,
+        "lyricist": "¿?shimon",
+        "composer": "¿?shimon",
+        "arranger": "¿?shimon",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_571",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1758693600000,
+        "releasedAt": 1622818800000,
+        "liveStageId": 1,
+        "fillerSec": 9.535699844360352,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 572,
+        "seq": 2654701,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "飾って",
+        "pronunciation": "かざって",
+        "creatorArtistId": 161,
+        "lyricist": "大沼パセリ",
+        "composer": "大沼パセリ",
+        "arranger": "大沼パセリ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_572",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1756386300000,
+        "releasedAt": 1756306800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
     {
@@ -12939,6 +13016,30 @@
         "releasedAt": 1754406000000,
         "liveStageId": 1,
         "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 585,
+        "seq": 2755501,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "ペンタトニック",
+        "pronunciation": "ぺんたとにっく",
+        "creatorArtistId": 299,
+        "lyricist": "syudou・バルーン",
+        "composer": "syudou・バルーン",
+        "arranger": "syudou・バルーン",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_585",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759158000000,
+        "releasedAt": 1759158000000,
+        "liveStageId": 1,
+        "fillerSec": 8.25469970703125,
         "isNewlyWrittenMusic": true,
         "isFullLength": false
     },
@@ -13375,6 +13476,30 @@
         "isFullLength": false
     },
     {
+        "id": 621,
+        "seq": 1355901,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "東京サマーセッション",
+        "pronunciation": "とうきょうさまーせっしょん",
+        "creatorArtistId": 163,
+        "lyricist": "Gom, shito",
+        "composer": "Gom, Oji",
+        "arranger": "HoneyWorks",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_621",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759471200000,
+        "releasedAt": 1437663600000,
+        "liveStageId": 1,
+        "fillerSec": 9.375,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 622,
         "seq": 3751601,
         "releaseConditionId": 5,
@@ -13544,6 +13669,54 @@
         "releasedAt": 1732201200000,
         "liveStageId": 1,
         "fillerSec": 8.090900421142578,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 629,
+        "seq": 1355001,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "8.32",
+        "pronunciation": "はってんさんにー",
+        "creatorArtistId": 99,
+        "lyricist": "*Luna",
+        "composer": "*Luna",
+        "arranger": "*Luna",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_629",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1756706400000,
+        "releasedAt": 1530889200000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 632,
+        "seq": 1454401,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Surges",
+        "pronunciation": "さーじず",
+        "creatorArtistId": 10,
+        "lyricist": "Orangestar",
+        "composer": "Orangestar",
+        "arranger": "Orangestar",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_632",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1754978400000,
+        "releasedAt": 1629644400000,
+        "liveStageId": 1,
+        "fillerSec": 7.686200141906738,
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
@@ -13740,6 +13913,30 @@
         "isFullLength": false
     },
     {
+        "id": 645,
+        "seq": 1255201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "深海シティアンダーグラウンド",
+        "pronunciation": "しんかいしてぃあんだーぐらうんど",
+        "creatorArtistId": 294,
+        "lyricist": "田中B",
+        "composer": "田中B",
+        "arranger": "田中B",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_645",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1758002400000,
+        "releasedAt": 1321887600000,
+        "liveStageId": 1,
+        "fillerSec": 7.941199779510498,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 646,
         "seq": 2253601,
         "releaseConditionId": 10,
@@ -13764,6 +13961,30 @@
         "isFullLength": false
     },
     {
+        "id": 647,
+        "seq": 1154601,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "SAN値直葬",
+        "pronunciation": "さんちちょくそう",
+        "creatorArtistId": 293,
+        "lyricist": "STEAKA",
+        "composer": "STEAKA",
+        "arranger": "STEAKA",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_647",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1755842400000,
+        "releasedAt": 1734620400000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 648,
         "seq": 1154201,
         "releaseConditionId": 10,
@@ -13785,6 +14006,223 @@
         "liveStageId": 1,
         "fillerSec": 7.758600234985352,
         "musicCollaborationId": 9,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 649,
+        "seq": 2554901,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "サヨナラ天国また来て地獄",
+        "pronunciation": "さよならてんごくまたきてじごく",
+        "creatorArtistId": 211,
+        "lyricist": "john",
+        "composer": "john",
+        "arranger": "john",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_649",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1756533600000,
+        "releasedAt": 1756479600000,
+        "liveStageId": 1,
+        "fillerSec": 7.407100200653076,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
+        "id": 650,
+        "seq": 1655101,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "あの夏が飽和する。",
+        "pronunciation": "あのなつがほうわする",
+        "creatorArtistId": 13,
+        "lyricist": "カンザキイオリ",
+        "composer": "カンザキイオリ",
+        "arranger": "カンザキイオリ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_650",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1757311200000,
+        "releasedAt": 1533999600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 654,
+        "seq": 1154801,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "ラストラス",
+        "pronunciation": "らすとらす",
+        "creatorArtistId": 99,
+        "lyricist": "*Luna",
+        "composer": "*Luna",
+        "arranger": "-",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_654",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1756447200000,
+        "releasedAt": 1750950000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 655,
+        "seq": 1154501,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "リリィララ",
+        "pronunciation": "りりぃらら",
+        "creatorArtistId": 292,
+        "lyricist": "ざんぎ",
+        "composer": "ざんぎ",
+        "arranger": "ざんぎ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_655",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1755496800000,
+        "releasedAt": 1748530800000,
+        "liveStageId": 1,
+        "fillerSec": 7.999899864196777,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 656,
+        "seq": 1155301,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ブラッドドール",
+        "pronunciation": "ぶらっどどーる",
+        "creatorArtistId": 295,
+        "lyricist": "フユウ",
+        "composer": "フユウ",
+        "arranger": "フユウ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_656",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1758520800000,
+        "releasedAt": 1748530800000,
+        "liveStageId": 1,
+        "fillerSec": 8.199999809265137,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 663,
+        "seq": 1156001,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ヴィーナス",
+        "pronunciation": "ヴぃーなす",
+        "creatorArtistId": 137,
+        "lyricist": "ナナホシ管弦楽団",
+        "composer": "岩見 陸",
+        "arranger": "ナナホシ管弦楽団",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_663",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759557600000,
+        "releasedAt": 1718982000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 666,
+        "seq": 1155801,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "少女A",
+        "pronunciation": "しょうじょえー",
+        "creatorArtistId": 111,
+        "lyricist": "椎名もた",
+        "composer": "椎名もた",
+        "arranger": "-",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_666",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759384800000,
+        "releasedAt": 1381071600000,
+        "liveStageId": 1,
+        "fillerSec": 9.46150016784668,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 672,
+        "seq": 1456101,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ハウトゥー世界征服",
+        "pronunciation": "はうとぅーせかいせいふく",
+        "creatorArtistId": 12,
+        "lyricist": "Neru",
+        "composer": "Neru",
+        "arranger": "Neru",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_672",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759644000000,
+        "releasedAt": 1362754800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 675,
+        "seq": 1755601,
+        "releaseConditionId": 1,
+        "categories": [
+            "image"
+        ],
+        "title": "プロセカULTIMATE楽曲メドレー",
+        "pronunciation": "ぷろせかあるてぃめっとがっきょくめどれー",
+        "creatorArtistId": 297,
+        "lyricist": "-",
+        "composer": "-",
+        "arranger": "-",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_675",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1759212000000,
+        "releasedAt": 1759730400000,
+        "liveStageId": 1,
+        "fillerSec": 9.133000373840332,
+        "musicCollaborationId": 10,
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     }

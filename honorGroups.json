@@ -2670,6 +2670,12 @@
         "honorType": "achievement"
     },
     {
+        "id": 426,
+        "name": "HAPPY BIRTHDAY 一歌 2025.8.11",
+        "pronunciation": "はっぴーばーすでーいちか2025.8.11",
+        "honorType": "event"
+    },
+    {
         "id": 427,
         "name": "HAPPY BIRTHDAY 咲希 2025.5.9",
         "pronunciation": "はっぴーばーすでーさき2025.5.9",
@@ -2742,6 +2748,12 @@
         "honorType": "event"
     },
     {
+        "id": 439,
+        "name": "HAPPY BIRTHDAY えむ 2025.9.9",
+        "pronunciation": "はっぴーばーすでーえむ2025.9.9",
+        "honorType": "event"
+    },
+    {
         "id": 440,
         "name": "HAPPY BIRTHDAY 寧々 2025.7.20",
         "pronunciation": "はっぴーばーすでーねね2025.7.20",
@@ -2769,6 +2781,18 @@
         "id": 444,
         "name": "HAPPY BIRTHDAY 絵名 2025.4.30",
         "pronunciation": "はっぴーばーすでーえな2025.4.30",
+        "honorType": "event"
+    },
+    {
+        "id": 445,
+        "name": "HAPPY BIRTHDAY 瑞希 2025.8.27",
+        "pronunciation": "はっぴーばーすでーみずき2025.8.27",
+        "honorType": "event"
+    },
+    {
+        "id": 446,
+        "name": "HAPPY ANNIVERSARY ミク 2025.8.31",
+        "pronunciation": "はっぴーあにばーさりーみく2025.8.31",
         "honorType": "event"
     },
     {
@@ -3299,5 +3323,172 @@
         "pronunciation": "こんぺてぃてぃぶ　ふぁいやー",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_competitive"
+    },
+    {
+        "id": 524,
+        "name": "All ways Jump! with you 総合",
+        "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー そうごう",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol"
+    },
+    {
+        "id": 525,
+        "name": "All ways Jump! with you チャプター1",
+        "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー1",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp1",
+        "frameName": "event_wl_2nd_idol_cp1"
+    },
+    {
+        "id": 526,
+        "name": "All ways Jump! with you チャプター2",
+        "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー2",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp2",
+        "frameName": "event_wl_2nd_idol_cp2"
+    },
+    {
+        "id": 527,
+        "name": "All ways Jump! with you チャプター3",
+        "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー3",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp3",
+        "frameName": "event_wl_2nd_idol_cp3"
+    },
+    {
+        "id": 528,
+        "name": "All ways Jump! with you チャプター4",
+        "pronunciation": "おーる　うぇいず　じゃんぷ！　うぃず　ゆー ちゃぷたー4",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_idol_cp4",
+        "frameName": "event_wl_2nd_idol_cp4"
+    },
+    {
+        "id": 529,
+        "name": "ほどけぬ明日に手を伸ばして",
+        "pronunciation": "ほどけぬあすにてをのばして",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_tomorrow"
+    },
+    {
+        "id": 530,
+        "name": "Deep Dark For Light",
+        "pronunciation": "でぃーぷだーくふぉーらいと",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_forlight"
+    },
+    {
+        "id": 531,
+        "name": "Link the Beats！ 総合",
+        "pronunciation": "りんくざびーつ！ そうごう",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro"
+    },
+    {
+        "id": 532,
+        "name": "Link the Beats！ チャプター1",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー1",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp1",
+        "frameName": "event_wl_2nd_piapro_cp1"
+    },
+    {
+        "id": 533,
+        "name": "Link the Beats！ チャプター2",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー2",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp2",
+        "frameName": "event_wl_2nd_piapro_cp2"
+    },
+    {
+        "id": 534,
+        "name": "Link the Beats！ チャプター3",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー3",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp3",
+        "frameName": "event_wl_2nd_piapro_cp3"
+    },
+    {
+        "id": 535,
+        "name": "Link the Beats！ チャプター4",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー4",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp4",
+        "frameName": "event_wl_2nd_piapro_cp4"
+    },
+    {
+        "id": 536,
+        "name": "Link the Beats！ チャプター5",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー5",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp5",
+        "frameName": "event_wl_2nd_piapro_cp5"
+    },
+    {
+        "id": 537,
+        "name": "Link the Beats！ チャプター6",
+        "pronunciation": "りんくざびーつ！ ちゃぷたー6",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_piapro_cp6",
+        "frameName": "event_wl_2nd_piapro_cp6"
+    },
+    {
+        "id": 538,
+        "name": "Wishes in Bloom！",
+        "pronunciation": "うぃっしーず　いん　ぶるーむ！",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wl_2nd_finale"
+    },
+    {
+        "id": 544,
+        "name": "HAPPY BIRTHDAY 遥 2025.10.5",
+        "pronunciation": "はっぴーばーすでーはるか2025.10.5",
+        "honorType": "birthday",
+        "backgroundAssetbundleName": "honor_bg_birthday_01_06",
+        "frameName": "honor_frame_birthday_01_06"
+    },
+    {
+        "id": 565,
+        "name": "エメラルド",
+        "pronunciation": "えめらるど",
+        "honorType": "achievement"
+    },
+    {
+        "id": 566,
+        "name": "ずっとそばにいる",
+        "pronunciation": "ずっとそばにいる",
+        "honorType": "achievement"
+    },
+    {
+        "id": 567,
+        "name": "5th ANNIVERSARY",
+        "pronunciation": "ふぃふすあにばーさりー",
+        "honorType": "event"
+    },
+    {
+        "id": 573,
+        "name": "ベストクリエイター 遥 BDパーティー '25",
+        "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25",
+        "honorType": "event"
+    },
+    {
+        "id": 594,
+        "name": "ベストクリエイター あなたのマイセカイ",
+        "pronunciation": "べすとくりえいたーあなたのまいせかい",
+        "honorType": "event"
+    },
+    {
+        "id": 595,
+        "name": "Our Golden Days",
+        "pronunciation": "あわー　ごーるでん　でいず",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_golden"
+    },
+    {
+        "id": 596,
+        "name": "ランクマッチ2025 AUTUMN",
+        "pronunciation": "らんくまっち2025おーたむ",
+        "honorType": "rank_match",
+        "backgroundAssetbundleName": "season_2025_autumn"
     }
 ]

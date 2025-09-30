@@ -556,5 +556,53 @@
         "mysekaiFixtureId": 760,
         "actionPoint": 13,
         "assetbundleName": "tl_ext0001_fixture_sofa2_000"
+    },
+    {
+        "id": 94,
+        "mysekaiFixtureId": 813,
+        "actionPoint": 14,
+        "assetbundleName": "tl_con0004_fixture_bed1_000_r"
+    },
+    {
+        "id": 95,
+        "mysekaiFixtureId": 813,
+        "actionPoint": 12,
+        "assetbundleName": "tl_con0004_fixture_bed1_000_l"
+    },
+    {
+        "id": 96,
+        "mysekaiFixtureId": 814,
+        "actionPoint": 13,
+        "assetbundleName": "tl_ext0001_fixture_sofa2_000"
+    },
+    {
+        "id": 97,
+        "mysekaiFixtureId": 848,
+        "actionPoint": 13,
+        "assetbundleName": "tl_ext0001_fixture_chair1_000"
+    },
+    {
+        "id": 99,
+        "mysekaiFixtureId": 986,
+        "actionPoint": 23,
+        "assetbundleName": "tl_env0007_fixture_sofa1_000_r"
+    },
+    {
+        "id": 100,
+        "mysekaiFixtureId": 988,
+        "actionPoint": 13,
+        "assetbundleName": "tl_env0007_fixture_highchair1_000"
+    },
+    {
+        "id": 101,
+        "mysekaiFixtureId": 991,
+        "actionPoint": 13,
+        "assetbundleName": "tl_env0007_fixture_djbooth1_000"
+    },
+    {
+        "id": 102,
+        "mysekaiFixtureId": 974,
+        "actionPoint": 13,
+        "assetbundleName": "tl_env0002_fixture_zaisu1_000"
     }
 ]

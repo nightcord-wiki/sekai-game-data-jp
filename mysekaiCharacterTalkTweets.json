@@ -29483,7 +29483,7 @@
         "motionName": "mov_cm_happy_tilthead001",
         "expressionEyeName": "normal",
         "expressionMouthName": "normal02",
-        "text": "……きょうだい？\nああ、絵名のことか"
+        "text": "……きょうだい？\nああ、姉貴がひとりいる"
     },
     {
         "id": 14281,
@@ -42492,5 +42492,1671 @@
         "expressionEyeName": "smile",
         "expressionMouthName": "smile02",
         "text": "やっぱり、ライバルが\nいるっていいよね！"
+    },
+    {
+        "id": 16569,
+        "motionName": "mov_cw_cute_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この前、MORE MORE\nJUMP！とは違う……"
+    },
+    {
+        "id": 16570,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この間、不思議な夢を\n見たんだ"
+    },
+    {
+        "id": 16571,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あっ、ちょうどよかった！\nあなたに伝えたい……"
+    },
+    {
+        "id": 16572,
+        "motionName": "mov_cw_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "最近ちょっと\n変わった夢を見たの"
+    },
+    {
+        "id": 16573,
+        "motionName": "mov_cw_cute_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "出会いって、本当に\nかけがえのない……"
+    },
+    {
+        "id": 16574,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "ねえ、最近変わった\n夢を見たりしてない？"
+    },
+    {
+        "id": 16575,
+        "motionName": "mov_cw_cute_tiltheadl003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "キミは、夢とか\n目標とかってある？"
+    },
+    {
+        "id": 16576,
+        "motionName": "mov_cm_normal_angry001",
+        "expressionEyeName": "close_normal",
+        "expressionMouthName": "smile01",
+        "text": "仲間とは、やはり\n素晴らしいものだな……"
+    },
+    {
+        "id": 16577,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この間、別のセカイの\nレンが私達の……"
+    },
+    {
+        "id": 16578,
+        "motionName": "mov_cw_adult_tiltheadr002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "他にもセカイがあることは\n知っていたけれど……"
+    },
+    {
+        "id": 16579,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "smile_sad",
+        "expressionMouthName": "smile01",
+        "text": "わたしね、この前全然\n知らないセカイに……"
+    },
+    {
+        "id": 16580,
+        "motionName": "mov_cw_cute_forward001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "聞いて聞いて！\nこの前ね……"
+    },
+    {
+        "id": 16581,
+        "motionName": "mov_cw_adult_tiltheadl003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "そういえば、\nこの話したかな"
+    },
+    {
+        "id": 16582,
+        "motionName": "mov_cm_normal_talk001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この前、別のセカイの\nメイコに会ってさ！"
+    },
+    {
+        "id": 16583,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あなたはもうひとりの\n自分に会ったことある？"
+    },
+    {
+        "id": 16584,
+        "motionName": "mov_cw_happy_01joy001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile02",
+        "text": "この前ね、別のセカイの\nリンとカイトが……"
+    },
+    {
+        "id": 16585,
+        "motionName": "mov_cm_smart_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ミクから聞いているかも\nしれないけど、実は……"
+    },
+    {
+        "id": 16586,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……この前、わたし達が\nいるセカイに……"
+    },
+    {
+        "id": 16587,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あなたがみみっちを\n助けてくれた……"
+    },
+    {
+        "id": 16588,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "はじめましてだっち！\nぼく、くちぱっちだっち！"
+    },
+    {
+        "id": 16589,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "そういえば、\n一歌ちゃん達がいた……"
+    },
+    {
+        "id": 16590,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんにちは。\nえっと、めめっちだよね？"
+    },
+    {
+        "id": 16591,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ！　まめっちって\nお兄ちゃんで……"
+    },
+    {
+        "id": 16592,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal01",
+        "text": "……あ！　くちぱっち、\nまた口開いてない？"
+    },
+    {
+        "id": 16593,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "咲希ちゃん、\nまた会えて嬉しいぴょん！"
+    },
+    {
+        "id": 16594,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ねえ、咲希ちゃん。\nくせっ毛で……"
+    },
+    {
+        "id": 16595,
+        "motionName": "mov_cw_silent_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……それじゃあ、\nまめっちが……"
+    },
+    {
+        "id": 16596,
+        "motionName": "mov_cw_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "穂波ちゃんは、料理が\n上手って聞いただっち！"
+    },
+    {
+        "id": 16597,
+        "motionName": "mov_cw_silent_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "みみっちにまた\n会えるなんて嬉しいな"
+    },
+    {
+        "id": 16598,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……初対面で悪いけど、\nひとついい？"
+    },
+    {
+        "id": 16599,
+        "motionName": "mov_cw_cool_notice001",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal02",
+        "text": "あなたが志歩さんですね！\nはじめまして！"
+    },
+    {
+        "id": 16600,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "えっと……\nくちぱっち、だっけ？"
+    },
+    {
+        "id": 16601,
+        "motionName": "mov_cw_adult_tiltheadl003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……合唱、\nうまくいったんだって？"
+    },
+    {
+        "id": 16602,
+        "motionName": "mov_cw_cool_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……めめっちとは\n知り合ったばっかり……"
+    },
+    {
+        "id": 16603,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……まめっち\nっていうんだ"
+    },
+    {
+        "id": 16604,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal02",
+        "text": "へえ、みのりちゃんは\nアイドルだっち？"
+    },
+    {
+        "id": 16605,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ！　みみっちも\n１日のルーティーンが……"
+    },
+    {
+        "id": 16606,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "あなたがみのりちゃんね。\nアイドルって聞いたわよ"
+    },
+    {
+        "id": 16607,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ここは、晴れや雨とか\n天気の変化も……"
+    },
+    {
+        "id": 16608,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "は、遥ちゃん！"
+    },
+    {
+        "id": 16609,
+        "motionName": "mov_cw_silent_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ。それじゃあ、\nまめっちが作った……"
+    },
+    {
+        "id": 16610,
+        "motionName": "mov_cw_adult_tiltheadr002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "遥ちゃんって、\nただそこにいるだけで……"
+    },
+    {
+        "id": 16611,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "それにしてもびっくりね。\n他の星からの……"
+    },
+    {
+        "id": 16612,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "愛莉ちゃんは、何か\n好きな食べ物あるだっち？"
+    },
+    {
+        "id": 16613,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……みみっちって、\n話をすればするほど……"
+    },
+    {
+        "id": 16614,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ！\n愛莉ちゃんの友達にも……"
+    },
+    {
+        "id": 16615,
+        "motionName": "mov_cw_adult_nod003r",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "normal01",
+        "text": "……セカイで\n迷子だなんて……"
+    },
+    {
+        "id": 16616,
+        "motionName": "mov_cw_adult_tilthead001",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "normal01",
+        "text": "……なんだか元気がない\nみたいだけど……"
+    },
+    {
+        "id": 16617,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、雫ちゃんには\n妹がいるぴょん？"
+    },
+    {
+        "id": 16618,
+        "motionName": "mov_cw_adult_nod004r",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "めめっち、\n助けてくれてありがとう"
+    },
+    {
+        "id": 16619,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こはねさん\nというんですね！"
+    },
+    {
+        "id": 16620,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……それじゃあ\nくちぱっちも……"
+    },
+    {
+        "id": 16621,
+        "motionName": "mov_cw_silent_01joy010",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ！　みみっちは\n習字が得意なんだね"
+    },
+    {
+        "id": 16622,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こはねちゃん、\nあなた達のおかげで……"
+    },
+    {
+        "id": 16623,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal_angry",
+        "expressionMouthName": "smile01",
+        "text": "ねえねえ。めめっちに\n睡眠学習装置のこと……"
+    },
+    {
+        "id": 16624,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "smile_sad",
+        "expressionMouthName": "smile01",
+        "text": "わあ！　杏ちゃんの\nおうちはカフェを……"
+    },
+    {
+        "id": 16625,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、みみっちは\n計算ドリルを……"
+    },
+    {
+        "id": 16626,
+        "motionName": "mov_cw_cool_02joy001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "また会えて嬉しいよ、\nめめっち！"
+    },
+    {
+        "id": 16627,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……へえ。じゃあ、お前が\n睡眠学習装置を作ったのか"
+    },
+    {
+        "id": 16628,
+        "motionName": "mov_cm_cool_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……くんくん。なんだか\nあま～い匂いが……"
+    },
+    {
+        "id": 16629,
+        "motionName": "mov_cm_normal_tilthead005l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal04",
+        "text": "はじめまして、\nみみっちだぴょん！"
+    },
+    {
+        "id": 16630,
+        "motionName": "mov_cm_cool_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "また会えたわね！\n元気にしてた？"
+    },
+    {
+        "id": 16631,
+        "motionName": "mov_cm_normal_nod002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……なるほど。まめっちの\nお父さんは研究者なんだな"
+    },
+    {
+        "id": 16632,
+        "motionName": "mov_cm_normal_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "君か。今、くちぱっちが\n住んでいる……"
+    },
+    {
+        "id": 16633,
+        "motionName": "mov_cm_smart_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "みみっちは計算ドリルを\n解くのが好きと……"
+    },
+    {
+        "id": 16634,
+        "motionName": "mov_cm_adult_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "また会えたな、\nめめっち"
+    },
+    {
+        "id": 16635,
+        "motionName": "mov_cm_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ふむ。お前は\nまめっちというんだな！"
+    },
+    {
+        "id": 16636,
+        "motionName": "mov_cm_happy_nod001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "おお、くちぱっち！\nまさかまた会えるとは！"
+    },
+    {
+        "id": 16637,
+        "motionName": "mov_cm_happy_nod001",
+        "expressionEyeName": "normal_angry",
+        "expressionMouthName": "smile01",
+        "text": "あ、きみがくちぱっちが\n言ってた司くんぴょん？"
+    },
+    {
+        "id": 16638,
+        "motionName": "mov_cm_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "お前は\nめめっちというのか"
+    },
+    {
+        "id": 16639,
+        "motionName": "mov_cw_happy_01joy001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "こんにちはー！\nあたし、鳳えむって……"
+    },
+    {
+        "id": 16640,
+        "motionName": "mov_cw_cute_tilthead002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "えむちゃん達と\nまた会えて嬉しいだっち！"
+    },
+    {
+        "id": 16641,
+        "motionName": "mov_cw_cute_tilthead002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "くちぱっちから、\nショーをしてるって……"
+    },
+    {
+        "id": 16642,
+        "motionName": "mov_cw_happy_surprise001",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal02",
+        "text": "えーっ！\nたまごっち星って……"
+    },
+    {
+        "id": 16643,
+        "motionName": "mov_cw_adult_tiltheadl003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あなたが\n寧々さんですね！"
+    },
+    {
+        "id": 16644,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "また会えたね、\nくちぱっち"
+    },
+    {
+        "id": 16645,
+        "motionName": "mov_cw_silent_01joy002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "へえ、ここでわたし達に\n会えるように……"
+    },
+    {
+        "id": 16646,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あたしはめめっちよ！\nよろしくね、寧々ちゃん！"
+    },
+    {
+        "id": 16647,
+        "motionName": "mov_cm_adult_01joy001l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "君がまめっちくんだね！"
+    },
+    {
+        "id": 16648,
+        "motionName": "mov_cm_normal_nod002l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "みんなに\nまた会えて嬉しいだっち！"
+    },
+    {
+        "id": 16649,
+        "motionName": "mov_cm_smart_nod001l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "類くんは、とっても頭が\nいいって聞いたぴょん"
+    },
+    {
+        "id": 16650,
+        "motionName": "mov_cm_normal_tilthead002l",
+        "expressionEyeName": "close_normal",
+        "expressionMouthName": "normal01",
+        "text": "……適切な表現かは\n疑問があるけれど……"
+    },
+    {
+        "id": 16651,
+        "motionName": "mov_cw_silent_tiltheadr006",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "……え、えっと、\nあなたは？"
+    },
+    {
+        "id": 16652,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "こんにちはだっち！\nぼく、くちぱっち——"
+    },
+    {
+        "id": 16653,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "はじめまして、\nみみっちだぴょん！"
+    },
+    {
+        "id": 16654,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "あなたが奏ちゃんね！\nねえ、巻き髪に興味ない？"
+    },
+    {
+        "id": 16655,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……それじゃあ、\n睡眠学習装置で……"
+    },
+    {
+        "id": 16656,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……あ、もしかして\nまふゆちゃんだっち？"
+    },
+    {
+        "id": 16657,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "はじめまして、\nまふゆちゃん！"
+    },
+    {
+        "id": 16658,
+        "motionName": "mov_cw_silent_nod006",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "まふゆちゃんって、\nあんまり話さないし静かね"
+    },
+    {
+        "id": 16659,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、あなたが睡眠学習\n装置を作った、まめっち？"
+    },
+    {
+        "id": 16660,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ。くちぱっちも\nきょうだい、いるんだ"
+    },
+    {
+        "id": 16661,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "……何度聞いても\nびっくりだな"
+    },
+    {
+        "id": 16662,
+        "motionName": "mov_cw_silent_01joy010",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……へえ！\n絵名ちゃん達の……"
+    },
+    {
+        "id": 16663,
+        "motionName": "mov_cw_adult_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……ステキですね！\n自分でかわいい洋服を……"
+    },
+    {
+        "id": 16664,
+        "motionName": "mov_cw_normal_talk001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "——って感じで、\n絵名と一緒に……"
+    },
+    {
+        "id": 16665,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "えっと、\nみみっちだよね？"
+    },
+    {
+        "id": 16666,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "めめっち達、\n昼は学校に行って……"
+    },
+    {
+        "id": 16667,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "キミがまめっちだよね？"
+    },
+    {
+        "id": 16668,
+        "motionName": "mov_cw_cool_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ミクちゃん達は、\nバンドをやってるって……"
+    },
+    {
+        "id": 16669,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "ミクちゃんは、みみっちと\nおそろいって聞いたぴょん"
+    },
+    {
+        "id": 16670,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ミクちゃんって、ピンで\nしっかり前髪を……"
+    },
+    {
+        "id": 16671,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あなたがアイドルの\nミクさんですね！"
+    },
+    {
+        "id": 16672,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "ミクちゃん、\nこんにちはだっち！"
+    },
+    {
+        "id": 16673,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "たしかみみっち達は、\n合唱で上手く……"
+    },
+    {
+        "id": 16674,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "アイドルって、とっても\nキラキラしてる……"
+    },
+    {
+        "id": 16675,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "はじめまして！\nぼくはまめっちです！"
+    },
+    {
+        "id": 16676,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんにちは、私はミク。\nキミは……"
+    },
+    {
+        "id": 16677,
+        "motionName": "mov_cw_cool_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "ミクちゃんは、\n計算ドリル得意ぴょん？"
+    },
+    {
+        "id": 16678,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ミクちゃん、\nまた会えたわね！"
+    },
+    {
+        "id": 16679,
+        "motionName": "mov_cw_normal_01joy001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "キミがまめっち？\nはじめましてっ☆"
+    },
+    {
+        "id": 16680,
+        "motionName": "mov_cw_happy_01joy001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile02",
+        "text": "くちぱっちだー！\nほんとにほんとに……"
+    },
+    {
+        "id": 16681,
+        "motionName": "mov_cw_happy_fun001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "こんにちは！\nみみっちだぴょん！"
+    },
+    {
+        "id": 16682,
+        "motionName": "mov_cw_cute_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "めめっちの\nキラキラおめめ……"
+    },
+    {
+        "id": 16683,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "こんにちは！\nぼく、まめっちといいます"
+    },
+    {
+        "id": 16684,
+        "motionName": "mov_cw_silent_nod006",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "ねえ、ミクちゃん"
+    },
+    {
+        "id": 16685,
+        "motionName": "mov_cw_silent_01joy002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "みみっちが迷子になった\nセカイのみんなは……"
+    },
+    {
+        "id": 16686,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんにちは！\nあたしは、めめっちよ！"
+    },
+    {
+        "id": 16687,
+        "motionName": "mov_cw_cute_tilthead001",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "……睡眠学習装置か、\nいいなあ。"
+    },
+    {
+        "id": 16688,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ねえねえ、くちぱっち。\nくちぱっちは……"
+    },
+    {
+        "id": 16689,
+        "motionName": "mov_cw_cute_tilthead005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "そういえば、\nみみっちと雫ちゃんが……"
+    },
+    {
+        "id": 16690,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "リンちゃんが\nつけてるリボン……"
+    },
+    {
+        "id": 16691,
+        "motionName": "mov_cm_normal_greeting001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "キミがまめっちだね！\nやっほー！"
+    },
+    {
+        "id": 16692,
+        "motionName": "mov_cm_normal_talk001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "くちぱっちは、ここのこと\nまだ全然知らないよな"
+    },
+    {
+        "id": 16693,
+        "motionName": "mov_cm_happy_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんにちはだぴょん！\nえっと……"
+    },
+    {
+        "id": 16694,
+        "motionName": "mov_cm_cool_nod001r",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "また会えて嬉しいよ、\nめめっち！"
+    },
+    {
+        "id": 16695,
+        "motionName": "mov_cw_adult_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "みみっちから\n話は聞いていたけど……"
+    },
+    {
+        "id": 16696,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "『先輩』って、なんだか\nかっこいい響きだっち"
+    },
+    {
+        "id": 16697,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ねえ、みみっち。\nみみっちとミクで……"
+    },
+    {
+        "id": 16698,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "ルカちゃんが\n着てるブレザー……"
+    },
+    {
+        "id": 16699,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あなたがまめっちね。\nはじめまして、メイコよ"
+    },
+    {
+        "id": 16700,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "メイコちゃん、\nカフェをやってるって……"
+    },
+    {
+        "id": 16701,
+        "motionName": "mov_cw_adult_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "えっ！　レンくん、\nみみっちが……"
+    },
+    {
+        "id": 16702,
+        "motionName": "mov_cw_silent_01joy002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "めめっち、\nまた会えたわね！　"
+    },
+    {
+        "id": 16703,
+        "motionName": "mov_cm_cool_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……なるほど。もう迷子に\nならないように……"
+    },
+    {
+        "id": 16704,
+        "motionName": "mov_cm_adult_01joy001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "また会えて嬉しいよ、\nくちぱっち"
+    },
+    {
+        "id": 16705,
+        "motionName": "mov_cm_cool_nod001r",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "カイトくん達がいる\nセカイには……"
+    },
+    {
+        "id": 16706,
+        "motionName": "mov_cm_cool_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile02",
+        "text": "——へえ。それじゃあ\nカイトくん達がいる……"
+    },
+    {
+        "id": 16708,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "この音符のマーク、\n可愛いけど……"
+    },
+    {
+        "id": 16710,
+        "motionName": "mov_cw_silent_01joy003",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "私、DJのことは\n詳しくないんだよね……"
+    },
+    {
+        "id": 16711,
+        "motionName": "mov_cw_normal_sky002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんな不思議な色の空、\n見たことないよ"
+    },
+    {
+        "id": 16713,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "smile_sad",
+        "expressionMouthName": "smile01",
+        "text": "こういうイス、\nオシャレだなーって……"
+    },
+    {
+        "id": 16714,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こんなにおっきな\nスピーカーがあるなら……"
+    },
+    {
+        "id": 16715,
+        "motionName": "mov_cw_happy_notice001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "おおっ、DJやるとこだ！"
+    },
+    {
+        "id": 16716,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ねえねえ！\nこの飛んでるキラキラ……"
+    },
+    {
+        "id": 16718,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あ、こういうカウンター\nテーブル……"
+    },
+    {
+        "id": 16719,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ライブハウスで\n演奏してた頃……"
+    },
+    {
+        "id": 16720,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "音楽イベントに\n参加した時に……"
+    },
+    {
+        "id": 16721,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "咲希ちゃんが、この\nキラキラしたものを……"
+    },
+    {
+        "id": 16724,
+        "motionName": "mov_cw_cool_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このスピーカーを使えば、\n結構なキャパの……"
+    },
+    {
+        "id": 16725,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、\nステージライトじゃん"
+    },
+    {
+        "id": 16726,
+        "motionName": "mov_cw_cool_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "クラブミュージックも\n聴きはするけど……"
+    },
+    {
+        "id": 16727,
+        "motionName": "mov_cw_cool_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "なんだか空気が\n光ってる感じあるね"
+    },
+    {
+        "id": 16729,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こういう、ちょっと\nドリンク置いておける……"
+    },
+    {
+        "id": 16730,
+        "motionName": "mov_cw_cute_notice001",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal02",
+        "text": "わっ！\nお、大きい……！"
+    },
+    {
+        "id": 16731,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "これ、DJさんが\nドゥクドゥク……"
+    },
+    {
+        "id": 16732,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "不思議な景色なのに、\nあたたかくて……"
+    },
+    {
+        "id": 16733,
+        "motionName": "mov_cw_silent_01joy002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "音符マークがついてて、\n可愛いテーブルだね"
+    },
+    {
+        "id": 16735,
+        "motionName": "mov_cw_adult_tiltheadl002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ライトがあると、\nなんだかステージに……"
+    },
+    {
+        "id": 16736,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、\nDJブースがあるんだね"
+    },
+    {
+        "id": 16737,
+        "motionName": "mov_cw_silent_01joy003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "キラキラしたものが\n飛んでるね"
+    },
+    {
+        "id": 16739,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ずいぶん\n大きなスピーカーね"
+    },
+    {
+        "id": 16740,
+        "motionName": "mov_cw_cool_02joy001",
+        "expressionEyeName": "smile_angry",
+        "expressionMouthName": "smile02",
+        "text": "みんな、盛り上がる準備は\nできてるかしら〜！？"
+    },
+    {
+        "id": 16741,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "あら？　今の風、\nなんだか……"
+    },
+    {
+        "id": 16743,
+        "motionName": "mov_cw_adult_02joy001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あ、ちょうどよかったわ。\nこのイスなんだけど……"
+    },
+    {
+        "id": 16744,
+        "motionName": "mov_cw_adult_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "素敵なDJブースね。\nもしかして……"
+    },
+    {
+        "id": 16745,
+        "motionName": "mov_cw_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "不思議な色の空ね。\nなんだか優しくて……"
+    },
+    {
+        "id": 16747,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "私達がよく行ってる\nライブハウスの……"
+    },
+    {
+        "id": 16748,
+        "motionName": "mov_cw_silent_fun001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "わっ、DJブースだ！\nもしかして……"
+    },
+    {
+        "id": 16749,
+        "motionName": "mov_cw_cute_lookaway001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile01",
+        "text": "キラキラしたものが\nたくさん飛んでるね"
+    },
+    {
+        "id": 16751,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、オシャレな\nカウンターテーブルだね"
+    },
+    {
+        "id": 16752,
+        "motionName": "mov_cw_cute_tiltheadr004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "あ、DJブースじゃん！\nこれって……"
+    },
+    {
+        "id": 16753,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このキラキラしてるヤツ、\nキャッチできないかな"
+    },
+    {
+        "id": 16755,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、こんなスピーカー\n持ってたのか"
+    },
+    {
+        "id": 16756,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "uniq1_akito",
+        "expressionMouthName": "normal01",
+        "text": "……は、DJ？\n無茶言うなよ"
+    },
+    {
+        "id": 16757,
+        "motionName": "mov_cm_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "このキラキラしたやつ、\nオレ達が……"
+    },
+    {
+        "id": 16761,
+        "motionName": "mov_cm_adult_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "大きなサイズの\nスピーカーは……"
+    },
+    {
+        "id": 16762,
+        "motionName": "mov_cm_adult_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "立派なDJブースだな。\nレン達が見たら……"
+    },
+    {
+        "id": 16763,
+        "motionName": "mov_cm_adult_nod001r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "キラキラと輝く\n幻想的な風景が……"
+    },
+    {
+        "id": 16764,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "客席から見ることで\nわかることもあるからな"
+    },
+    {
+        "id": 16766,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "おお！\n大きなスピーカーだな！"
+    },
+    {
+        "id": 16767,
+        "motionName": "mov_cm_happy_notice001",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal01",
+        "text": "まさかお前、DJまで\nできるのか……！？"
+    },
+    {
+        "id": 16768,
+        "motionName": "mov_cm_happy_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "なんとも\n幻想的な雰囲気だな"
+    },
+    {
+        "id": 16770,
+        "motionName": "mov_cw_happy_nod001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "あたしね、\nこういうイスで……"
+    },
+    {
+        "id": 16771,
+        "motionName": "mov_cw_cute_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ショーでもいろんな\nライトを使うんだよ！"
+    },
+    {
+        "id": 16772,
+        "motionName": "mov_cw_happy_nod001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "あたしこれ知ってるよ！"
+    },
+    {
+        "id": 16773,
+        "motionName": "mov_cw_happy_lookaway001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "すごいすごい！"
+    },
+    {
+        "id": 16776,
+        "motionName": "mov_cw_silent_nod005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "オシャレなテーブルだね。\n脚の感じとか……"
+    },
+    {
+        "id": 16777,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "これ、DJブースって\nいうんだっけ？"
+    },
+    {
+        "id": 16778,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このキラキラしたの、\nわたし達がいる……"
+    },
+    {
+        "id": 16780,
+        "motionName": "mov_cm_adult_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このスピーカー、\nなかなかの大きさだね"
+    },
+    {
+        "id": 16781,
+        "motionName": "mov_cm_smart_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、ずいぶん立派な\nDJブースだね"
+    },
+    {
+        "id": 16782,
+        "motionName": "mov_cm_adult_nod001l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile03",
+        "text": "これはまた、\n変わった空だね"
+    },
+    {
+        "id": 16783,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "close_normal",
+        "expressionMouthName": "normal01",
+        "text": "音符……"
+    },
+    {
+        "id": 16785,
+        "motionName": "mov_cw_silent_tiltheadr006",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "こういうイス、\n座っててもちょっと……"
+    },
+    {
+        "id": 16786,
+        "motionName": "mov_cw_silent_01joy005",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "何かのライブイベントの\n配信ですごいDJを……"
+    },
+    {
+        "id": 16787,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "不思議な色の空だね。\nこれは……何色って……"
+    },
+    {
+        "id": 16789,
+        "motionName": "mov_cw_silent_01joy006",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……ステージ用の、ライト"
+    },
+    {
+        "id": 16790,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……そういえば前、奏が\n『このDJがすごい』……"
+    },
+    {
+        "id": 16791,
+        "motionName": "mov_cw_silent_nod006",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……この\nキラキラしたもの……"
+    },
+    {
+        "id": 16793,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こういう、シンプルだけど\n可愛くてオシャレな……"
+    },
+    {
+        "id": 16794,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "もしかして、\nDJできるの？"
+    },
+    {
+        "id": 16795,
+        "motionName": "mov_cw_normal_sky002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "……空が綺麗。\nピンクだったり……"
+    },
+    {
+        "id": 16798,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ライブとかで低音が\nズンズンズンって……"
+    },
+    {
+        "id": 16799,
+        "motionName": "mov_cw_normal_01joy001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "おおー！\nDJブースじゃん！"
+    },
+    {
+        "id": 16800,
+        "motionName": "mov_cw_cool_sky001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "おおー。青にピンクに紫、\nグラデーションが……"
+    },
+    {
+        "id": 16803,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "すごく大きな\nスピーカーだね"
+    },
+    {
+        "id": 16804,
+        "motionName": "mov_cw_adult_tiltheadl003",
+        "expressionEyeName": "normal_sad",
+        "expressionMouthName": "smile01",
+        "text": "え、DJ？\n私達はバンドだから……"
+    },
+    {
+        "id": 16805,
+        "motionName": "mov_cw_normal_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "ここはキミの\nセカイだし……"
+    },
+    {
+        "id": 16808,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このスピーカーは、\n野外ライブ用かしら？"
+    },
+    {
+        "id": 16809,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "クラブミュージックは\n音にあわせて……"
+    },
+    {
+        "id": 16810,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "綺麗な空ね。前に\n穂波が見せてくれた……"
+    },
+    {
+        "id": 16812,
+        "motionName": "mov_cw_adult_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "こういう大きな\nスピーカー……"
+    },
+    {
+        "id": 16813,
+        "motionName": "mov_cw_cute_tiltheadl004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "DJブースがあるけど、\nもしかしてできるの？"
+    },
+    {
+        "id": 16814,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile01",
+        "text": "紫だったり\nピンクだったり……"
+    },
+    {
+        "id": 16816,
+        "motionName": "mov_cw_cute_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "こういうイスって、\n高さが変えられるのも……"
+    },
+    {
+        "id": 16817,
+        "motionName": "mov_cw_adult_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "これが\nDJブースなんだね！"
+    },
+    {
+        "id": 16818,
+        "motionName": "mov_cw_cute_01joy001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "わあ、綺麗な空だね！"
+    },
+    {
+        "id": 16820,
+        "motionName": "mov_cw_cool_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "このテーブルすごく\nシンプルなデザイン……"
+    },
+    {
+        "id": 16821,
+        "motionName": "mov_cw_cool_tilthead001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、立派な\nDJブースだね"
+    },
+    {
+        "id": 16822,
+        "motionName": "mov_cw_silent_01joy008",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile02",
+        "text": "……今日は、なんだか\nあたたかい雰囲気だね"
+    },
+    {
+        "id": 16825,
+        "motionName": "mov_cm_happy_angry001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "こんな大きな\nスピーカーどうしたの！？"
+    },
+    {
+        "id": 16826,
+        "motionName": "mov_cm_happy_nod001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "DJブースじゃん！\nしかも、めちゃくちゃ……"
+    },
+    {
+        "id": 16827,
+        "motionName": "mov_cm_adult_tilthead001",
+        "expressionEyeName": "normal_l",
+        "expressionMouthName": "normal01",
+        "text": "今日の空、いろんな色が\n混ざってて、えっと……"
+    },
+    {
+        "id": 16828,
+        "motionName": "mov_cw_normal_nod002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "私のカフェには\nナチュラルな雰囲気の……"
+    },
+    {
+        "id": 16830,
+        "motionName": "mov_cw_adult_tiltheadr003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……え？\nDJできるかって？"
+    },
+    {
+        "id": 16831,
+        "motionName": "mov_cw_adult_tiltheadr002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "あら、今の風……"
+    },
+    {
+        "id": 16833,
+        "motionName": "mov_cw_happy_nod001",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile02",
+        "text": "大きなスピーカーだね！\nでも、大きな音を……"
+    },
+    {
+        "id": 16834,
+        "motionName": "mov_cw_happy_fun001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "smile02",
+        "text": "ぐるるるぽちぽち……"
+    },
+    {
+        "id": 16835,
+        "motionName": "mov_cw_normal_02joy001",
+        "expressionEyeName": "smile",
+        "expressionMouthName": "uniq_wnsmiku",
+        "text": "わあっ☆　今日の空、\nまぜまぜ色だね！"
+    },
+    {
+        "id": 16837,
+        "motionName": "mov_cm_normal_nod002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "へえ、上下に\n動くだけじゃなくて……"
+    },
+    {
+        "id": 16838,
+        "motionName": "mov_cm_cool_tilthead002r",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "え、DJ？　今のところ\n経験はないけど……"
+    },
+    {
+        "id": 16839,
+        "motionName": "mov_cm_adult_01joy001l",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "smile01",
+        "text": "知っているかい？\nこのキラキラしている……"
+    },
+    {
+        "id": 16841,
+        "motionName": "mov_cw_silent_tilthead002",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "……大きいね。出る音も、\nすごく大きそう"
+    },
+    {
+        "id": 16842,
+        "motionName": "mov_cw_silent_tilthead003",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "これ、DJブースって\nいうんだね"
+    },
+    {
+        "id": 16843,
+        "motionName": "mov_cw_silent_nod004",
+        "expressionEyeName": "normal",
+        "expressionMouthName": "normal01",
+        "text": "あそこは水色だけど、\nこっちは紫だったり……"
+    },
+    {
+        "id": 16844,
+        "motionName": "mov_cw_cool_talk001",
+        "expressionEyeName": "sparkling",
+        "expressionMouthName": "smile02",
+        "text": "聞いて聞いて！\nこの前、音楽フェスに……"
+    },
+    {
+        "id": 16845,
+        "motionName": "mov_cw_adult_tiltheadl003",
+        "expressionEyeName": "surprise",
+        "expressionMouthName": "normal01",
+        "text": "この、王様が座るみたいな\n豪華なイスは……"
     }
 ]

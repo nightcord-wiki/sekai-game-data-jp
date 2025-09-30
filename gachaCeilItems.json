@@ -2926,5 +2926,197 @@
         "assetbundleName": "ceil_item_limited",
         "convertStartAt": 1758423600000,
         "convertResourceBoxId": 2
+    },
+    {
+        "id": 451,
+        "gachaId": 782,
+        "name": "Empty Teatimeガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1758423600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 452,
+        "gachaId": 783,
+        "name": "[星乃一歌]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1758002400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 453,
+        "gachaId": 787,
+        "name": "[復刻]あなたに届け♡Live Streamingガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1758337200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 454,
+        "gachaId": 788,
+        "name": "[復刻]華の都へご招待ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1758337200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 455,
+        "gachaId": 789,
+        "name": "キミに咲うfuzzy daisyガチャシール",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1759114800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 456,
+        "gachaId": 790,
+        "name": "[暁山瑞希]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1759384800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 457,
+        "gachaId": 795,
+        "name": "[初音ミク]HAPPY ANNIVERSARYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1759730400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 458,
+        "gachaId": 799,
+        "name": "絶望の雨すら笑ってガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1759719600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 459,
+        "gachaId": 800,
+        "name": "[バーチャル・シンガー]サポートガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1760929200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 460,
+        "gachaId": 801,
+        "name": "リコレクションフェスティバルガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1759546800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 461,
+        "gachaId": 803,
+        "name": "Velvet Afternoonガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1760929200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 462,
+        "gachaId": 804,
+        "name": "[鳳えむ]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1760508000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 463,
+        "gachaId": 808,
+        "name": "[復刻]とってもおばけなバケーション！ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761015600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 464,
+        "gachaId": 809,
+        "name": "[復刻]フォトジェニック♡バレンタインガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761015600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 465,
+        "gachaId": 810,
+        "name": "みんなたまとも!どり～むガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1762225200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 466,
+        "gachaId": 811,
+        "name": "[フィナーレチャプター]Glance at Same Worldガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1760929200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 467,
+        "gachaId": 812,
+        "name": "[フィナーレチャプター]Dream a Wonder Dreamガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761015600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 468,
+        "gachaId": 813,
+        "name": "[フィナーレチャプター]Night's Treasureガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761102000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 469,
+        "gachaId": 814,
+        "name": "[フィナーレチャプター]Another sparkle Starsガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761188400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 470,
+        "gachaId": 815,
+        "name": "[フィナーレチャプター]Empty Teatimeガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761274800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 471,
+        "gachaId": 816,
+        "name": "[フィナーレチャプター]Velvet Afternoonガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761361200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 472,
+        "gachaId": 817,
+        "name": "[フィナーレチャプター]サポートガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1761793200000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 474,
+        "gachaId": 836,
+        "name": "[桐谷遥]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1762408800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 475,
+        "gachaId": 838,
+        "name": "5周年記念ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1762743600000,
+        "convertResourceBoxId": 2
     }
 ]
