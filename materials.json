@@ -1452,6 +1452,14 @@
         "materialType": "birthday_party_delivery"
     },
     {
+        "id": 198,
+        "seq": 30025,
+        "name": "祝祭のあまつゆ（レッド）",
+        "flavorText": "MEIKOの記念日をお祝いする花を育てるためのあまつゆ。\n※2025年アニバーサリーイベントでのみ利用可能",
+        "canUse": false,
+        "materialType": "birthday_party_delivery"
+    },
+    {
         "id": 200,
         "seq": 10618,
         "name": "レッドメモリーピース",
@@ -1546,6 +1554,14 @@
         "flavorText": "ゴールドメダル交換所で報酬と交換することができる。\n使用期限：2025/10/31 23:59",
         "canUse": false,
         "materialType": "common"
+    },
+    {
+        "id": 213,
+        "seq": 20003,
+        "name": "「コネクトライブ わん！もあ！HAPPY TIME」コネクトライブver. ボーカル引き換えカード",
+        "flavorText": "「コネクトライブ MORE MORE JUMP！× ワンダーランズ×ショウタイム わん！もあ！HAPPY TIME」の公演内で披露された楽曲のコネクトライブver. ボーカルと引き換えることができる。",
+        "canUse": false,
+        "materialType": "auto_exchange_music_vocal_ticket"
     },
     {
         "id": 214,
