@@ -4331,5 +4331,150 @@
                 "resourceBoxId": 94
             }
         ]
+    },
+    {
+        "id": 200,
+        "seq": 146,
+        "name": "クリスマスログインキャンペーン",
+        "startAt": 1766502000000,
+        "endAt": 1766674799000,
+        "assetbundleName": "christmas_2025",
+        "closeAt": 1766674799000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 349,
+                "limitedLoginBonusId": 200,
+                "day": 1,
+                "resourceBoxId": 212
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "seq": 147,
+        "name": "[もうすぐ2026]年末ログインキャンペーン",
+        "startAt": 1766847600000,
+        "endAt": 1766933999000,
+        "assetbundleName": "countdown_2026",
+        "closeAt": 1766933999000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 350,
+                "limitedLoginBonusId": 201,
+                "day": 1,
+                "resourceBoxId": 213
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "seq": 148,
+        "name": "[もうすぐ2026]年末ログインキャンペーン",
+        "startAt": 1766934000000,
+        "endAt": 1767020399000,
+        "assetbundleName": "countdown_2026",
+        "closeAt": 1767020399000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 351,
+                "limitedLoginBonusId": 202,
+                "day": 1,
+                "resourceBoxId": 214
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "seq": 149,
+        "name": "[もうすぐ2026]年末ログインキャンペーン",
+        "startAt": 1767020400000,
+        "endAt": 1767106799000,
+        "assetbundleName": "countdown_2026",
+        "closeAt": 1767106799000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 352,
+                "limitedLoginBonusId": 203,
+                "day": 1,
+                "resourceBoxId": 215
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "seq": 150,
+        "name": "行く年来る年ログインキャンペーン",
+        "startAt": 1767150000000,
+        "endAt": 1768935599000,
+        "assetbundleName": "newyear_2026",
+        "closeAt": 1768071600000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 353,
+                "limitedLoginBonusId": 204,
+                "day": 1,
+                "resourceBoxId": 216
+            },
+            {
+                "id": 354,
+                "limitedLoginBonusId": 204,
+                "day": 2,
+                "resourceBoxId": 217
+            },
+            {
+                "id": 355,
+                "limitedLoginBonusId": 204,
+                "day": 3,
+                "resourceBoxId": 218
+            },
+            {
+                "id": 356,
+                "limitedLoginBonusId": 204,
+                "day": 4,
+                "resourceBoxId": 217
+            },
+            {
+                "id": 357,
+                "limitedLoginBonusId": 204,
+                "day": 5,
+                "resourceBoxId": 218
+            },
+            {
+                "id": 358,
+                "limitedLoginBonusId": 204,
+                "day": 6,
+                "resourceBoxId": 217
+            },
+            {
+                "id": 359,
+                "limitedLoginBonusId": 204,
+                "day": 7,
+                "resourceBoxId": 218
+            },
+            {
+                "id": 360,
+                "limitedLoginBonusId": 204,
+                "day": 8,
+                "resourceBoxId": 219
+            },
+            {
+                "id": 361,
+                "limitedLoginBonusId": 204,
+                "day": 9,
+                "resourceBoxId": 220
+            },
+            {
+                "id": 362,
+                "limitedLoginBonusId": 204,
+                "day": 10,
+                "resourceBoxId": 219
+            },
+            {
+                "id": 363,
+                "limitedLoginBonusId": 204,
+                "day": 11,
+                "resourceBoxId": 220
+            }
+        ]
     }
 ]

@@ -3262,5 +3262,69 @@
         "assetbundleName": "ceil_item_limited",
         "convertStartAt": 1768878000000,
         "convertResourceBoxId": 2
+    },
+    {
+        "id": 494,
+        "gachaId": 872,
+        "name": "The Light We Foundガチャシール",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1769742000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 495,
+        "gachaId": 873,
+        "name": "[鏡音リン]HAPPY ANNIVERSARYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1769580000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 496,
+        "gachaId": 875,
+        "name": "[鏡音レン]HAPPY ANNIVERSARYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1769580000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 498,
+        "gachaId": 884,
+        "name": "[日野森志歩]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1770616800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 499,
+        "gachaId": 886,
+        "name": "2026新春ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1770692400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 500,
+        "gachaId": 891,
+        "name": "¿幸福なバレリーナ?ガチャシール",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1771556400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 501,
+        "gachaId": 892,
+        "name": "[復刻]玲瓏たる追憶ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1771556400000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 502,
+        "gachaId": 893,
+        "name": "[復刻]あなたに届け♡Live Streamingガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1771556400000,
+        "convertResourceBoxId": 2
     }
 ]

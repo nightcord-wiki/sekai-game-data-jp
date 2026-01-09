@@ -3448,6 +3448,14 @@
         "frameName": "honor_frame_birthday_01_03"
     },
     {
+        "id": 542,
+        "name": "HAPPY BIRTHDAY 志歩 2026.1.8",
+        "pronunciation": "はっぴーばーすでーしほ2026.1.8",
+        "honorType": "birthday",
+        "backgroundAssetbundleName": "honor_bg_birthday_01_04",
+        "frameName": "honor_frame_birthday_01_04"
+    },
+    {
         "id": 544,
         "name": "HAPPY BIRTHDAY 遥 2025.10.5",
         "pronunciation": "はっぴーばーすでーはるか2025.10.5",
@@ -3470,6 +3478,22 @@
         "honorType": "birthday",
         "backgroundAssetbundleName": "honor_bg_birthday_01_11",
         "frameName": "honor_frame_birthday_01_11"
+    },
+    {
+        "id": 560,
+        "name": "HAPPY ANNIVERSARY リン 2025.12.27",
+        "pronunciation": "はっぴーあにばーさりーりん2025.12.27",
+        "honorType": "birthday",
+        "backgroundAssetbundleName": "honor_bg_birthday_01_22",
+        "frameName": "honor_frame_birthday_01_22"
+    },
+    {
+        "id": 561,
+        "name": "HAPPY ANNIVERSARY レン 2025.12.27",
+        "pronunciation": "はっぴーあにばーさりーれん2025.12.27",
+        "honorType": "birthday",
+        "backgroundAssetbundleName": "honor_bg_birthday_01_23",
+        "frameName": "honor_frame_birthday_01_23"
     },
     {
         "id": 563,
@@ -3504,6 +3528,12 @@
         "honorType": "event"
     },
     {
+        "id": 571,
+        "name": "ベストクリエイター 志歩 BDパーティー '26",
+        "pronunciation": "べすとくりえいたーしほばーすでーぱーてぃー26",
+        "honorType": "event"
+    },
+    {
         "id": 573,
         "name": "ベストクリエイター 遥 BDパーティー '25",
         "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25",
@@ -3519,6 +3549,18 @@
         "id": 578,
         "name": "ベストクリエイター 彰人 BDパーティー '25",
         "pronunciation": "べすとくりえいたーあきとばーすでーぱーてぃー25",
+        "honorType": "event"
+    },
+    {
+        "id": 589,
+        "name": "ベストクリエイター リン ANパーティー '25",
+        "pronunciation": "べすとくりえいたーりんばーすでーぱーてぃー25",
+        "honorType": "event"
+    },
+    {
+        "id": 590,
+        "name": "ベストクリエイター レン ANパーティー '25",
+        "pronunciation": "べすとくりえいたーれんばーすでーぱーてぃー25",
         "honorType": "event"
     },
     {
@@ -3602,10 +3644,50 @@
         "backgroundAssetbundleName": "honor_bg_event_lookup"
     },
     {
+        "id": 605,
+        "name": "ハッピーニューイヤー2026",
+        "pronunciation": "はっぴーにゅーいやー2026",
+        "honorType": "event"
+    },
+    {
         "id": 606,
         "name": "ともに、トゥルールートを目指して",
         "pronunciation": "ともに、とぅるーるーとをめざして",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_trueroute"
+    },
+    {
+        "id": 607,
+        "name": "この物語は希望をのせて",
+        "pronunciation": "このものがたりはきぼうをのせて",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_hope"
+    },
+    {
+        "id": 608,
+        "name": "ベストクリエイター あなたのクリスマス'25",
+        "pronunciation": "べすとくりえいたー あなたのくりすます25",
+        "honorType": "event"
+    },
+    {
+        "id": 610,
+        "name": "新年言祝ぐ、祈りの舞",
+        "pronunciation": "しんねんことほぐ、いのりのまい",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_celebrate"
+    },
+    {
+        "id": 611,
+        "name": "ランクマッチ2026 WINTER",
+        "pronunciation": "らんくまっち2026うぃんたー",
+        "honorType": "rank_match",
+        "backgroundAssetbundleName": "season_2026_winter"
+    },
+    {
+        "id": 612,
+        "name": "覚めない幻想をノックして",
+        "pronunciation": "さめないゆめをのっくして",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_knock"
     }
 ]

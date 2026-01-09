@@ -1498,5 +1498,20 @@
         "id": 303,
         "name": "Neru & z’5",
         "pronunciation": "ねる あんど ぜっとふぁいぶ"
+    },
+    {
+        "id": 304,
+        "name": "吐息.",
+        "pronunciation": "といき"
+    },
+    {
+        "id": 305,
+        "name": "烏屋茶房",
+        "pronunciation": "からすやさぼう"
+    },
+    {
+        "id": 308,
+        "name": "フロクロ",
+        "pronunciation": "ふろくろ"
     }
 ]

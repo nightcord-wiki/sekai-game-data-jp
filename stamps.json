@@ -10396,6 +10396,42 @@
         "description": "「ともに、トゥルールートを目指して\nアフターライブ」に参加"
     },
     {
+        "id": 930,
+        "stampType": "illustration",
+        "seq": 11570,
+        "name": "[スタンプ]遥：できるよ！",
+        "assetbundleName": "stamp0930",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 6,
+        "gameCharacterUnitId": 6,
+        "archivePublishedAt": 1766296800000,
+        "description": "「この物語は希望をのせて\nアフターライブ」に参加"
+    },
+    {
+        "id": 931,
+        "stampType": "illustration",
+        "seq": 11580,
+        "name": "[スタンプ]みのり：笑顔になれるように",
+        "assetbundleName": "stamp0931",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 5,
+        "gameCharacterUnitId": 5,
+        "archivePublishedAt": 1767160800000,
+        "description": "「新年言祝ぐ、祈りの舞\nアフターライブ」に参加"
+    },
+    {
+        "id": 932,
+        "stampType": "illustration",
+        "seq": 11590,
+        "name": "[スタンプ]奏：なんだろう…",
+        "assetbundleName": "stamp0932",
+        "balloonAssetbundleName": "balloon_stamp_01",
+        "characterId1": 17,
+        "gameCharacterUnitId": 17,
+        "archivePublishedAt": 1768111200000,
+        "description": "「覚めない幻想をノックして\nアフターライブ」に参加"
+    },
+    {
         "id": 101021,
         "stampType": "illustration",
         "seq": 7130,

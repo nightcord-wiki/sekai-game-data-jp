@@ -250,7 +250,7 @@
     {
         "id": 37,
         "name": "クリーンパウダールーム",
-        "pronunciation": "おふろせんめんじょ",
+        "pronunciation": "くりーんぱうだーるーむ",
         "mysekaiFixtureTagType": "series"
     },
     {
@@ -364,7 +364,7 @@
     {
         "id": 58,
         "name": "グッズ",
-        "pronunciation": "グッズ",
+        "pronunciation": "ぐっず",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -536,6 +536,24 @@
         "mysekaiFixtureTagType": "series"
     },
     {
+        "id": 92,
+        "name": "ほっこり温泉",
+        "pronunciation": "ほっこりおんせん",
+        "mysekaiFixtureTagType": "series"
+    },
+    {
+        "id": 93,
+        "name": "クリスマス",
+        "pronunciation": "くりすます",
+        "mysekaiFixtureTagType": "series"
+    },
+    {
+        "id": 94,
+        "name": "正月",
+        "pronunciation": "しょうがつ",
+        "mysekaiFixtureTagType": "series"
+    },
+    {
         "id": 10001,
         "name": "きらめく流星の家",
         "pronunciation": "きらめくりゅうせいのいえ",
@@ -652,7 +670,7 @@
     {
         "id": 10020,
         "name": "かがやくクローバーのチェスト",
-        "pronunciation": "かがやくクローバーのチェスト",
+        "pronunciation": "かがやくくろーばーのちぇすと",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -1246,7 +1264,7 @@
     {
         "id": 10124,
         "name": "熱帯樹",
-        "pronunciation": "ねったいじゅのなえ",
+        "pronunciation": "ねったいじゅ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -1276,7 +1294,7 @@
     {
         "id": 10129,
         "name": "スズランの種/白",
-        "pronunciation": "すずらんのたねしろの",
+        "pronunciation": "すずらんのたねしろ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -1594,7 +1612,7 @@
     {
         "id": 10183,
         "name": "ガーデンのブリキじょうろ",
-        "pronunciation": "がーでんののぶりきじょうろ",
+        "pronunciation": "がーでんのぶりきじょうろ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -2086,121 +2104,121 @@
     {
         "id": 10265,
         "name": "フレンチスタイルの壁紙",
-        "pronunciation": "ふらんちすたいるのかべがみ",
+        "pronunciation": "ふれんちすたいるのかべがみ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10266,
         "name": "フレンチスタイルの床",
-        "pronunciation": "ふらんちすたいるのゆか",
+        "pronunciation": "ふれんちすたいるのゆか",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10267,
         "name": "フレンチスタイルの窓",
-        "pronunciation": "ふらんちすたいるのまど",
+        "pronunciation": "ふれんちすたいるのまど",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10268,
         "name": "フレンチスタイルのチェスト",
-        "pronunciation": "ふらんちすたいるのちぇすと",
+        "pronunciation": "ふれんちすたいるのちぇすと",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10269,
         "name": "フレンチスタイルの姿見",
-        "pronunciation": "ふらんちすたいるのすがたみ",
+        "pronunciation": "ふれんちすたいるのすがたみ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10270,
         "name": "フレンチスタイルのベッド",
-        "pronunciation": "ふらんちすたいるのべっど",
+        "pronunciation": "ふれんちすたいるのべっど",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10271,
         "name": "フレンチスタイルのラウンドテーブル",
-        "pronunciation": "ふらんちすたいるのらうんどてーぶる",
+        "pronunciation": "ふれんちすたいるのらうんどてーぶる",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10272,
         "name": "フレンチスタイルのソファ",
-        "pronunciation": "ふらんちすたいるのそふぁ",
+        "pronunciation": "ふれんちすたいるのそふぁ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10273,
         "name": "フレンチスタイルの本棚",
-        "pronunciation": "ふらんちすたいるのほんだな",
+        "pronunciation": "ふれんちすたいるのほんだな",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10274,
         "name": "フレンチスタイルのテーブルライト",
-        "pronunciation": "ふらんちすたいるのてーぶるらいと",
+        "pronunciation": "ふれんちすたいるのてーぶるらいと",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10275,
         "name": "フレンチスタイルのシェルフ",
-        "pronunciation": "ふらんちすたいるのしぇるふ",
+        "pronunciation": "ふれんちすたいるのしぇるふ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10276,
         "name": "フレンチスタイルのポールハンガー",
-        "pronunciation": "ふらんちすたいるのぽーるはんがー",
+        "pronunciation": "ふれんちすたいるのぽーるはんがー",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10277,
         "name": "フレンチスタイルのハートラグ",
-        "pronunciation": "ふらんちすたいるのはーとらぐ",
+        "pronunciation": "ふれんちすたいるのはーとらぐ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10278,
         "name": "フレンチスタイルの壁掛け時計",
-        "pronunciation": "ふらんちすたいるのかべかけとけい",
+        "pronunciation": "ふれんちすたいるのかべかけとけい",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10279,
         "name": "フレンチスタイルの猫のアート",
-        "pronunciation": "ふらんちすたいるのねこのあーと",
+        "pronunciation": "ふれんちすたいるのねこのあーと",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10280,
         "name": "フレンチスタイルのファッション誌",
-        "pronunciation": "ふらんちすたいるのふぁっしょんし",
+        "pronunciation": "ふれんちすたいるのふぁっしょんし",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10281,
         "name": "フレンチスタイルのフラワーベース",
-        "pronunciation": "ふらんちすたいるのふらわーべーす",
+        "pronunciation": "ふれんちすたいるのふらわーべーす",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10282,
         "name": "フレンチスタイルのアロマキャンドル",
-        "pronunciation": "ふらんちすたいるのあろまきゃんどる",
+        "pronunciation": "ふれんちすたいるのあろまきゃんどる",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10283,
         "name": "フレンチスタイルのくまのぬいぐるみ",
-        "pronunciation": "ふらんちすたいるのくまのぬいぐるみ",
+        "pronunciation": "ふれんちすたいるのくまのぬいぐるみ",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10284,
         "name": "フレンチスタイルのティーセット",
-        "pronunciation": "ふらんちすたいるのてぃーせっと",
+        "pronunciation": "ふれんちすたいるのてぃーせっと",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -2320,7 +2338,7 @@
     {
         "id": 10304,
         "name": "山積みのCD",
-        "pronunciation": "やまづみのしーでぃ",
+        "pronunciation": "やまづみのしーでぃー",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -2398,7 +2416,7 @@
     {
         "id": 10317,
         "name": "エケベリア",
-        "pronunciation": "えけべりえ",
+        "pronunciation": "えけべりあ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -3165,7 +3183,7 @@
     },
     {
         "id": 10449,
-        "name": "月が見える旅館の用箪笥",
+        "name": "月が見える旅館の洋箪笥",
         "pronunciation": "つきがみえるりょかんのようだんす",
         "mysekaiFixtureTagType": "none"
     },
@@ -3310,7 +3328,7 @@
     {
         "id": 10473,
         "name": "天文学者の研究室の家",
-        "pronunciation": "てんもんがくしゃのいえ",
+        "pronunciation": "てんもんがくしゃのけんきゅうしつのいえ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -3736,7 +3754,7 @@
     {
         "id": 10544,
         "name": "カラータイル/グリーン",
-        "pronunciation": "からーたいるぐりーっｍ",
+        "pronunciation": "からーたいるぐりーん",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -4942,7 +4960,7 @@
     {
         "id": 10745,
         "name": "ドリーミィベビールームの壁紙",
-        "pronunciation": "どりーみぃべびーるーむのいえかべがみ",
+        "pronunciation": "どりーみぃべびーるーむのかべがみ",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5002,13 +5020,13 @@
     {
         "id": 10755,
         "name": "サイバーシティアーチ",
-        "pronunciation": "さいばーしてぃーあーち",
+        "pronunciation": "さいばーしてぃあーち",
         "mysekaiFixtureTagType": "none"
     },
     {
         "id": 10756,
         "name": "サイバーシティのネオン",
-        "pronunciation": "さいばーしーてぃのねおん",
+        "pronunciation": "さいばーしてぃのねおん",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5302,7 +5320,7 @@
     {
         "id": 10805,
         "name": "ゴールドクレスト",
-        "pronunciation": "ごーるどくれす",
+        "pronunciation": "ごーるどくれすと",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5374,7 +5392,7 @@
     {
         "id": 10817,
         "name": "クリーンパウダールームの窓",
-        "pronunciation": "クリーンパウダールーム",
+        "pronunciation": "くりーんぱうだーるーむのまど",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5548,7 +5566,7 @@
     {
         "id": 10846,
         "name": "和風の素朴な座布団",
-        "pronunciation": "わふうなそぼくなざぶとん",
+        "pronunciation": "わふうのそぼくなざぶとん",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5560,7 +5578,7 @@
     {
         "id": 10848,
         "name": "CDプレーヤー",
-        "pronunciation": "しーでぃーぷれいやー",
+        "pronunciation": "しーでぃーぷれーやー",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5572,7 +5590,7 @@
     {
         "id": 10850,
         "name": "ラジオカセットプレーヤー",
-        "pronunciation": "らじおかせっとぷれいやー",
+        "pronunciation": "らじおかせっとぷれーやー",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -5884,7 +5902,7 @@
     {
         "id": 10902,
         "name": "ロマンティックガーデンのテーブル",
-        "pronunciation": "ろまんてぃっくがーでんのでーぶる",
+        "pronunciation": "ろまんてぃっくがーでんのてーぶる",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -6100,7 +6118,7 @@
     {
         "id": 10938,
         "name": "ヴィンテージスタイルのテーブル",
-        "pronunciation": "ゔぃんてーじすたいるのでーぶる",
+        "pronunciation": "ゔぃんてーじすたいるのてーぶる",
         "mysekaiFixtureTagType": "none"
     },
     {
@@ -6368,6 +6386,84 @@
         "mysekaiFixtureTagType": "none"
     },
     {
+        "id": 10983,
+        "name": "ほっこり温泉の家",
+        "pronunciation": "ほっこりおんせんのいえ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10984,
+        "name": "ほっこり温泉の露天風呂",
+        "pronunciation": "ほっこりおんせんのろてんぶろ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10985,
+        "name": "ほっこり温泉の足湯",
+        "pronunciation": "ほっこりおんせんのあしゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10986,
+        "name": "ほっこり温泉の温泉たまご",
+        "pronunciation": "ほっこりおんせんのおんせんたまご",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10987,
+        "name": "ほっこり温泉の樽風呂",
+        "pronunciation": "ほっこりおんせんのたるぶろ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10988,
+        "name": "ほっこり温泉の竹",
+        "pronunciation": "ほっこりおんせんのたけ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10989,
+        "name": "ほっこり温泉のパーテーション",
+        "pronunciation": "ほっこりおんせんのぱーてーしょん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10990,
+        "name": "ほっこり温泉の灯り",
+        "pronunciation": "ほっこりおんせんのあかり",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10991,
+        "name": "ほっこり温泉の風呂桶",
+        "pronunciation": "ほっこりおんせんのふろおけ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10992,
+        "name": "ほっこり温泉の敷石",
+        "pronunciation": "ほっこりおんせんのしきいし",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10993,
+        "name": "ほっこり温泉の休憩椅子",
+        "pronunciation": "ほっこりおんせんのきゅうけいいす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10994,
+        "name": "ほっこり温泉の机",
+        "pronunciation": "ほっこりおんせんのつくえ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 10995,
+        "name": "ほっこり温泉のフルーツ牛乳",
+        "pronunciation": "ほっこりおんせんのふるーつぎゅうにゅう",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
         "id": 10996,
         "name": "バースデーケーキ（雫）",
         "pronunciation": "ばーすでーけーきしずく",
@@ -6401,6 +6497,282 @@
         "id": 11001,
         "name": "日野森雫BD '25",
         "pronunciation": "ひのもりしずくばーすでーにじゅうご",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11002,
+        "name": "クリスマスのツリー",
+        "pronunciation": "くりすますのつりー",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11003,
+        "name": "クリスマスのソリ",
+        "pronunciation": "くりすますのそり",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11004,
+        "name": "クリスマスのプレゼント",
+        "pronunciation": "くりすますのぷれぜんと",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11005,
+        "name": "クリスマスのリース",
+        "pronunciation": "くりすますのりーす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11006,
+        "name": "クリスマスのライト",
+        "pronunciation": "くりすますのらいと",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11007,
+        "name": "アニバーサリーケーキ（リン）",
+        "pronunciation": "あにばーさりーけーきりん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11008,
+        "name": "アニバーサリーバルーン（リン）",
+        "pronunciation": "あにばーさりーばるーんりん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11009,
+        "name": "アニバーサリーブーケ（リン）",
+        "pronunciation": "あにばーさりーぶーけりん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11010,
+        "name": "アニバーサリーガーランド（リン）",
+        "pronunciation": "あにばーさりーがーらんどりん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11011,
+        "name": "アニバーサリーチェア（リン）",
+        "pronunciation": "あにばーさりーちぇありん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11012,
+        "name": "アニバーサリーケーキ（レン）",
+        "pronunciation": "あにばーさりーけーきれん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11013,
+        "name": "アニバーサリーバルーン（レン）",
+        "pronunciation": "あにばーさりーばるーんれん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11014,
+        "name": "アニバーサリーブーケ（レン）",
+        "pronunciation": "あにばーさりーぶーけれん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11015,
+        "name": "アニバーサリーガーランド（レン）",
+        "pronunciation": "あにばーさりーがーらんどれん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11016,
+        "name": "アニバーサリーチェア（レン）",
+        "pronunciation": "あにばーさりーちぇあれん",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11017,
+        "name": "鏡音リン AN '25",
+        "pronunciation": "かがみねりんあにばーさりーにじゅうご",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11018,
+        "name": "鏡音レン AN '25",
+        "pronunciation": "かがみねれんあにばーさりーにじゅうご",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11019,
+        "name": "門松",
+        "pronunciation": "かどまつ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11020,
+        "name": "鏡餅",
+        "pronunciation": "かがみもち",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11021,
+        "name": "[リミテッドスタイル vol.2] 穂波のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11022,
+        "name": "[リミテッドスタイル vol.2] 穂波のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11023,
+        "name": "[リミテッドスタイル vol.2] 穂波のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーほなみのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11024,
+        "name": "[リミテッドスタイル vol.2] 雫のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11025,
+        "name": "[リミテッドスタイル vol.2] 雫のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11026,
+        "name": "[リミテッドスタイル vol.2] 雫のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーしずくのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11027,
+        "name": "[リミテッドスタイル vol.2] 彰人のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11028,
+        "name": "[リミテッドスタイル vol.2] 彰人のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11029,
+        "name": "[リミテッドスタイル vol.2] 彰人のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーあきとのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11030,
+        "name": "[リミテッドスタイル vol.2] えむのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11031,
+        "name": "[リミテッドスタイル vol.2] えむのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11032,
+        "name": "[リミテッドスタイル vol.2] えむのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえむのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11033,
+        "name": "[リミテッドスタイル vol.2] 絵名のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11034,
+        "name": "[リミテッドスタイル vol.2] 絵名のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11035,
+        "name": "[リミテッドスタイル vol.2] 絵名のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーえなのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11036,
+        "name": "[リミテッドスタイル vol.2] レンのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11037,
+        "name": "[リミテッドスタイル vol.2] レンのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11038,
+        "name": "[リミテッドスタイル vol.2] レンのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーれんのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11039,
+        "name": "[リミテッドスタイル vol.2] ルカのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11040,
+        "name": "[リミテッドスタイル vol.2] ルカのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11041,
+        "name": "[リミテッドスタイル vol.2] ルカのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむつーるかのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11055,
+        "name": "バースデーケーキ（志歩）",
+        "pronunciation": "ばーすでーけーきしほ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11056,
+        "name": "バースデーバルーン（志歩）",
+        "pronunciation": "ばーすでーばるーんしほ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11057,
+        "name": "バースデーブーケ（志歩）",
+        "pronunciation": "ばーすでーぶーけしほ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11058,
+        "name": "バースデーガーランド（志歩）",
+        "pronunciation": "ばーすでーがーらんどしほ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11059,
+        "name": "バースデーチェア（志歩）",
+        "pronunciation": "ばーすでーちぇあしほ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11060,
+        "name": "日野森志歩BD '26",
+        "pronunciation": "ひのもりしほばーすでーにじゅうろく",
         "mysekaiFixtureTagType": "none"
     }
 ]
