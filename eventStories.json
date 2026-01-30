@@ -25241,5 +25241,263 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 193,
+        "eventId": 193,
+        "outline": "RUSH BEATSに向けて現地の空気を掴もうと、アメリカのイベントに出場している冬弥達。その合間に、Embersとillysが大会出場を祝ってパーティーをしてくれることになるが——。",
+        "bannerGameCharacterUnitId": 12,
+        "assetbundleName": "event_allout_2026",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001563,
+                "eventStoryId": 193,
+                "episodeNo": 1,
+                "title": "戦いの牙を研いで",
+                "assetbundleName": "event_allout_2026_01",
+                "scenarioId": "event_193_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001564,
+                "eventStoryId": 193,
+                "episodeNo": 2,
+                "title": "秘密基地",
+                "assetbundleName": "event_allout_2026_02",
+                "scenarioId": "event_193_02",
+                "releaseConditionId": 119201,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001565,
+                "eventStoryId": 193,
+                "episodeNo": 3,
+                "title": "微かな違和感",
+                "assetbundleName": "event_allout_2026_03",
+                "scenarioId": "event_193_03",
+                "releaseConditionId": 119202,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001566,
+                "eventStoryId": 193,
+                "episodeNo": 4,
+                "title": "交わす約束",
+                "assetbundleName": "event_allout_2026_04",
+                "scenarioId": "event_193_04",
+                "releaseConditionId": 119203,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001567,
+                "eventStoryId": 193,
+                "episodeNo": 5,
+                "title": "ボルテージを上げて",
+                "assetbundleName": "event_allout_2026_05",
+                "scenarioId": "event_193_05",
+                "releaseConditionId": 119204,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001568,
+                "eventStoryId": 193,
+                "episodeNo": 6,
+                "title": "理屈ではなく",
+                "assetbundleName": "event_allout_2026_06",
+                "scenarioId": "event_193_06",
+                "releaseConditionId": 119205,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001569,
+                "eventStoryId": 193,
+                "episodeNo": 7,
+                "title": "望むところ",
+                "assetbundleName": "event_allout_2026_07",
+                "scenarioId": "event_193_07",
+                "releaseConditionId": 119206,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001570,
+                "eventStoryId": 193,
+                "episodeNo": 8,
+                "title": "全力の、その先",
+                "assetbundleName": "event_allout_2026_08",
+                "scenarioId": "event_193_08",
+                "releaseConditionId": 119207,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 145
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "eventId": 194,
+        "outline": "バレンタインが近づいたある日、神山高校でリアルゲームイベントが開催される。勇者一行に扮して魔王を倒すそのゲームで、司は勇者になることを願うが、割り振られた役職は思いもよらないもので……！？",
+        "bannerGameCharacterUnitId": 13,
+        "assetbundleName": "event_revenge_2026",
+        "eventStoryEpisodes": [
+            {
+                "id": 1001571,
+                "eventStoryId": 194,
+                "episodeNo": 1,
+                "title": "リアルゲームをしよう！",
+                "assetbundleName": "event_revenge_2026_01",
+                "scenarioId": "event_194_01",
+                "releaseConditionId": 1,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001572,
+                "eventStoryId": 194,
+                "episodeNo": 2,
+                "title": "美味しい役職",
+                "assetbundleName": "event_revenge_2026_02",
+                "scenarioId": "event_194_02",
+                "releaseConditionId": 119301,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001573,
+                "eventStoryId": 194,
+                "episodeNo": 3,
+                "title": "くりだせ！カッコイイ技",
+                "assetbundleName": "event_revenge_2026_03",
+                "scenarioId": "event_194_03",
+                "releaseConditionId": 119302,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001574,
+                "eventStoryId": 194,
+                "episodeNo": 4,
+                "title": "モヤモヤする気持ち",
+                "assetbundleName": "event_revenge_2026_04",
+                "scenarioId": "event_194_04",
+                "releaseConditionId": 119303,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001575,
+                "eventStoryId": 194,
+                "episodeNo": 5,
+                "title": "最後の四天王",
+                "assetbundleName": "event_revenge_2026_05",
+                "scenarioId": "event_194_05",
+                "releaseConditionId": 119304,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001576,
+                "eventStoryId": 194,
+                "episodeNo": 6,
+                "title": "裏切り者は誰だ？",
+                "assetbundleName": "event_revenge_2026_06",
+                "scenarioId": "event_194_06",
+                "releaseConditionId": 119305,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001577,
+                "eventStoryId": 194,
+                "episodeNo": 7,
+                "title": "愛は全てを超えて",
+                "assetbundleName": "event_revenge_2026_07",
+                "scenarioId": "event_194_07",
+                "releaseConditionId": 119306,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 2
+                    }
+                ]
+            },
+            {
+                "id": 1001578,
+                "eventStoryId": 194,
+                "episodeNo": 8,
+                "title": "エンディングはいつも",
+                "assetbundleName": "event_revenge_2026_08",
+                "scenarioId": "event_194_08",
+                "releaseConditionId": 119307,
+                "episodeRewards": [
+                    {
+                        "storyType": "event_story",
+                        "resourceBoxId": 146
+                    }
+                ]
+            }
+        ]
     }
 ]

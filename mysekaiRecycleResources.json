@@ -384,6 +384,12 @@
         "resourceBoxId": 77
     },
     {
+        "id": 84,
+        "resourceType": "mysekai_material",
+        "resourceId": 84,
+        "resourceBoxId": 84
+    },
+    {
         "id": 88,
         "resourceType": "mysekai_material",
         "resourceId": 88,
@@ -396,6 +402,12 @@
         "resourceBoxId": 89
     },
     {
+        "id": 90,
+        "resourceType": "mysekai_material",
+        "resourceId": 90,
+        "resourceBoxId": 90
+    },
+    {
         "id": 91,
         "resourceType": "mysekai_material",
         "resourceId": 91,
@@ -406,6 +418,12 @@
         "resourceType": "mysekai_material",
         "resourceId": 93,
         "resourceBoxId": 93
+    },
+    {
+        "id": 94,
+        "resourceType": "mysekai_material",
+        "resourceId": 94,
+        "resourceBoxId": 94
     },
     {
         "id": 101,

@@ -10028,5 +10028,110 @@
         "cardId": 1317,
         "costume3dId": 922161,
         "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1320,
+        "costume3dId": 923009,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1320,
+        "costume3dId": 923010,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1320,
+        "costume3dId": 923049,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1321,
+        "costume3dId": 924073,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1321,
+        "costume3dId": 924074,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1321,
+        "costume3dId": 924161,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1322,
+        "costume3dId": 925041,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1322,
+        "costume3dId": 925042,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1322,
+        "costume3dId": 925049,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1327,
+        "costume3dId": 928017,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1327,
+        "costume3dId": 928018,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1327,
+        "costume3dId": 928049,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1327,
+        "costume3dId": 928053,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1328,
+        "costume3dId": 929001,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1328,
+        "costume3dId": 929002,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1328,
+        "costume3dId": 929049,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1328,
+        "costume3dId": 929053,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1329,
+        "costume3dId": 930121,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1329,
+        "costume3dId": 930122,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1329,
+        "costume3dId": 930161,
+        "isInitialObtainHair": false
+    },
+    {
+        "cardId": 1329,
+        "costume3dId": 930165,
+        "isInitialObtainHair": false
     }
 ]

@@ -554,6 +554,12 @@
         "mysekaiFixtureTagType": "series"
     },
     {
+        "id": 95,
+        "name": "コズミックシャトル",
+        "pronunciation": "こずみっくしゃとる",
+        "mysekaiFixtureTagType": "series"
+    },
+    {
         "id": 10001,
         "name": "きらめく流星の家",
         "pronunciation": "きらめくりゅうせいのいえ",
@@ -6740,6 +6746,84 @@
         "mysekaiFixtureTagType": "none"
     },
     {
+        "id": 11042,
+        "name": "コズミックシャトルの家",
+        "pronunciation": "こずみっくしゃとるのいえ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11043,
+        "name": "コズミックシャトルの壁",
+        "pronunciation": "こずみっくしゃとるのかべ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11044,
+        "name": "コズミックシャトルの床",
+        "pronunciation": "こずみっくしゃとるのゆか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11045,
+        "name": "コズミックシャトルの窓",
+        "pronunciation": "こずみっくしゃとるのまど",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11046,
+        "name": "コズミックシャトルのチェスト",
+        "pronunciation": "こずみっくしゃとるのちぇすと",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11047,
+        "name": "コズミックシャトルのベッド",
+        "pronunciation": "こずみっくしゃとるのべっど",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11048,
+        "name": "コズミックシャトルのテーブル",
+        "pronunciation": "こずみっくしゃとるのてーぶる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11049,
+        "name": "コズミックシャトルの椅子",
+        "pronunciation": "こずみっくしゃとるのいす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11050,
+        "name": "コズミックシャトルのロボット",
+        "pronunciation": "こずみっくしゃとるのろぼっと",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11051,
+        "name": "コズミックシャトルの操縦席",
+        "pronunciation": "こずみっくしゃとるのそうじゅうせき",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11052,
+        "name": "コズミックシャトルの柱",
+        "pronunciation": "こずみっくしゃとるのはしら",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11053,
+        "name": "コズミックシャトルのモニター",
+        "pronunciation": "こずみっくしゃとるのもにたー",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11054,
+        "name": "コズミックシャトルの植物",
+        "pronunciation": "こずみっくしゃとるのしょくぶつ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
         "id": 11055,
         "name": "バースデーケーキ（志歩）",
         "pronunciation": "ばーすでーけーきしほ",
@@ -6773,6 +6857,186 @@
         "id": 11060,
         "name": "日野森志歩BD '26",
         "pronunciation": "ひのもりしほばーすでーにじゅうろく",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11061,
+        "name": "バースデーケーキ（まふゆ）",
+        "pronunciation": "ばーすでーけーきまふゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11062,
+        "name": "バースデーバルーン（まふゆ）",
+        "pronunciation": "ばーすでーばるーんまふゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11063,
+        "name": "バースデーブーケ（まふゆ）",
+        "pronunciation": "ばーすでーぶーけまふゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11064,
+        "name": "バースデーガーランド（まふゆ）",
+        "pronunciation": "ばーすでーがーらんどまふゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11065,
+        "name": "バースデーチェア（まふゆ）",
+        "pronunciation": "ばーすでーちぇあまふゆ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11066,
+        "name": "朝比奈まふゆBD '26",
+        "pronunciation": "あさひなまふゆばーすでーにじゅうろく",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11067,
+        "name": "アニバーサリーケーキ（ルカ）",
+        "pronunciation": "あにばーさりーけーきるか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11068,
+        "name": "アニバーサリーバルーン（ルカ）",
+        "pronunciation": "あにばーさりーばるーんるか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11069,
+        "name": "アニバーサリーブーケ（ルカ）",
+        "pronunciation": "あにばーさりーぶーけるか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11070,
+        "name": "アニバーサリーガーランド（ルカ）",
+        "pronunciation": "あにばーさりーがーらんどるか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11071,
+        "name": "アニバーサリーチェア（ルカ）",
+        "pronunciation": "あにばーさりーちぇあるか",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11072,
+        "name": "巡音ルカAN '26",
+        "pronunciation": "めぐりねるかあにばーさりーにじゅうろく",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11089,
+        "name": "[リミテッドスタイル vol.3] 一歌のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11090,
+        "name": "[リミテッドスタイル vol.3] 一歌のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11091,
+        "name": "[リミテッドスタイル vol.3] 一歌のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーいちかのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11092,
+        "name": "[リミテッドスタイル vol.3] 遥のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11093,
+        "name": "[リミテッドスタイル vol.3] 遥のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11094,
+        "name": "[リミテッドスタイル vol.3] 遥のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーはるかのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11095,
+        "name": "[リミテッドスタイル vol.3] こはねのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11096,
+        "name": "[リミテッドスタイル vol.3] こはねのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11097,
+        "name": "[リミテッドスタイル vol.3] こはねのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーこはねのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11098,
+        "name": "[リミテッドスタイル vol.3] 類のぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11099,
+        "name": "[リミテッドスタイル vol.3] 類のぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11100,
+        "name": "[リミテッドスタイル vol.3] 類のぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーるいのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11101,
+        "name": "[リミテッドスタイル vol.3] まふゆのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11102,
+        "name": "[リミテッドスタイル vol.3] まふゆのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11103,
+        "name": "[リミテッドスタイル vol.3] まふゆのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーまふゆのぬいぐるみえる",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11104,
+        "name": "[リミテッドスタイル vol.3] MEIKOのぬいぐるみ/S",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえす",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11105,
+        "name": "[リミテッドスタイル vol.3] MEIKOのぬいぐるみ/M",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえむ",
+        "mysekaiFixtureTagType": "none"
+    },
+    {
+        "id": 11106,
+        "name": "[リミテッドスタイル vol.3] MEIKOのぬいぐるみ/L",
+        "pronunciation": "りみてっどすたいるぼりゅーむすりーめいこのぬいぐるみえる",
         "mysekaiFixtureTagType": "none"
     }
 ]

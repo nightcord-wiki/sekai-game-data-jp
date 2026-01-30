@@ -13842,6 +13842,90 @@
         "releaseConditionId": 119107
     },
     {
+        "id": 119201,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001564,
+        "releaseConditionId": 119201
+    },
+    {
+        "id": 119202,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001565,
+        "releaseConditionId": 119202
+    },
+    {
+        "id": 119203,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001566,
+        "releaseConditionId": 119203
+    },
+    {
+        "id": 119204,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001567,
+        "releaseConditionId": 119204
+    },
+    {
+        "id": 119205,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001568,
+        "releaseConditionId": 119205
+    },
+    {
+        "id": 119206,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001569,
+        "releaseConditionId": 119206
+    },
+    {
+        "id": 119207,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001570,
+        "releaseConditionId": 119207
+    },
+    {
+        "id": 119301,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001572,
+        "releaseConditionId": 119301
+    },
+    {
+        "id": 119302,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001573,
+        "releaseConditionId": 119302
+    },
+    {
+        "id": 119303,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001574,
+        "releaseConditionId": 119303
+    },
+    {
+        "id": 119304,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001575,
+        "releaseConditionId": 119304
+    },
+    {
+        "id": 119305,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001576,
+        "releaseConditionId": 119305
+    },
+    {
+        "id": 119306,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001577,
+        "releaseConditionId": 119306
+    },
+    {
+        "id": 119307,
+        "topicType": "event_story_episode",
+        "topicTypeId": 1001578,
+        "releaseConditionId": 119307
+    },
+    {
         "id": 200001,
         "topicType": "cut_in_voice",
         "topicTypeId": 4124,
@@ -22048,5 +22132,77 @@
         "topicType": "cut_in_voice",
         "topicTypeId": 5537,
         "releaseConditionId": 1192603
+    },
+    {
+        "id": 201369,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5538,
+        "releaseConditionId": 1062401
+    },
+    {
+        "id": 201370,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5539,
+        "releaseConditionId": 1062402
+    },
+    {
+        "id": 201371,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5540,
+        "releaseConditionId": 1062403
+    },
+    {
+        "id": 201372,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5541,
+        "releaseConditionId": 1062401
+    },
+    {
+        "id": 201373,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5542,
+        "releaseConditionId": 1062402
+    },
+    {
+        "id": 201374,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5543,
+        "releaseConditionId": 1062403
+    },
+    {
+        "id": 201375,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5544,
+        "releaseConditionId": 1082501
+    },
+    {
+        "id": 201376,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5545,
+        "releaseConditionId": 1082502
+    },
+    {
+        "id": 201377,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5546,
+        "releaseConditionId": 1082503
+    },
+    {
+        "id": 201378,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5547,
+        "releaseConditionId": 1082501
+    },
+    {
+        "id": 201379,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5548,
+        "releaseConditionId": 1082502
+    },
+    {
+        "id": 201380,
+        "topicType": "cut_in_voice",
+        "topicTypeId": 5549,
+        "releaseConditionId": 1082503
     }
 ]
