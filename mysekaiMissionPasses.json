@@ -82,5 +82,17 @@
         "liveMissionPeriodId": 67,
         "mysekaiLiveMissionRewardGameCharacterGroupId": 14,
         "assetbundleName": "mysekai_mission_pass14"
+    },
+    {
+        "id": 15,
+        "liveMissionPeriodId": 68,
+        "mysekaiLiveMissionRewardGameCharacterGroupId": 15,
+        "assetbundleName": "mysekai_mission_pass15"
+    },
+    {
+        "id": 16,
+        "liveMissionPeriodId": 69,
+        "mysekaiLiveMissionRewardGameCharacterGroupId": 16,
+        "assetbundleName": "mysekai_mission_pass16"
     }
 ]

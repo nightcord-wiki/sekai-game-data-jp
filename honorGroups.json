@@ -3464,6 +3464,14 @@
         "frameName": "honor_frame_birthday_01_06"
     },
     {
+        "id": 545,
+        "name": "HAPPY BIRTHDAY 愛莉 2026.3.19",
+        "pronunciation": "はっぴーばーすでーあいり2026.3.19",
+        "honorType": "birthday",
+        "backgroundAssetbundleName": "honor_bg_birthday_01_07",
+        "frameName": "honor_frame_birthday_01_07"
+    },
+    {
         "id": 546,
         "name": "HAPPY BIRTHDAY 雫 2025.12.6",
         "pronunciation": "はっぴーばーすでーしずく2025.12.6",
@@ -3577,6 +3585,12 @@
         "id": 573,
         "name": "ベストクリエイター 遥 BDパーティー '25",
         "pronunciation": "べすとくりえいたーはるかばーすでーぱーてぃー25",
+        "honorType": "event"
+    },
+    {
+        "id": 574,
+        "name": "ベストクリエイター 愛莉 BDパーティー '26",
+        "pronunciation": "べすとくりえいたーあいりばーすでーぱーてぃー26",
         "honorType": "event"
     },
     {
@@ -3793,5 +3807,58 @@
         "pronunciation": "ちぇんじ！えむはおうじょさま！？",
         "honorType": "event",
         "backgroundAssetbundleName": "honor_bg_event_princess"
+    },
+    {
+        "id": 617,
+        "name": "悪夢の庭を歌い明かして",
+        "pronunciation": "あくむのにわをうたいあかして",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_nightmare"
+    },
+    {
+        "id": 618,
+        "name": "ベストクリエイター ミクとの思い出",
+        "pronunciation": "べすとくりえいたー みくとのおもいで",
+        "honorType": "event"
+    },
+    {
+        "id": 619,
+        "name": "Open up new horizons！",
+        "pronunciation": "おーぷん　あっぷ　にゅー　ほらいずんず！",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_horizons"
+    },
+    {
+        "id": 620,
+        "name": "Amid the Wavering Light",
+        "pronunciation": "あみっど　ざ　うぇいゔぁりんぐ　らいと",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_wavering"
+    },
+    {
+        "id": 621,
+        "name": "残照のInside Direction",
+        "pronunciation": "ざんしょうのいんさいどでぃれくしょん",
+        "honorType": "event",
+        "backgroundAssetbundleName": "honor_bg_event_direction"
+    },
+    {
+        "id": 622,
+        "name": "ランクマッチ2026 SPRING",
+        "pronunciation": "らんくまっち2026すぷりんぐ",
+        "honorType": "rank_match",
+        "backgroundAssetbundleName": "season_2026_spring"
+    },
+    {
+        "id": 623,
+        "name": "ベストクリエイター フラワーフェスティバル",
+        "pronunciation": "べすとくりえいたー ふらわーふぇすてぃばる",
+        "honorType": "event"
+    },
+    {
+        "id": 624,
+        "name": "アメジスト",
+        "pronunciation": "あめじすと",
+        "honorType": "achievement"
     }
 ]

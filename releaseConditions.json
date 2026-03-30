@@ -9217,6 +9217,167 @@
         "releaseConditionTypeLevel": 60
     },
     {
+        "id": 31345,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31346,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31347,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31348,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1348,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31349,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1349,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31350,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1350,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31351,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1351,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31352,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1352,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31353,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1353,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31354,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1354,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31355,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1355,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31356,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1356,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31357,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1357,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31358,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1358,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31359,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1359,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31360,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1360,
+        "releaseConditionTypeLevel": 30
+    },
+    {
+        "id": 31361,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31362,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31363,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31364,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31365,
+        "sentence": "レベル60・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 60
+    },
+    {
+        "id": 31366,
+        "sentence": "レベル50・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1366,
+        "releaseConditionTypeLevel": 50
+    },
+    {
+        "id": 31367,
+        "sentence": "レベル30・前編を読了で解放可能",
+        "releaseConditionType": "card_level",
+        "releaseConditionTypeId": 1367,
+        "releaseConditionTypeLevel": 30
+    },
+    {
         "id": 40001,
         "sentence": "GOOD以下を7以内でEXPERTクリアで解放",
         "releaseConditionType": "music_difficulty_better_play",
@@ -33246,6 +33407,454 @@
         "releaseConditionTypeLevel": 5
     },
     {
+        "id": 66440,
+        "sentence": "「[悪夢の世界で響く歌は] 東雲絵名」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66441,
+        "sentence": "「[悪夢の世界で響く歌は] 東雲絵名」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66442,
+        "sentence": "「[悪夢の世界で響く歌は] 東雲絵名」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66443,
+        "sentence": "「[悪夢の世界で響く歌は] 東雲絵名」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66444,
+        "sentence": "「[悪夢の世界で響く歌は] 東雲絵名」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1345,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66450,
+        "sentence": "「[暗い庭と好奇心] 小豆沢こはね」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66451,
+        "sentence": "「[暗い庭と好奇心] 小豆沢こはね」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66452,
+        "sentence": "「[暗い庭と好奇心] 小豆沢こはね」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66453,
+        "sentence": "「[暗い庭と好奇心] 小豆沢こはね」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66454,
+        "sentence": "「[暗い庭と好奇心] 小豆沢こはね」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1346,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66460,
+        "sentence": "「[指さす先にある道] 鏡音レン」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66461,
+        "sentence": "「[指さす先にある道] 鏡音レン」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66462,
+        "sentence": "「[指さす先にある道] 鏡音レン」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66463,
+        "sentence": "「[指さす先にある道] 鏡音レン」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66464,
+        "sentence": "「[指さす先にある道] 鏡音レン」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1347,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66470,
+        "sentence": "「[心からの涙を] 桃井愛莉」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1350,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66471,
+        "sentence": "「[心からの涙を] 桃井愛莉」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1350,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66472,
+        "sentence": "「[心からの涙を] 桃井愛莉」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1350,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66473,
+        "sentence": "「[心からの涙を] 桃井愛莉」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1350,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66480,
+        "sentence": "「[うっかりは口から] 花里みのり」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1351,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66481,
+        "sentence": "「[うっかりは口から] 花里みのり」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1351,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66482,
+        "sentence": "「[うっかりは口から] 花里みのり」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1351,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66483,
+        "sentence": "「[うっかりは口から] 花里みのり」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1351,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66490,
+        "sentence": "「[目移りしちゃうわ！] 日野森雫」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1352,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66491,
+        "sentence": "「[目移りしちゃうわ！] 日野森雫」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1352,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66492,
+        "sentence": "「[目移りしちゃうわ！] 日野森雫」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1352,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66493,
+        "sentence": "「[目移りしちゃうわ！] 日野森雫」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1352,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66500,
+        "sentence": "「[服作り奮闘中] 暁山瑞希」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1356,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66501,
+        "sentence": "「[服作り奮闘中] 暁山瑞希」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1356,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66502,
+        "sentence": "「[服作り奮闘中] 暁山瑞希」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1356,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66503,
+        "sentence": "「[服作り奮闘中] 暁山瑞希」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1356,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66510,
+        "sentence": "「[朝日とココア] 宵崎奏」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1357,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66511,
+        "sentence": "「[朝日とココア] 宵崎奏」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1357,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66512,
+        "sentence": "「[朝日とココア] 宵崎奏」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1357,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66513,
+        "sentence": "「[朝日とココア] 宵崎奏」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1357,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66520,
+        "sentence": "「[お気に入りの服] 初音ミク」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1358,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66521,
+        "sentence": "「[お気に入りの服] 初音ミク」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1358,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66522,
+        "sentence": "「[お気に入りの服] 初音ミク」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1358,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66523,
+        "sentence": "「[お気に入りの服] 初音ミク」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1358,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66530,
+        "sentence": "「[足跡をたどって] 日野森雫」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66531,
+        "sentence": "「[足跡をたどって] 日野森雫」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66532,
+        "sentence": "「[足跡をたどって] 日野森雫」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66533,
+        "sentence": "「[足跡をたどって] 日野森雫」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66534,
+        "sentence": "「[足跡をたどって] 日野森雫」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1361,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66540,
+        "sentence": "「[見つけてもらったから] 朝比奈まふゆ」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66541,
+        "sentence": "「[見つけてもらったから] 朝比奈まふゆ」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66542,
+        "sentence": "「[見つけてもらったから] 朝比奈まふゆ」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66543,
+        "sentence": "「[見つけてもらったから] 朝比奈まふゆ」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66544,
+        "sentence": "「[見つけてもらったから] 朝比奈まふゆ」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1362,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66550,
+        "sentence": "「[思い描いたその画が] 神代類」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66551,
+        "sentence": "「[思い描いたその画が] 神代類」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66552,
+        "sentence": "「[思い描いたその画が] 神代類」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66553,
+        "sentence": "「[思い描いたその画が] 神代類」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66554,
+        "sentence": "「[思い描いたその画が] 神代類」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1363,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66560,
+        "sentence": "「[口には出せないこの気持ち] 草薙寧々」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66561,
+        "sentence": "「[口には出せないこの気持ち] 草薙寧々」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66562,
+        "sentence": "「[口には出せないこの気持ち] 草薙寧々」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66563,
+        "sentence": "「[口には出せないこの気持ち] 草薙寧々」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66564,
+        "sentence": "「[口には出せないこの気持ち] 草薙寧々」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1364,
+        "releaseConditionTypeLevel": 5
+    },
+    {
+        "id": 66570,
+        "sentence": "「[名探偵MEIKO！？] MEIKO」を入手",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 0
+    },
+    {
+        "id": 66571,
+        "sentence": "「[名探偵MEIKO！？] MEIKO」のマスターランク1で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 1
+    },
+    {
+        "id": 66572,
+        "sentence": "「[名探偵MEIKO！？] MEIKO」のマスターランク2で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 2
+    },
+    {
+        "id": 66573,
+        "sentence": "「[名探偵MEIKO！？] MEIKO」のマスターランク3で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 3
+    },
+    {
+        "id": 66574,
+        "sentence": "「[名探偵MEIKO！？] MEIKO」のマスターランク5で解放",
+        "releaseConditionType": "master_rank",
+        "releaseConditionTypeId": 1365,
+        "releaseConditionTypeLevel": 5
+    },
+    {
         "id": 70001,
         "sentence": "キャラクターランク1で解放",
         "releaseConditionType": "character_rank",
@@ -44578,6 +45187,226 @@
         "releaseConditionTypeId": 1001594
     },
     {
+        "id": 119601,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 119602,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 119603,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 119604,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 119605,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 119606,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 119607,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 197,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 119608,
+        "sentence": "「悪夢の庭を歌い明かして」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001602
+    },
+    {
+        "id": 119701,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 119702,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 119703,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 119704,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 119705,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 119706,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 119707,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 198,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 119708,
+        "sentence": "「Open up new horizons！」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001610
+    },
+    {
+        "id": 119801,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 119802,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 119803,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 119804,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 119805,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 119806,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 119807,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 199,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 119808,
+        "sentence": "「Amid the Wavering Light」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001618
+    },
+    {
+        "id": 119901,
+        "sentence": "イベントPが12000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 12000
+    },
+    {
+        "id": 119902,
+        "sentence": "イベントPが32000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 32000
+    },
+    {
+        "id": 119903,
+        "sentence": "イベントPが52000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 52000
+    },
+    {
+        "id": 119904,
+        "sentence": "イベントPが76000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 76000
+    },
+    {
+        "id": 119905,
+        "sentence": "イベントPが100000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 100000
+    },
+    {
+        "id": 119906,
+        "sentence": "イベントPが125000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 125000
+    },
+    {
+        "id": 119907,
+        "sentence": "イベントPが150000に到達する",
+        "releaseConditionType": "event_point",
+        "releaseConditionTypeId": 200,
+        "releaseConditionTypeQuantity": 150000
+    },
+    {
+        "id": 119908,
+        "sentence": "「残照のInside Direction」の第8話を読む",
+        "releaseConditionType": "event_story",
+        "releaseConditionTypeId": 1001626
+    },
+    {
         "id": 800001,
         "sentence": "バーチャルライブ参加",
         "releaseConditionType": "virtual_live_participation",
@@ -46951,6 +47780,27 @@
         "releaseConditionTypeLevel": 56
     },
     {
+        "id": 1051501,
+        "sentence": "花里みのりと草薙寧々のキズナランクを16まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10515,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1051502,
+        "sentence": "花里みのりと草薙寧々のキズナランクを36まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10515,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1051503,
+        "sentence": "花里みのりと草薙寧々のキズナランクを56まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10515,
+        "releaseConditionTypeLevel": 56
+    },
+    {
         "id": 1051701,
         "sentence": "花里みのりと宵崎奏のキズナランクを16まで上げよう。",
         "releaseConditionType": "bonds_rank",
@@ -47473,6 +48323,27 @@
         "sentence": "桃井愛莉と宵崎奏のキズナランクを56まで上げよう。",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 10717,
+        "releaseConditionTypeLevel": 56
+    },
+    {
+        "id": 1071801,
+        "sentence": "桃井愛莉と朝比奈まふゆのキズナランクを16まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10718,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1071802,
+        "sentence": "桃井愛莉と朝比奈まふゆのキズナランクを36まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10718,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1071803,
+        "sentence": "桃井愛莉と朝比奈まふゆのキズナランクを56まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 10718,
         "releaseConditionTypeLevel": 56
     },
     {
@@ -48880,6 +49751,27 @@
         "sentence": "天馬司と神代類のキズナランクを56まで上げよう。",
         "releaseConditionType": "bonds_rank",
         "releaseConditionTypeId": 11316,
+        "releaseConditionTypeLevel": 56
+    },
+    {
+        "id": 1131801,
+        "sentence": "天馬司と朝比奈まふゆのキズナランクを16まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11318,
+        "releaseConditionTypeLevel": 16
+    },
+    {
+        "id": 1131802,
+        "sentence": "天馬司と朝比奈まふゆのキズナランクを36まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11318,
+        "releaseConditionTypeLevel": 36
+    },
+    {
+        "id": 1131803,
+        "sentence": "天馬司と朝比奈まふゆのキズナランクを56まで上げよう。",
+        "releaseConditionType": "bonds_rank",
+        "releaseConditionTypeId": 11318,
         "releaseConditionTypeLevel": 56
     },
     {

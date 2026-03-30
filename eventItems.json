@@ -1753,5 +1753,33 @@
         "name": "イベントバッジ",
         "flavorText": "イベント交換所でアイテムと交換できます。",
         "assetbundleName": "badge_mysterious"
+    },
+    {
+        "id": 258,
+        "eventId": 197,
+        "name": "イベントバッジ",
+        "flavorText": "イベント交換所でアイテムと交換できます。",
+        "assetbundleName": "badge_happy"
+    },
+    {
+        "id": 259,
+        "eventId": 198,
+        "name": "イベントバッジ",
+        "flavorText": "イベント交換所でアイテムと交換できます。",
+        "assetbundleName": "badge_pure"
+    },
+    {
+        "id": 260,
+        "eventId": 199,
+        "name": "イベントバッジ",
+        "flavorText": "イベント交換所でアイテムと交換できます。",
+        "assetbundleName": "badge_cute"
+    },
+    {
+        "id": 261,
+        "eventId": 200,
+        "name": "イベントバッジ",
+        "flavorText": "イベント交換所でアイテムと交換できます。",
+        "assetbundleName": "badge_cool"
     }
 ]

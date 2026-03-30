@@ -2819,5 +2819,54 @@
         "eventStoryId": 196,
         "unit": "theme_park",
         "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 421,
+        "seq": 421,
+        "eventStoryId": 197,
+        "unit": "light_sound",
+        "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 422,
+        "seq": 422,
+        "eventStoryId": 197,
+        "unit": "street",
+        "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 423,
+        "seq": 423,
+        "eventStoryId": 197,
+        "unit": "school_refusal",
+        "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 424,
+        "seq": 424,
+        "eventStoryId": 198,
+        "unit": "idol",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 425,
+        "seq": 425,
+        "eventStoryId": 198,
+        "unit": "theme_park",
+        "eventStoryUnitRelation": "sub"
+    },
+    {
+        "id": 426,
+        "seq": 426,
+        "eventStoryId": 199,
+        "unit": "school_refusal",
+        "eventStoryUnitRelation": "main"
+    },
+    {
+        "id": 427,
+        "seq": 427,
+        "eventStoryId": 200,
+        "unit": "theme_park",
+        "eventStoryUnitRelation": "main"
     }
 ]

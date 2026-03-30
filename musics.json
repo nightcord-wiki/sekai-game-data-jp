@@ -10596,7 +10596,7 @@
         "assetbundleName": "jacket_s_474",
         "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
         "publishedAt": 1723035900000,
-        "releasedAt": 1470495600000,
+        "releasedAt": 1722956400000,
         "liveStageId": 1,
         "fillerSec": 9.0,
         "isNewlyWrittenMusic": true,
@@ -13401,7 +13401,8 @@
         "seq": 2657501,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "その絵の名前は",
         "pronunciation": "そのえのなまえは",
@@ -13425,7 +13426,8 @@
         "seq": 2557701,
         "releaseConditionId": 10,
         "categories": [
-            "mv"
+            "mv",
+            "mv_2d"
         ],
         "title": "征け",
         "pronunciation": "ゆけ",
@@ -14362,6 +14364,30 @@
         "isFullLength": false
     },
     {
+        "id": 643,
+        "seq": 1462101,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv"
+        ],
+        "title": "About me",
+        "pronunciation": "あばうとみー",
+        "creatorArtistId": 87,
+        "lyricist": "蝶々P",
+        "composer": "蝶々P",
+        "arranger": "蝶々P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_643",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1772344800000,
+        "releasedAt": 1391526000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 644,
         "seq": 1653901,
         "releaseConditionId": 5,
@@ -14747,6 +14773,30 @@
         "isFullLength": false
     },
     {
+        "id": 662,
+        "seq": 2662901,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv"
+        ],
+        "title": "告白",
+        "pronunciation": "こくはく",
+        "creatorArtistId": 316,
+        "lyricist": "内緒のピアス",
+        "composer": "内緒のピアス",
+        "arranger": "内緒のピアス",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_662",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1774703100000,
+        "releasedAt": 1774623600000,
+        "liveStageId": 1,
+        "fillerSec": 5.922999858856201,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 663,
         "seq": 1156001,
         "releaseConditionId": 5,
@@ -15110,6 +15160,30 @@
         "isFullLength": false
     },
     {
+        "id": 683,
+        "seq": 2362401,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "カラフルファンデーション",
+        "pronunciation": "からふるふぁんでーしょん",
+        "creatorArtistId": 2,
+        "lyricist": "みきとP",
+        "composer": "みきとP",
+        "arranger": "みきとP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_683",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1773122400000,
+        "releasedAt": 1773068400000,
+        "liveStageId": 1,
+        "fillerSec": 8.642900466918945,
+        "isNewlyWrittenMusic": true,
+        "isFullLength": false
+    },
+    {
         "id": 684,
         "seq": 2457801,
         "releaseConditionId": 10,
@@ -15331,6 +15405,30 @@
         "isFullLength": false
     },
     {
+        "id": 693,
+        "seq": 1362001,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "erase or zero",
+        "pronunciation": "いれーすおあぜろ",
+        "creatorArtistId": 315,
+        "lyricist": "HzEdge（クリスタルP）",
+        "composer": "HzEdge（クリスタルP）",
+        "arranger": "HzEdge（クリスタルP）",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_693",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1772258400000,
+        "releasedAt": 1210690800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 695,
         "seq": 2258201,
         "releaseConditionId": 10,
@@ -15427,6 +15525,30 @@
         "isFullLength": false
     },
     {
+        "id": 699,
+        "seq": 1162301,
+        "releaseConditionId": 10,
+        "categories": [
+            "original"
+        ],
+        "title": "Catch the Wave",
+        "pronunciation": "きゃっちざうぇーぶ",
+        "creatorArtistId": 1,
+        "lyricist": "kz",
+        "composer": "kz",
+        "arranger": "kz",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_699",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1773057600000,
+        "releasedAt": 1567004400000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 700,
         "seq": 1359301,
         "releaseConditionId": 5,
@@ -15447,6 +15569,55 @@
         "releasedAt": 1645714800000,
         "liveStageId": 1,
         "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 702,
+        "seq": 1262201,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ラムネ",
+        "pronunciation": "らむね",
+        "creatorArtistId": 78,
+        "lyricist": "Aqu3ra",
+        "composer": "Aqu3ra",
+        "arranger": "Aqu3ra",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_702",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1772776800000,
+        "releasedAt": 1563202800000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 703,
+        "seq": 1462501,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "バイオレンストリガー",
+        "pronunciation": "ばいおれんすとりがー",
+        "creatorArtistId": 56,
+        "lyricist": "八王子P",
+        "composer": "八王子P",
+        "arranger": "八王子P",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_703",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1773468000000,
+        "releasedAt": 1521385200000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "musicCollaborationId": 13,
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
@@ -15546,6 +15717,78 @@
         "liveStageId": 1,
         "fillerSec": 7.199999809265137,
         "musicCollaborationId": 12,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 711,
+        "seq": 1163201,
+        "releaseConditionId": 5,
+        "categories": [
+            "original"
+        ],
+        "title": "ワンダーラスト",
+        "pronunciation": "わんだーらすと",
+        "creatorArtistId": 65,
+        "lyricist": "sasakure.UK",
+        "composer": "sasakure.UK",
+        "arranger": "sasakure.UK",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_711",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1775109600000,
+        "releasedAt": 1233500400000,
+        "liveStageId": 1,
+        "fillerSec": 8.479000091552734,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 713,
+        "seq": 1163501,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "Nyanyanyanyanyanyanya!",
+        "pronunciation": "にゃにゃにゃにゃにゃにゃにゃ",
+        "creatorArtistId": 318,
+        "lyricist": "daniwellP",
+        "composer": "daniwellP",
+        "arranger": "daniwellP",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_713",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1775368800000,
+        "releasedAt": 1279983600000,
+        "liveStageId": 1,
+        "fillerSec": 8.577500343322754,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 714,
+        "seq": 1163401,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "フロイライン＝オジョウサマ",
+        "pronunciation": "ふろいらいんおじょうさま",
+        "creatorArtistId": 16,
+        "lyricist": "nyanyannya（大天才P）",
+        "composer": "nyanyannya（大天才P）",
+        "arranger": "nyanyannya（大天才P）",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_714",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1775282400000,
+        "releasedAt": 1661526000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
         "isNewlyWrittenMusic": false,
         "isFullLength": false
     },
@@ -15670,6 +15913,79 @@
         "isFullLength": false
     },
     {
+        "id": 721,
+        "seq": 1163301,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "あいしていたのに",
+        "pronunciation": "あいしていたのに",
+        "creatorArtistId": 183,
+        "lyricist": "MARETU",
+        "composer": "MARETU",
+        "arranger": "MARETU",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_721",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1775196000000,
+        "releasedAt": 1690470000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 722,
+        "seq": 1163101,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "ダイダイダイダイダイキライ",
+        "pronunciation": "だいだいだいだいだいきらい",
+        "creatorArtistId": 317,
+        "lyricist": "雨良 Amala",
+        "composer": "雨良 Amala",
+        "arranger": "雨良 Amala",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_722",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1774936800000,
+        "releasedAt": 1741964400000,
+        "liveStageId": 1,
+        "fillerSec": 7.6128997802734375,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 723,
+        "seq": 1662601,
+        "releaseConditionId": 5,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "ラヴィ",
+        "pronunciation": "らゔぃ",
+        "creatorArtistId": 45,
+        "lyricist": "すりぃ",
+        "composer": "すりぃ",
+        "arranger": "すりぃ",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_723",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1773554400000,
+        "releasedAt": 1661007600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "musicCollaborationId": 13,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
         "id": 724,
         "seq": 1161401,
         "releaseConditionId": 5,
@@ -15691,6 +16007,103 @@
         "liveStageId": 1,
         "fillerSec": 9.0,
         "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 726,
+        "seq": 1162701,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "アルカリレットウセイ",
+        "pronunciation": "あるかりれっとうせい",
+        "creatorArtistId": 81,
+        "lyricist": "かいりきベア",
+        "composer": "かいりきベア",
+        "arranger": "かいりきベア",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_726",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1773640800000,
+        "releasedAt": 1479999600000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "musicCollaborationId": 13,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 727,
+        "seq": 1163601,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "T氏の話を信じるな",
+        "pronunciation": "てぃーしのはなしをしんじるな",
+        "creatorArtistId": 25,
+        "lyricist": "ピノキオピー",
+        "composer": "ピノキオピー",
+        "arranger": "ピノキオピー",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_727",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1775455200000,
+        "releasedAt": 1750950000000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 732,
+        "seq": 1162801,
+        "releaseConditionId": 5,
+        "categories": [
+            "image"
+        ],
+        "title": "天藍のアイスヘヴン",
+        "pronunciation": "てんらんのあいすへゔん",
+        "creatorArtistId": 72,
+        "lyricist": "いるかアイス",
+        "composer": "いるかアイス",
+        "arranger": "いるかアイス",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_732",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1774245600000,
+        "releasedAt": 1764342000000,
+        "liveStageId": 1,
+        "fillerSec": 8.439299583435059,
+        "isNewlyWrittenMusic": false,
+        "isFullLength": false
+    },
+    {
+        "id": 735,
+        "seq": 2563001,
+        "releaseConditionId": 10,
+        "categories": [
+            "mv_2d"
+        ],
+        "title": "傀儡のうつつ",
+        "pronunciation": "くぐつのうつつ",
+        "creatorArtistId": 148,
+        "lyricist": "獅子志司",
+        "composer": "獅子志司",
+        "arranger": "獅子志司",
+        "dancerCount": 1,
+        "selfDancerPosition": 0,
+        "assetbundleName": "jacket_s_735",
+        "liveTalkBackgroundAssetbundleName": "bg_livetalk_default_002",
+        "publishedAt": 1774850400000,
+        "releasedAt": 1774796400000,
+        "liveStageId": 1,
+        "fillerSec": 9.0,
+        "isNewlyWrittenMusic": true,
         "isFullLength": false
     }
 ]

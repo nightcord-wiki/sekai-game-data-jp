@@ -4510,5 +4510,160 @@
                 "resourceBoxId": 221
             }
         ]
+    },
+    {
+        "id": 207,
+        "seq": 153,
+        "name": "ミクの日記念ログインキャンペーン",
+        "startAt": 1772982000000,
+        "endAt": 1773068399000,
+        "assetbundleName": "mikusday_2026",
+        "closeAt": 1773068399000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 366,
+                "limitedLoginBonusId": 207,
+                "day": 1,
+                "resourceBoxId": 222
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "seq": 154,
+        "name": "ホワイトデーログインキャンペーン",
+        "startAt": 1773414000000,
+        "endAt": 1773586799000,
+        "assetbundleName": "whiteday_2026",
+        "closeAt": 1773586799000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 367,
+                "limitedLoginBonusId": 208,
+                "day": 1,
+                "resourceBoxId": 223
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "seq": 155,
+        "name": "[プロジェクトセカイ×#コンパス]タイアップ記念ログインキャンペーン",
+        "startAt": 1773468000000,
+        "endAt": 1774364399000,
+        "assetbundleName": "compass_collabo_2026",
+        "closeAt": 1774364399000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 368,
+                "limitedLoginBonusId": 209,
+                "day": 1,
+                "resourceBoxId": 224
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "seq": 156,
+        "name": "もうすぐ5.5周年！ログインキャンペーン",
+        "startAt": 1774537200000,
+        "endAt": 1774623599000,
+        "assetbundleName": "5-5th_pre_anniversary",
+        "closeAt": 1774623599000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 369,
+                "limitedLoginBonusId": 210,
+                "day": 1,
+                "resourceBoxId": 225
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "seq": 157,
+        "name": "もうすぐ5.5周年！ログインキャンペーン",
+        "startAt": 1774623600000,
+        "endAt": 1774709999000,
+        "assetbundleName": "5-5th_pre_anniversary",
+        "closeAt": 1774709999000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 370,
+                "limitedLoginBonusId": 211,
+                "day": 1,
+                "resourceBoxId": 226
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "seq": 158,
+        "name": "もうすぐ5.5周年！ログインキャンペーン",
+        "startAt": 1774710000000,
+        "endAt": 1774796399000,
+        "assetbundleName": "5-5th_pre_anniversary",
+        "closeAt": 1774796399000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 371,
+                "limitedLoginBonusId": 212,
+                "day": 1,
+                "resourceBoxId": 227
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "seq": 159,
+        "name": "[5.5周年記念]ログインキャンペーン",
+        "startAt": 1774839600000,
+        "endAt": 1775933999000,
+        "assetbundleName": "5-5th_anniversary",
+        "closeAt": 1775415600000,
+        "limitedLoginBonusDetails": [
+            {
+                "id": 372,
+                "limitedLoginBonusId": 213,
+                "day": 1,
+                "resourceBoxId": 228
+            },
+            {
+                "id": 373,
+                "limitedLoginBonusId": 213,
+                "day": 2,
+                "resourceBoxId": 229
+            },
+            {
+                "id": 374,
+                "limitedLoginBonusId": 213,
+                "day": 3,
+                "resourceBoxId": 229
+            },
+            {
+                "id": 375,
+                "limitedLoginBonusId": 213,
+                "day": 4,
+                "resourceBoxId": 229
+            },
+            {
+                "id": 376,
+                "limitedLoginBonusId": 213,
+                "day": 5,
+                "resourceBoxId": 229
+            },
+            {
+                "id": 377,
+                "limitedLoginBonusId": 213,
+                "day": 6,
+                "resourceBoxId": 229
+            },
+            {
+                "id": 378,
+                "limitedLoginBonusId": 213,
+                "day": 7,
+                "resourceBoxId": 229
+            }
+        ]
     }
 ]

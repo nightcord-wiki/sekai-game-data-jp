@@ -390,6 +390,26 @@
         "mysekaiCharacterTalkConditionId": 1039
     },
     {
+        "id": 1040,
+        "groupId": 1040,
+        "mysekaiCharacterTalkConditionId": 1040
+    },
+    {
+        "id": 1041,
+        "groupId": 1041,
+        "mysekaiCharacterTalkConditionId": 1041
+    },
+    {
+        "id": 1042,
+        "groupId": 1042,
+        "mysekaiCharacterTalkConditionId": 1042
+    },
+    {
+        "id": 1043,
+        "groupId": 1043,
+        "mysekaiCharacterTalkConditionId": 1043
+    },
+    {
         "id": 100001,
         "groupId": 100001,
         "mysekaiCharacterTalkConditionId": 100001
@@ -4005,6 +4025,31 @@
         "mysekaiCharacterTalkConditionId": 100908
     },
     {
+        "id": 100909,
+        "groupId": 100909,
+        "mysekaiCharacterTalkConditionId": 100909
+    },
+    {
+        "id": 100910,
+        "groupId": 100910,
+        "mysekaiCharacterTalkConditionId": 100910
+    },
+    {
+        "id": 100911,
+        "groupId": 100911,
+        "mysekaiCharacterTalkConditionId": 100911
+    },
+    {
+        "id": 100912,
+        "groupId": 100912,
+        "mysekaiCharacterTalkConditionId": 100912
+    },
+    {
+        "id": 100913,
+        "groupId": 100913,
+        "mysekaiCharacterTalkConditionId": 100913
+    },
+    {
         "id": 100979,
         "groupId": 100979,
         "mysekaiCharacterTalkConditionId": 100979
@@ -4428,6 +4473,56 @@
         "id": 101145,
         "groupId": 101145,
         "mysekaiCharacterTalkConditionId": 101145
+    },
+    {
+        "id": 101146,
+        "groupId": 101146,
+        "mysekaiCharacterTalkConditionId": 101146
+    },
+    {
+        "id": 101147,
+        "groupId": 101147,
+        "mysekaiCharacterTalkConditionId": 101147
+    },
+    {
+        "id": 101148,
+        "groupId": 101148,
+        "mysekaiCharacterTalkConditionId": 101148
+    },
+    {
+        "id": 101149,
+        "groupId": 101149,
+        "mysekaiCharacterTalkConditionId": 101149
+    },
+    {
+        "id": 101150,
+        "groupId": 101150,
+        "mysekaiCharacterTalkConditionId": 101150
+    },
+    {
+        "id": 101151,
+        "groupId": 101151,
+        "mysekaiCharacterTalkConditionId": 101151
+    },
+    {
+        "id": 101152,
+        "groupId": 101152,
+        "mysekaiCharacterTalkConditionId": 101152
+    },
+    {
+        "id": 101153,
+        "groupId": 101153,
+        "mysekaiCharacterTalkConditionId": 101153
+    },
+    {
+        "id": 101154,
+        "groupId": 101154,
+        "mysekaiCharacterTalkConditionId": 101154
+    },
+    {
+        "id": 101155,
+        "groupId": 101155,
+        "mysekaiCharacterTalkConditionId": 101155
     },
     {
         "id": 900002,

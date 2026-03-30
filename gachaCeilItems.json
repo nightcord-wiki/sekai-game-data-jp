@@ -3422,5 +3422,61 @@
         "assetbundleName": "ceil_item_birthday",
         "convertStartAt": 1775196000000,
         "convertResourceBoxId": 2
+    },
+    {
+        "id": 515,
+        "gachaId": 915,
+        "name": "Lunatic doll in the boxガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1775703600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 516,
+        "gachaId": 917,
+        "name": "バックステージの秘密ガチャシール",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1776567600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 517,
+        "gachaId": 918,
+        "name": "[復刻]果てなき護るための戦いガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1776654000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 518,
+        "gachaId": 919,
+        "name": "[復刻]in my fairy taleガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1776654000000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 519,
+        "gachaId": 920,
+        "name": "[桃井愛莉]HAPPY BIRTHDAYガチャシール",
+        "assetbundleName": "ceil_item_birthday",
+        "convertStartAt": 1776664800000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 520,
+        "gachaId": 922,
+        "name": "ボクらの夜が目覚める前にガチャシール",
+        "assetbundleName": "ceil_item",
+        "convertStartAt": 1777431600000,
+        "convertResourceBoxId": 2
+    },
+    {
+        "id": 522,
+        "gachaId": 928,
+        "name": "5.5周年記念ガチャシール",
+        "assetbundleName": "ceil_item_limited",
+        "convertStartAt": 1778295600000,
+        "convertResourceBoxId": 2
     }
 ]

@@ -174,5 +174,38 @@
         "aggregateAt": 1772982000000,
         "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
         "backNumberAccentColorCode": "#ff6699"
+    },
+    {
+        "id": 17,
+        "name": "ミクとの思い出",
+        "description": "26年ミクの日記念",
+        "submitStartAt": 1772524800000,
+        "reviewStartAt": 1772524800000,
+        "submitEndAt": 1773068399000,
+        "aggregateAt": 1773068400000,
+        "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+        "backNumberAccentColorCode": "#9DE0E4"
+    },
+    {
+        "id": 18,
+        "name": "愛莉BIRTHDAYパーティー'26",
+        "description": "26年愛莉誕生日と連携したマイセカイ百景",
+        "submitStartAt": 1773846000000,
+        "reviewStartAt": 1773846000000,
+        "submitEndAt": 1774450799000,
+        "aggregateAt": 1774450800000,
+        "backgroundImageAssetbundleFileName": "bg_competition_contest_2",
+        "backNumberAccentColorCode": "#ffaacc"
+    },
+    {
+        "id": 19,
+        "name": "フラワーフェスティバル",
+        "description": "26年フラワーフェスティバルのマイセカイ百景",
+        "submitStartAt": 1775116800000,
+        "reviewStartAt": 1775116800000,
+        "submitEndAt": 1775635199000,
+        "aggregateAt": 1775635200000,
+        "backgroundImageAssetbundleFileName": "bg_competition_contest_1",
+        "backNumberAccentColorCode": "#F8CDE7"
     }
 ]

@@ -104735,5 +104735,2269 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 197,
+        "eventType": "marathon",
+        "name": "悪夢の庭を歌い明かして",
+        "assetbundleName": "event_nightmare_2026",
+        "bgmAssetbundleName": "event/event_nightmare_2026/bgm/event_nightmare_2026_top",
+        "eventPointAssetbundleName": "icon_point",
+        "eventOnlyComponentDisplayStartAt": 1772247600000,
+        "startAt": 1772258400000,
+        "aggregateAt": 1772971199000,
+        "rankingAnnounceAt": 1772971799000,
+        "distributionStartAt": 1773021599000,
+        "eventOnlyComponentDisplayEndAt": 1773111599000,
+        "closedAt": 1773122399000,
+        "distributionEndAt": 1774277999000,
+        "virtualLiveId": 458,
+        "unit": "none",
+        "isCountLeaderCharacterPlay": false,
+        "eventRankingRewardRanges": [
+            {
+                "id": 6023,
+                "eventId": 197,
+                "fromRank": 1,
+                "toRank": 1,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6563,
+                        "eventRankingRewardRangeId": 6023,
+                        "seq": 1,
+                        "resourceBoxId": 6237,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6024,
+                "eventId": 197,
+                "fromRank": 2,
+                "toRank": 2,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6564,
+                        "eventRankingRewardRangeId": 6024,
+                        "seq": 1,
+                        "resourceBoxId": 6238,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6025,
+                "eventId": 197,
+                "fromRank": 3,
+                "toRank": 3,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6565,
+                        "eventRankingRewardRangeId": 6025,
+                        "seq": 1,
+                        "resourceBoxId": 6239,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6026,
+                "eventId": 197,
+                "fromRank": 4,
+                "toRank": 4,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6566,
+                        "eventRankingRewardRangeId": 6026,
+                        "seq": 1,
+                        "resourceBoxId": 6240,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6027,
+                "eventId": 197,
+                "fromRank": 5,
+                "toRank": 5,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6567,
+                        "eventRankingRewardRangeId": 6027,
+                        "seq": 1,
+                        "resourceBoxId": 6241,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6028,
+                "eventId": 197,
+                "fromRank": 6,
+                "toRank": 6,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6568,
+                        "eventRankingRewardRangeId": 6028,
+                        "seq": 1,
+                        "resourceBoxId": 6242,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6029,
+                "eventId": 197,
+                "fromRank": 7,
+                "toRank": 7,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6569,
+                        "eventRankingRewardRangeId": 6029,
+                        "seq": 1,
+                        "resourceBoxId": 6243,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6030,
+                "eventId": 197,
+                "fromRank": 8,
+                "toRank": 8,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6570,
+                        "eventRankingRewardRangeId": 6030,
+                        "seq": 1,
+                        "resourceBoxId": 6244,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6031,
+                "eventId": 197,
+                "fromRank": 9,
+                "toRank": 9,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6571,
+                        "eventRankingRewardRangeId": 6031,
+                        "seq": 1,
+                        "resourceBoxId": 6245,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6032,
+                "eventId": 197,
+                "fromRank": 10,
+                "toRank": 10,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6572,
+                        "eventRankingRewardRangeId": 6032,
+                        "seq": 1,
+                        "resourceBoxId": 6246,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6033,
+                "eventId": 197,
+                "fromRank": 11,
+                "toRank": 20,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6573,
+                        "eventRankingRewardRangeId": 6033,
+                        "seq": 1,
+                        "resourceBoxId": 6247,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6034,
+                "eventId": 197,
+                "fromRank": 21,
+                "toRank": 30,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6574,
+                        "eventRankingRewardRangeId": 6034,
+                        "seq": 1,
+                        "resourceBoxId": 6248,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6035,
+                "eventId": 197,
+                "fromRank": 31,
+                "toRank": 40,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6575,
+                        "eventRankingRewardRangeId": 6035,
+                        "seq": 1,
+                        "resourceBoxId": 6249,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6036,
+                "eventId": 197,
+                "fromRank": 41,
+                "toRank": 50,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6576,
+                        "eventRankingRewardRangeId": 6036,
+                        "seq": 1,
+                        "resourceBoxId": 6250,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6037,
+                "eventId": 197,
+                "fromRank": 51,
+                "toRank": 100,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6577,
+                        "eventRankingRewardRangeId": 6037,
+                        "seq": 1,
+                        "resourceBoxId": 6251,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6038,
+                "eventId": 197,
+                "fromRank": 101,
+                "toRank": 200,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6578,
+                        "eventRankingRewardRangeId": 6038,
+                        "seq": 1,
+                        "resourceBoxId": 6252,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6039,
+                "eventId": 197,
+                "fromRank": 201,
+                "toRank": 300,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6579,
+                        "eventRankingRewardRangeId": 6039,
+                        "seq": 1,
+                        "resourceBoxId": 6253,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6040,
+                "eventId": 197,
+                "fromRank": 301,
+                "toRank": 400,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6580,
+                        "eventRankingRewardRangeId": 6040,
+                        "seq": 1,
+                        "resourceBoxId": 6254,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6041,
+                "eventId": 197,
+                "fromRank": 401,
+                "toRank": 500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6581,
+                        "eventRankingRewardRangeId": 6041,
+                        "seq": 1,
+                        "resourceBoxId": 6255,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6042,
+                "eventId": 197,
+                "fromRank": 501,
+                "toRank": 1000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6582,
+                        "eventRankingRewardRangeId": 6042,
+                        "seq": 1,
+                        "resourceBoxId": 6256,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6043,
+                "eventId": 197,
+                "fromRank": 1001,
+                "toRank": 1500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6583,
+                        "eventRankingRewardRangeId": 6043,
+                        "seq": 1,
+                        "resourceBoxId": 6257,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6044,
+                "eventId": 197,
+                "fromRank": 1501,
+                "toRank": 2000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6584,
+                        "eventRankingRewardRangeId": 6044,
+                        "seq": 1,
+                        "resourceBoxId": 6258,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6045,
+                "eventId": 197,
+                "fromRank": 2001,
+                "toRank": 2500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6585,
+                        "eventRankingRewardRangeId": 6045,
+                        "seq": 1,
+                        "resourceBoxId": 6259,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6046,
+                "eventId": 197,
+                "fromRank": 2501,
+                "toRank": 3000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6586,
+                        "eventRankingRewardRangeId": 6046,
+                        "seq": 1,
+                        "resourceBoxId": 6260,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6047,
+                "eventId": 197,
+                "fromRank": 3001,
+                "toRank": 4000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6587,
+                        "eventRankingRewardRangeId": 6047,
+                        "seq": 1,
+                        "resourceBoxId": 6261,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6048,
+                "eventId": 197,
+                "fromRank": 4001,
+                "toRank": 5000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6588,
+                        "eventRankingRewardRangeId": 6048,
+                        "seq": 1,
+                        "resourceBoxId": 6262,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6049,
+                "eventId": 197,
+                "fromRank": 5001,
+                "toRank": 10000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6589,
+                        "eventRankingRewardRangeId": 6049,
+                        "seq": 1,
+                        "resourceBoxId": 6263,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6050,
+                "eventId": 197,
+                "fromRank": 10001,
+                "toRank": 20000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6590,
+                        "eventRankingRewardRangeId": 6050,
+                        "seq": 1,
+                        "resourceBoxId": 6264,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6051,
+                "eventId": 197,
+                "fromRank": 20001,
+                "toRank": 30000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6591,
+                        "eventRankingRewardRangeId": 6051,
+                        "seq": 1,
+                        "resourceBoxId": 6265,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6052,
+                "eventId": 197,
+                "fromRank": 30001,
+                "toRank": 40000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6592,
+                        "eventRankingRewardRangeId": 6052,
+                        "seq": 1,
+                        "resourceBoxId": 6266,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6053,
+                "eventId": 197,
+                "fromRank": 40001,
+                "toRank": 50000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6593,
+                        "eventRankingRewardRangeId": 6053,
+                        "seq": 1,
+                        "resourceBoxId": 6267,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6054,
+                "eventId": 197,
+                "fromRank": 50001,
+                "toRank": 100000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6594,
+                        "eventRankingRewardRangeId": 6054,
+                        "seq": 1,
+                        "resourceBoxId": 6268,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6055,
+                "eventId": 197,
+                "fromRank": 100001,
+                "toRank": 200000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6595,
+                        "eventRankingRewardRangeId": 6055,
+                        "seq": 1,
+                        "resourceBoxId": 6269,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6056,
+                "eventId": 197,
+                "fromRank": 200001,
+                "toRank": 300000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6596,
+                        "eventRankingRewardRangeId": 6056,
+                        "seq": 1,
+                        "resourceBoxId": 6270,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            }
+        ],
+        "eventBreakTimeId": 1
+    },
+    {
+        "id": 198,
+        "eventType": "marathon",
+        "name": "Open up new horizons！",
+        "assetbundleName": "event_horizons_2026",
+        "bgmAssetbundleName": "event/event_horizons_2026/bgm/event_horizons_2026_top",
+        "eventPointAssetbundleName": "icon_point",
+        "eventOnlyComponentDisplayStartAt": 1773111600000,
+        "startAt": 1773122400000,
+        "aggregateAt": 1773835199000,
+        "rankingAnnounceAt": 1773835799000,
+        "distributionStartAt": 1773885599000,
+        "eventOnlyComponentDisplayEndAt": 1773975599000,
+        "closedAt": 1773986399000,
+        "distributionEndAt": 1775141999000,
+        "virtualLiveId": 459,
+        "unit": "idol",
+        "isCountLeaderCharacterPlay": false,
+        "eventRankingRewardRanges": [
+            {
+                "id": 6057,
+                "eventId": 198,
+                "fromRank": 1,
+                "toRank": 1,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6597,
+                        "eventRankingRewardRangeId": 6057,
+                        "seq": 1,
+                        "resourceBoxId": 6271,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6058,
+                "eventId": 198,
+                "fromRank": 2,
+                "toRank": 2,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6598,
+                        "eventRankingRewardRangeId": 6058,
+                        "seq": 1,
+                        "resourceBoxId": 6272,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6059,
+                "eventId": 198,
+                "fromRank": 3,
+                "toRank": 3,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6599,
+                        "eventRankingRewardRangeId": 6059,
+                        "seq": 1,
+                        "resourceBoxId": 6273,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6060,
+                "eventId": 198,
+                "fromRank": 4,
+                "toRank": 4,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6600,
+                        "eventRankingRewardRangeId": 6060,
+                        "seq": 1,
+                        "resourceBoxId": 6274,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6061,
+                "eventId": 198,
+                "fromRank": 5,
+                "toRank": 5,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6601,
+                        "eventRankingRewardRangeId": 6061,
+                        "seq": 1,
+                        "resourceBoxId": 6275,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6062,
+                "eventId": 198,
+                "fromRank": 6,
+                "toRank": 6,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6602,
+                        "eventRankingRewardRangeId": 6062,
+                        "seq": 1,
+                        "resourceBoxId": 6276,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6063,
+                "eventId": 198,
+                "fromRank": 7,
+                "toRank": 7,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6603,
+                        "eventRankingRewardRangeId": 6063,
+                        "seq": 1,
+                        "resourceBoxId": 6277,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6064,
+                "eventId": 198,
+                "fromRank": 8,
+                "toRank": 8,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6604,
+                        "eventRankingRewardRangeId": 6064,
+                        "seq": 1,
+                        "resourceBoxId": 6278,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6065,
+                "eventId": 198,
+                "fromRank": 9,
+                "toRank": 9,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6605,
+                        "eventRankingRewardRangeId": 6065,
+                        "seq": 1,
+                        "resourceBoxId": 6279,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6066,
+                "eventId": 198,
+                "fromRank": 10,
+                "toRank": 10,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6606,
+                        "eventRankingRewardRangeId": 6066,
+                        "seq": 1,
+                        "resourceBoxId": 6280,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6067,
+                "eventId": 198,
+                "fromRank": 11,
+                "toRank": 20,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6607,
+                        "eventRankingRewardRangeId": 6067,
+                        "seq": 1,
+                        "resourceBoxId": 6281,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6068,
+                "eventId": 198,
+                "fromRank": 21,
+                "toRank": 30,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6608,
+                        "eventRankingRewardRangeId": 6068,
+                        "seq": 1,
+                        "resourceBoxId": 6282,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6069,
+                "eventId": 198,
+                "fromRank": 31,
+                "toRank": 40,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6609,
+                        "eventRankingRewardRangeId": 6069,
+                        "seq": 1,
+                        "resourceBoxId": 6283,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6070,
+                "eventId": 198,
+                "fromRank": 41,
+                "toRank": 50,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6610,
+                        "eventRankingRewardRangeId": 6070,
+                        "seq": 1,
+                        "resourceBoxId": 6284,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6071,
+                "eventId": 198,
+                "fromRank": 51,
+                "toRank": 100,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6611,
+                        "eventRankingRewardRangeId": 6071,
+                        "seq": 1,
+                        "resourceBoxId": 6285,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6072,
+                "eventId": 198,
+                "fromRank": 101,
+                "toRank": 200,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6612,
+                        "eventRankingRewardRangeId": 6072,
+                        "seq": 1,
+                        "resourceBoxId": 6286,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6073,
+                "eventId": 198,
+                "fromRank": 201,
+                "toRank": 300,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6613,
+                        "eventRankingRewardRangeId": 6073,
+                        "seq": 1,
+                        "resourceBoxId": 6287,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6074,
+                "eventId": 198,
+                "fromRank": 301,
+                "toRank": 400,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6614,
+                        "eventRankingRewardRangeId": 6074,
+                        "seq": 1,
+                        "resourceBoxId": 6288,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6075,
+                "eventId": 198,
+                "fromRank": 401,
+                "toRank": 500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6615,
+                        "eventRankingRewardRangeId": 6075,
+                        "seq": 1,
+                        "resourceBoxId": 6289,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6076,
+                "eventId": 198,
+                "fromRank": 501,
+                "toRank": 1000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6616,
+                        "eventRankingRewardRangeId": 6076,
+                        "seq": 1,
+                        "resourceBoxId": 6290,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6077,
+                "eventId": 198,
+                "fromRank": 1001,
+                "toRank": 1500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6617,
+                        "eventRankingRewardRangeId": 6077,
+                        "seq": 1,
+                        "resourceBoxId": 6291,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6078,
+                "eventId": 198,
+                "fromRank": 1501,
+                "toRank": 2000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6618,
+                        "eventRankingRewardRangeId": 6078,
+                        "seq": 1,
+                        "resourceBoxId": 6292,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6079,
+                "eventId": 198,
+                "fromRank": 2001,
+                "toRank": 2500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6619,
+                        "eventRankingRewardRangeId": 6079,
+                        "seq": 1,
+                        "resourceBoxId": 6293,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6080,
+                "eventId": 198,
+                "fromRank": 2501,
+                "toRank": 3000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6620,
+                        "eventRankingRewardRangeId": 6080,
+                        "seq": 1,
+                        "resourceBoxId": 6294,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6081,
+                "eventId": 198,
+                "fromRank": 3001,
+                "toRank": 4000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6621,
+                        "eventRankingRewardRangeId": 6081,
+                        "seq": 1,
+                        "resourceBoxId": 6295,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6082,
+                "eventId": 198,
+                "fromRank": 4001,
+                "toRank": 5000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6622,
+                        "eventRankingRewardRangeId": 6082,
+                        "seq": 1,
+                        "resourceBoxId": 6296,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6083,
+                "eventId": 198,
+                "fromRank": 5001,
+                "toRank": 10000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6623,
+                        "eventRankingRewardRangeId": 6083,
+                        "seq": 1,
+                        "resourceBoxId": 6297,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6084,
+                "eventId": 198,
+                "fromRank": 10001,
+                "toRank": 20000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6624,
+                        "eventRankingRewardRangeId": 6084,
+                        "seq": 1,
+                        "resourceBoxId": 6298,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6085,
+                "eventId": 198,
+                "fromRank": 20001,
+                "toRank": 30000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6625,
+                        "eventRankingRewardRangeId": 6085,
+                        "seq": 1,
+                        "resourceBoxId": 6299,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6086,
+                "eventId": 198,
+                "fromRank": 30001,
+                "toRank": 40000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6626,
+                        "eventRankingRewardRangeId": 6086,
+                        "seq": 1,
+                        "resourceBoxId": 6300,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6087,
+                "eventId": 198,
+                "fromRank": 40001,
+                "toRank": 50000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6627,
+                        "eventRankingRewardRangeId": 6087,
+                        "seq": 1,
+                        "resourceBoxId": 6301,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6088,
+                "eventId": 198,
+                "fromRank": 50001,
+                "toRank": 100000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6628,
+                        "eventRankingRewardRangeId": 6088,
+                        "seq": 1,
+                        "resourceBoxId": 6302,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6089,
+                "eventId": 198,
+                "fromRank": 100001,
+                "toRank": 200000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6629,
+                        "eventRankingRewardRangeId": 6089,
+                        "seq": 1,
+                        "resourceBoxId": 6303,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6090,
+                "eventId": 198,
+                "fromRank": 200001,
+                "toRank": 300000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6630,
+                        "eventRankingRewardRangeId": 6090,
+                        "seq": 1,
+                        "resourceBoxId": 6304,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            }
+        ],
+        "eventBreakTimeId": 2
+    },
+    {
+        "id": 199,
+        "eventType": "marathon",
+        "name": "Amid the Wavering Light",
+        "assetbundleName": "event_wavering_2026",
+        "bgmAssetbundleName": "event/event_wavering_2026/bgm/event_wavering_2026_top",
+        "eventPointAssetbundleName": "icon_point",
+        "eventOnlyComponentDisplayStartAt": 1773975600000,
+        "startAt": 1773986400000,
+        "aggregateAt": 1774699199000,
+        "rankingAnnounceAt": 1774699799000,
+        "distributionStartAt": 1774749599000,
+        "eventOnlyComponentDisplayEndAt": 1774839599000,
+        "closedAt": 1774850399000,
+        "distributionEndAt": 1776005999000,
+        "virtualLiveId": 461,
+        "unit": "school_refusal",
+        "isCountLeaderCharacterPlay": false,
+        "eventRankingRewardRanges": [
+            {
+                "id": 6091,
+                "eventId": 199,
+                "fromRank": 1,
+                "toRank": 1,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6631,
+                        "eventRankingRewardRangeId": 6091,
+                        "seq": 1,
+                        "resourceBoxId": 6305,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6092,
+                "eventId": 199,
+                "fromRank": 2,
+                "toRank": 2,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6632,
+                        "eventRankingRewardRangeId": 6092,
+                        "seq": 1,
+                        "resourceBoxId": 6306,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6093,
+                "eventId": 199,
+                "fromRank": 3,
+                "toRank": 3,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6633,
+                        "eventRankingRewardRangeId": 6093,
+                        "seq": 1,
+                        "resourceBoxId": 6307,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6094,
+                "eventId": 199,
+                "fromRank": 4,
+                "toRank": 4,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6634,
+                        "eventRankingRewardRangeId": 6094,
+                        "seq": 1,
+                        "resourceBoxId": 6308,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6095,
+                "eventId": 199,
+                "fromRank": 5,
+                "toRank": 5,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6635,
+                        "eventRankingRewardRangeId": 6095,
+                        "seq": 1,
+                        "resourceBoxId": 6309,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6096,
+                "eventId": 199,
+                "fromRank": 6,
+                "toRank": 6,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6636,
+                        "eventRankingRewardRangeId": 6096,
+                        "seq": 1,
+                        "resourceBoxId": 6310,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6097,
+                "eventId": 199,
+                "fromRank": 7,
+                "toRank": 7,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6637,
+                        "eventRankingRewardRangeId": 6097,
+                        "seq": 1,
+                        "resourceBoxId": 6311,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6098,
+                "eventId": 199,
+                "fromRank": 8,
+                "toRank": 8,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6638,
+                        "eventRankingRewardRangeId": 6098,
+                        "seq": 1,
+                        "resourceBoxId": 6312,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6099,
+                "eventId": 199,
+                "fromRank": 9,
+                "toRank": 9,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6639,
+                        "eventRankingRewardRangeId": 6099,
+                        "seq": 1,
+                        "resourceBoxId": 6313,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6100,
+                "eventId": 199,
+                "fromRank": 10,
+                "toRank": 10,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6640,
+                        "eventRankingRewardRangeId": 6100,
+                        "seq": 1,
+                        "resourceBoxId": 6314,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6101,
+                "eventId": 199,
+                "fromRank": 11,
+                "toRank": 20,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6641,
+                        "eventRankingRewardRangeId": 6101,
+                        "seq": 1,
+                        "resourceBoxId": 6315,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6102,
+                "eventId": 199,
+                "fromRank": 21,
+                "toRank": 30,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6642,
+                        "eventRankingRewardRangeId": 6102,
+                        "seq": 1,
+                        "resourceBoxId": 6316,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6103,
+                "eventId": 199,
+                "fromRank": 31,
+                "toRank": 40,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6643,
+                        "eventRankingRewardRangeId": 6103,
+                        "seq": 1,
+                        "resourceBoxId": 6317,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6104,
+                "eventId": 199,
+                "fromRank": 41,
+                "toRank": 50,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6644,
+                        "eventRankingRewardRangeId": 6104,
+                        "seq": 1,
+                        "resourceBoxId": 6318,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6105,
+                "eventId": 199,
+                "fromRank": 51,
+                "toRank": 100,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6645,
+                        "eventRankingRewardRangeId": 6105,
+                        "seq": 1,
+                        "resourceBoxId": 6319,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6106,
+                "eventId": 199,
+                "fromRank": 101,
+                "toRank": 200,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6646,
+                        "eventRankingRewardRangeId": 6106,
+                        "seq": 1,
+                        "resourceBoxId": 6320,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6107,
+                "eventId": 199,
+                "fromRank": 201,
+                "toRank": 300,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6647,
+                        "eventRankingRewardRangeId": 6107,
+                        "seq": 1,
+                        "resourceBoxId": 6321,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6108,
+                "eventId": 199,
+                "fromRank": 301,
+                "toRank": 400,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6648,
+                        "eventRankingRewardRangeId": 6108,
+                        "seq": 1,
+                        "resourceBoxId": 6322,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6109,
+                "eventId": 199,
+                "fromRank": 401,
+                "toRank": 500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6649,
+                        "eventRankingRewardRangeId": 6109,
+                        "seq": 1,
+                        "resourceBoxId": 6323,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6110,
+                "eventId": 199,
+                "fromRank": 501,
+                "toRank": 1000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6650,
+                        "eventRankingRewardRangeId": 6110,
+                        "seq": 1,
+                        "resourceBoxId": 6324,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6111,
+                "eventId": 199,
+                "fromRank": 1001,
+                "toRank": 1500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6651,
+                        "eventRankingRewardRangeId": 6111,
+                        "seq": 1,
+                        "resourceBoxId": 6325,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6112,
+                "eventId": 199,
+                "fromRank": 1501,
+                "toRank": 2000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6652,
+                        "eventRankingRewardRangeId": 6112,
+                        "seq": 1,
+                        "resourceBoxId": 6326,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6113,
+                "eventId": 199,
+                "fromRank": 2001,
+                "toRank": 2500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6653,
+                        "eventRankingRewardRangeId": 6113,
+                        "seq": 1,
+                        "resourceBoxId": 6327,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6114,
+                "eventId": 199,
+                "fromRank": 2501,
+                "toRank": 3000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6654,
+                        "eventRankingRewardRangeId": 6114,
+                        "seq": 1,
+                        "resourceBoxId": 6328,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6115,
+                "eventId": 199,
+                "fromRank": 3001,
+                "toRank": 4000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6655,
+                        "eventRankingRewardRangeId": 6115,
+                        "seq": 1,
+                        "resourceBoxId": 6329,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6116,
+                "eventId": 199,
+                "fromRank": 4001,
+                "toRank": 5000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6656,
+                        "eventRankingRewardRangeId": 6116,
+                        "seq": 1,
+                        "resourceBoxId": 6330,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6117,
+                "eventId": 199,
+                "fromRank": 5001,
+                "toRank": 10000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6657,
+                        "eventRankingRewardRangeId": 6117,
+                        "seq": 1,
+                        "resourceBoxId": 6331,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6118,
+                "eventId": 199,
+                "fromRank": 10001,
+                "toRank": 20000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6658,
+                        "eventRankingRewardRangeId": 6118,
+                        "seq": 1,
+                        "resourceBoxId": 6332,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6119,
+                "eventId": 199,
+                "fromRank": 20001,
+                "toRank": 30000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6659,
+                        "eventRankingRewardRangeId": 6119,
+                        "seq": 1,
+                        "resourceBoxId": 6333,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6120,
+                "eventId": 199,
+                "fromRank": 30001,
+                "toRank": 40000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6660,
+                        "eventRankingRewardRangeId": 6120,
+                        "seq": 1,
+                        "resourceBoxId": 6334,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6121,
+                "eventId": 199,
+                "fromRank": 40001,
+                "toRank": 50000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6661,
+                        "eventRankingRewardRangeId": 6121,
+                        "seq": 1,
+                        "resourceBoxId": 6335,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6122,
+                "eventId": 199,
+                "fromRank": 50001,
+                "toRank": 100000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6662,
+                        "eventRankingRewardRangeId": 6122,
+                        "seq": 1,
+                        "resourceBoxId": 6336,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6123,
+                "eventId": 199,
+                "fromRank": 100001,
+                "toRank": 200000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6663,
+                        "eventRankingRewardRangeId": 6123,
+                        "seq": 1,
+                        "resourceBoxId": 6337,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6124,
+                "eventId": 199,
+                "fromRank": 200001,
+                "toRank": 300000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6664,
+                        "eventRankingRewardRangeId": 6124,
+                        "seq": 1,
+                        "resourceBoxId": 6338,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            }
+        ],
+        "eventBreakTimeId": 2
+    },
+    {
+        "id": 200,
+        "eventType": "marathon",
+        "name": "残照のInside Direction",
+        "assetbundleName": "event_direction_2026",
+        "bgmAssetbundleName": "event/event_direction_2026/bgm/event_direction_2026_top",
+        "eventPointAssetbundleName": "icon_point",
+        "eventOnlyComponentDisplayStartAt": 1774839600000,
+        "startAt": 1774850400000,
+        "aggregateAt": 1775563199000,
+        "rankingAnnounceAt": 1775563799000,
+        "distributionStartAt": 1775613599000,
+        "eventOnlyComponentDisplayEndAt": 1775703599000,
+        "closedAt": 1775714399000,
+        "distributionEndAt": 1776869999000,
+        "virtualLiveId": 462,
+        "unit": "theme_park",
+        "isCountLeaderCharacterPlay": false,
+        "eventRankingRewardRanges": [
+            {
+                "id": 6125,
+                "eventId": 200,
+                "fromRank": 1,
+                "toRank": 1,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6665,
+                        "eventRankingRewardRangeId": 6125,
+                        "seq": 1,
+                        "resourceBoxId": 6339,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6126,
+                "eventId": 200,
+                "fromRank": 2,
+                "toRank": 2,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6666,
+                        "eventRankingRewardRangeId": 6126,
+                        "seq": 1,
+                        "resourceBoxId": 6340,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6127,
+                "eventId": 200,
+                "fromRank": 3,
+                "toRank": 3,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6667,
+                        "eventRankingRewardRangeId": 6127,
+                        "seq": 1,
+                        "resourceBoxId": 6341,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6128,
+                "eventId": 200,
+                "fromRank": 4,
+                "toRank": 4,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6668,
+                        "eventRankingRewardRangeId": 6128,
+                        "seq": 1,
+                        "resourceBoxId": 6342,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6129,
+                "eventId": 200,
+                "fromRank": 5,
+                "toRank": 5,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6669,
+                        "eventRankingRewardRangeId": 6129,
+                        "seq": 1,
+                        "resourceBoxId": 6343,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6130,
+                "eventId": 200,
+                "fromRank": 6,
+                "toRank": 6,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6670,
+                        "eventRankingRewardRangeId": 6130,
+                        "seq": 1,
+                        "resourceBoxId": 6344,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6131,
+                "eventId": 200,
+                "fromRank": 7,
+                "toRank": 7,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6671,
+                        "eventRankingRewardRangeId": 6131,
+                        "seq": 1,
+                        "resourceBoxId": 6345,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6132,
+                "eventId": 200,
+                "fromRank": 8,
+                "toRank": 8,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6672,
+                        "eventRankingRewardRangeId": 6132,
+                        "seq": 1,
+                        "resourceBoxId": 6346,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6133,
+                "eventId": 200,
+                "fromRank": 9,
+                "toRank": 9,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6673,
+                        "eventRankingRewardRangeId": 6133,
+                        "seq": 1,
+                        "resourceBoxId": 6347,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6134,
+                "eventId": 200,
+                "fromRank": 10,
+                "toRank": 10,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6674,
+                        "eventRankingRewardRangeId": 6134,
+                        "seq": 1,
+                        "resourceBoxId": 6348,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6135,
+                "eventId": 200,
+                "fromRank": 11,
+                "toRank": 20,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6675,
+                        "eventRankingRewardRangeId": 6135,
+                        "seq": 1,
+                        "resourceBoxId": 6349,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6136,
+                "eventId": 200,
+                "fromRank": 21,
+                "toRank": 30,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6676,
+                        "eventRankingRewardRangeId": 6136,
+                        "seq": 1,
+                        "resourceBoxId": 6350,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6137,
+                "eventId": 200,
+                "fromRank": 31,
+                "toRank": 40,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6677,
+                        "eventRankingRewardRangeId": 6137,
+                        "seq": 1,
+                        "resourceBoxId": 6351,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6138,
+                "eventId": 200,
+                "fromRank": 41,
+                "toRank": 50,
+                "isToRankBorder": false,
+                "eventRankingRewards": [
+                    {
+                        "id": 6678,
+                        "eventRankingRewardRangeId": 6138,
+                        "seq": 1,
+                        "resourceBoxId": 6352,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6139,
+                "eventId": 200,
+                "fromRank": 51,
+                "toRank": 100,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6679,
+                        "eventRankingRewardRangeId": 6139,
+                        "seq": 1,
+                        "resourceBoxId": 6353,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6140,
+                "eventId": 200,
+                "fromRank": 101,
+                "toRank": 200,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6680,
+                        "eventRankingRewardRangeId": 6140,
+                        "seq": 1,
+                        "resourceBoxId": 6354,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6141,
+                "eventId": 200,
+                "fromRank": 201,
+                "toRank": 300,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6681,
+                        "eventRankingRewardRangeId": 6141,
+                        "seq": 1,
+                        "resourceBoxId": 6355,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6142,
+                "eventId": 200,
+                "fromRank": 301,
+                "toRank": 400,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6682,
+                        "eventRankingRewardRangeId": 6142,
+                        "seq": 1,
+                        "resourceBoxId": 6356,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6143,
+                "eventId": 200,
+                "fromRank": 401,
+                "toRank": 500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6683,
+                        "eventRankingRewardRangeId": 6143,
+                        "seq": 1,
+                        "resourceBoxId": 6357,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6144,
+                "eventId": 200,
+                "fromRank": 501,
+                "toRank": 1000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6684,
+                        "eventRankingRewardRangeId": 6144,
+                        "seq": 1,
+                        "resourceBoxId": 6358,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6145,
+                "eventId": 200,
+                "fromRank": 1001,
+                "toRank": 1500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6685,
+                        "eventRankingRewardRangeId": 6145,
+                        "seq": 1,
+                        "resourceBoxId": 6359,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6146,
+                "eventId": 200,
+                "fromRank": 1501,
+                "toRank": 2000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6686,
+                        "eventRankingRewardRangeId": 6146,
+                        "seq": 1,
+                        "resourceBoxId": 6360,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6147,
+                "eventId": 200,
+                "fromRank": 2001,
+                "toRank": 2500,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6687,
+                        "eventRankingRewardRangeId": 6147,
+                        "seq": 1,
+                        "resourceBoxId": 6361,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6148,
+                "eventId": 200,
+                "fromRank": 2501,
+                "toRank": 3000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6688,
+                        "eventRankingRewardRangeId": 6148,
+                        "seq": 1,
+                        "resourceBoxId": 6362,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6149,
+                "eventId": 200,
+                "fromRank": 3001,
+                "toRank": 4000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6689,
+                        "eventRankingRewardRangeId": 6149,
+                        "seq": 1,
+                        "resourceBoxId": 6363,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6150,
+                "eventId": 200,
+                "fromRank": 4001,
+                "toRank": 5000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6690,
+                        "eventRankingRewardRangeId": 6150,
+                        "seq": 1,
+                        "resourceBoxId": 6364,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6151,
+                "eventId": 200,
+                "fromRank": 5001,
+                "toRank": 10000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6691,
+                        "eventRankingRewardRangeId": 6151,
+                        "seq": 1,
+                        "resourceBoxId": 6365,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6152,
+                "eventId": 200,
+                "fromRank": 10001,
+                "toRank": 20000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6692,
+                        "eventRankingRewardRangeId": 6152,
+                        "seq": 1,
+                        "resourceBoxId": 6366,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6153,
+                "eventId": 200,
+                "fromRank": 20001,
+                "toRank": 30000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6693,
+                        "eventRankingRewardRangeId": 6153,
+                        "seq": 1,
+                        "resourceBoxId": 6367,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6154,
+                "eventId": 200,
+                "fromRank": 30001,
+                "toRank": 40000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6694,
+                        "eventRankingRewardRangeId": 6154,
+                        "seq": 1,
+                        "resourceBoxId": 6368,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6155,
+                "eventId": 200,
+                "fromRank": 40001,
+                "toRank": 50000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6695,
+                        "eventRankingRewardRangeId": 6155,
+                        "seq": 1,
+                        "resourceBoxId": 6369,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6156,
+                "eventId": 200,
+                "fromRank": 50001,
+                "toRank": 100000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6696,
+                        "eventRankingRewardRangeId": 6156,
+                        "seq": 1,
+                        "resourceBoxId": 6370,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6157,
+                "eventId": 200,
+                "fromRank": 100001,
+                "toRank": 200000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6697,
+                        "eventRankingRewardRangeId": 6157,
+                        "seq": 1,
+                        "resourceBoxId": 6371,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            },
+            {
+                "id": 6158,
+                "eventId": 200,
+                "fromRank": 200001,
+                "toRank": 300000,
+                "isToRankBorder": true,
+                "eventRankingRewards": [
+                    {
+                        "id": 6698,
+                        "eventRankingRewardRangeId": 6158,
+                        "seq": 1,
+                        "resourceBoxId": 6372,
+                        "rewardConditionType": "none"
+                    }
+                ]
+            }
+        ],
+        "eventBreakTimeId": 2
     }
 ]
